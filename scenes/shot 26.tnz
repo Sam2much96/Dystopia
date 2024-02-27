@@ -1,0 +1,1482 @@
+<tnz framecount="82" version="71.0">
+  <generator>
+    "OpenToonz 1.2.0"
+  </generator>
+  <properties>
+    <cameras>
+      <camera>
+        <cameraSize>
+          16 9 
+        </cameraSize>
+        <cameraRes>
+          1920 1080 
+        </cameraRes>
+        <cameraXPrevalence>
+          1 
+        </cameraXPrevalence>
+        <interestRect>
+          0 0 -1 -1 
+        </interestRect>
+        </camera>
+      </cameras>
+    <outputs>
+      <output name="main">
+        <range>
+          0 -1 
+        </range>
+        <step>
+          1 
+        </step>
+        <shrink>
+          1 
+        </shrink>
+        <applyShrinkToViewer>
+          0 
+        </applyShrinkToViewer>
+        <fps>
+          24 
+        </fps>
+        <path>
+          "+outputs/.tif"
+        </path>
+        <bpp>
+          32 
+        </bpp>
+        <multimedia>
+          0 
+        </multimedia>
+        <threadsIndex>
+          2 
+        </threadsIndex>
+        <maxTileSizeIndex>
+          0 
+        </maxTileSizeIndex>
+        <subcameraPrev>
+          0 
+        </subcameraPrev>
+        <stereoscopic>
+          0 0.05 
+        </stereoscopic>
+        <resquality>
+          0 
+        </resquality>
+        <fieldprevalence>
+          0 
+        </fieldprevalence>
+        <gamma>
+          1 
+        </gamma>
+        <timestretch>
+          25 25 
+        </timestretch>
+        <formatsProperties>
+          <formatProperties ext="mp4">
+            <property max="100" min="1" name="Quality" type="int" value="90"/>
+            <property max="100" min="1" name="Scale" type="int" value="100"/>
+            </formatProperties>
+          <formatProperties ext="tif">
+            <property name="Byte Ordering" type="enum" value="Mac">
+              <item value="IBM PC"/>
+              <item value="Mac"/>
+              </property>
+            <property name="Compression Type" type="enum" value="Lempel-Ziv & Welch encoding">
+              <item value="Lempel-Ziv & Welch encoding"/>
+              <item value="None"/>
+              <item value="Macintosh Run-length encoding"/>
+              <item value="ThunderScan Run-length encoding"/>
+              <item value="CCITT Group 3 fax encoding"/>
+              <item value="CCITT Group 4 fax encoding"/>
+              <item value="CCITT modified Huffman Run-length encoding"/>
+              <item value="JPEG compression"/>
+              <item value="JPEG compression 6.0"/>
+              <item value="SGILog"/>
+              <item value="SGILog24"/>
+              <item value="8"/>
+              <item value="zip"/>
+              <item value="Unknown"/>
+              </property>
+            <property name="Bits Per Pixel" type="enum" value="32(RGBM)">
+              <item value="24(RGB)"/>
+              <item value="48(RGB)"/>
+              <item value=" 1(BW)"/>
+              <item value=" 8(GREYTONES)"/>
+              <item value="32(RGBM)"/>
+              <item value="64(RGBM)"/>
+              </property>
+            <property name="Orientation" type="enum" value="Top Left">
+              <item value="Top Left"/>
+              <item value="Top Right"/>
+              <item value="Bottom Right"/>
+              <item value="Bottom Left"/>
+              <item value="Left Top"/>
+              <item value="Right Top"/>
+              <item value="Right Bottom"/>
+              <item value="Left Bottom"/>
+              </property>
+            </formatProperties>
+          </formatsProperties>
+        </output>
+      <output name="preview">
+        <range>
+          0 81 
+        </range>
+        <step>
+          1 
+        </step>
+        <shrink>
+          1 
+        </shrink>
+        <applyShrinkToViewer>
+          0 
+        </applyShrinkToViewer>
+        <fps>
+          24 
+        </fps>
+        <path>
+          "+outputs/.tif"
+        </path>
+        <bpp>
+          32 
+        </bpp>
+        <multimedia>
+          0 
+        </multimedia>
+        <threadsIndex>
+          2 
+        </threadsIndex>
+        <maxTileSizeIndex>
+          0 
+        </maxTileSizeIndex>
+        <subcameraPrev>
+          0 
+        </subcameraPrev>
+        <stereoscopic>
+          0 0.05 
+        </stereoscopic>
+        <resquality>
+          0 
+        </resquality>
+        <fieldprevalence>
+          0 
+        </fieldprevalence>
+        <gamma>
+          1 
+        </gamma>
+        <timestretch>
+          25 25 
+        </timestretch>
+        <formatsProperties>
+          <formatProperties ext="tif">
+            <property name="Byte Ordering" type="enum" value="Mac">
+              <item value="IBM PC"/>
+              <item value="Mac"/>
+              </property>
+            <property name="Compression Type" type="enum" value="Lempel-Ziv & Welch encoding">
+              <item value="Lempel-Ziv & Welch encoding"/>
+              <item value="None"/>
+              <item value="Macintosh Run-length encoding"/>
+              <item value="ThunderScan Run-length encoding"/>
+              <item value="CCITT Group 3 fax encoding"/>
+              <item value="CCITT Group 4 fax encoding"/>
+              <item value="CCITT modified Huffman Run-length encoding"/>
+              <item value="JPEG compression"/>
+              <item value="JPEG compression 6.0"/>
+              <item value="SGILog"/>
+              <item value="SGILog24"/>
+              <item value="8"/>
+              <item value="zip"/>
+              <item value="Unknown"/>
+              </property>
+            <property name="Bits Per Pixel" type="enum" value="32(RGBM)">
+              <item value="24(RGB)"/>
+              <item value="48(RGB)"/>
+              <item value=" 1(BW)"/>
+              <item value=" 8(GREYTONES)"/>
+              <item value="32(RGBM)"/>
+              <item value="64(RGBM)"/>
+              </property>
+            <property name="Orientation" type="enum" value="Top Left">
+              <item value="Top Left"/>
+              <item value="Top Right"/>
+              <item value="Bottom Right"/>
+              <item value="Bottom Left"/>
+              <item value="Left Top"/>
+              <item value="Right Top"/>
+              <item value="Right Bottom"/>
+              <item value="Left Bottom"/>
+              </property>
+            </formatProperties>
+          </formatsProperties>
+        </output>
+      </outputs>
+    <cleanupParameters>
+      <cleanupCamera>
+        <cameraSize>
+          16 9 
+        </cameraSize>
+        <cameraRes>
+          1920 1080 
+        </cameraRes>
+        <cameraXPrevalence>
+          1 
+        </cameraXPrevalence>
+        <interestRect>
+          0 0 -1 -1 
+        </interestRect>
+        </cleanupCamera>
+      <cleanupPalette>
+        <version>
+          71 0 
+        </version>
+        <styles>
+          <style>
+            color_0 3 255 255 255 0 
+          </style>
+          <style>
+            color_1 2002 0 0 0 255 0 0 0 255 0 50 70 10 
+          </style>
+          </styles>
+        <stylepages>
+          <page>
+            <name>
+              colors 
+            </name>
+            <indices>
+              0 1 
+            </indices>
+            </page>
+          </stylepages>
+        <shortcuts>
+          -1 0 1 -1 -1 -1 -1 -1 -1 -1 
+        </shortcuts>
+        </cleanupPalette>
+      <lineProcessing autoAdjust="0" mode="grey" sharpness="90.000000"/>
+      <despeckling value="2"/>
+      <aaValue value="70"/>
+      <closestField value="999.000000"/>
+      <fdg name=""/>
+      </cleanupParameters>
+    <scanParameters>
+      <paper fmt=""/>
+      </scanParameters>
+    <vectorizerParameters>
+      <version>
+        71 0 
+      </version>
+      <outline>
+        0 
+      </outline>
+      <visibilityBits>
+        -1 
+      </visibilityBits>
+      <Centerline>
+        <threshold>
+          8 
+        </threshold>
+        <accuracy>
+          9 
+        </accuracy>
+        <despeckling>
+          5 
+        </despeckling>
+        <maxThickness>
+          200 
+        </maxThickness>
+        <thicknessRatioFirst>
+          100 
+        </thicknessRatioFirst>
+        <thicknessRatioLast>
+          100 
+        </thicknessRatioLast>
+        <makeFrame>
+          0 
+        </makeFrame>
+        <paintFill>
+          0 
+        </paintFill>
+        <naaSource>
+          0 
+        </naaSource>
+        </Centerline>
+      <Outline>
+        <despeckling>
+          4 
+        </despeckling>
+        <accuracy>
+          8 
+        </accuracy>
+        <adherence>
+          50 
+        </adherence>
+        <angle>
+          45 
+        </angle>
+        <relative>
+          25 
+        </relative>
+        <maxColors>
+          50 
+        </maxColors>
+        <toneThreshold>
+          128 
+        </toneThreshold>
+        <transparentColor>
+          255 255 255 255 
+        </transparentColor>
+        <paintFill>
+          0 
+        </paintFill>
+        </Outline>
+      </vectorizerParameters>
+    <bgColor>
+      255 255 255 0 
+    </bgColor>
+    <markers>
+      6 0 
+    </markers>
+    <subsampling>
+      1 1 
+    </subsampling>
+    <fieldguide>
+      16 1.77778 
+    </fieldguide>
+    <noteColors>
+      255 235 140 255 255 160 120 255 255 180 190 255 135 205 250 255 145 240 145 255 130 255 210 255 150 245 255 255 
+    </noteColors>
+    </properties>
+  <levelSet>
+    <levels>
+      <level id='1'>
+        R2_18 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00018.png"
+        </path>
+        
+      </level>
+      <level id='2'>
+        R2_19 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00019.png"
+        </path>
+        
+      </level>
+      <level id='3'>
+        R2_20 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00020.png"
+        </path>
+        
+      </level>
+      <level id='4'>
+        R2_21 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00021.png"
+        </path>
+        
+      </level>
+      <level id='5'>
+        R2_22 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00022.png"
+        </path>
+        
+      </level>
+      <level id='6'>
+        R2_23 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00023.png"
+        </path>
+        
+      </level>
+      <level id='7'>
+        R2_24 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00024.png"
+        </path>
+        
+      </level>
+      <level id='8'>
+        R2_25 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00025.png"
+        </path>
+        
+      </level>
+      <level id='9'>
+        R2_26 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00026.png"
+        </path>
+        
+      </level>
+      <level id='10'>
+        R2_27 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00027.png"
+        </path>
+        
+      </level>
+      <level id='11'>
+        R2_28 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00028.png"
+        </path>
+        
+      </level>
+      <level id='12'>
+        R2_29 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00029.png"
+        </path>
+        
+      </level>
+      <level id='13'>
+        R2_30 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00030.png"
+        </path>
+        
+      </level>
+      <level id='14'>
+        R2_31 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00031.png"
+        </path>
+        
+      </level>
+      <level id='15'>
+        R2_32 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00032.png"
+        </path>
+        
+      </level>
+      <level id='16'>
+        R2_33 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00033.png"
+        </path>
+        
+      </level>
+      <level id='17'>
+        R2_34 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00034.png"
+        </path>
+        
+      </level>
+      <level id='18'>
+        R2_35 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00035.png"
+        </path>
+        
+      </level>
+      <level id='19'>
+        R2_36 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00036.png"
+        </path>
+        
+      </level>
+      <level id='20'>
+        R2_37 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00037.png"
+        </path>
+        
+      </level>
+      <level id='21'>
+        R2_38 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00038.png"
+        </path>
+        
+      </level>
+      <level id='22'>
+        R2_39 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00039.png"
+        </path>
+        
+      </level>
+      <level id='23'>
+        R2_40 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00040.png"
+        </path>
+        
+      </level>
+      <level id='24'>
+        R2_41 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00041.png"
+        </path>
+        
+      </level>
+      <level id='25'>
+        R2_42 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00042.png"
+        </path>
+        
+      </level>
+      <level id='26'>
+        R2_43 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00043.png"
+        </path>
+        
+      </level>
+      <level id='27'>
+        R2_44 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00044.png"
+        </path>
+        
+      </level>
+      <level id='28'>
+        R2_45 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00045.png"
+        </path>
+        
+      </level>
+      <level id='29'>
+        R2_46 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00046.png"
+        </path>
+        
+      </level>
+      <level id='30'>
+        R2_47 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00047.png"
+        </path>
+        
+      </level>
+      <level id='31'>
+        R2_48 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00048.png"
+        </path>
+        
+      </level>
+      <level id='32'>
+        R2_49 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00049.png"
+        </path>
+        
+      </level>
+      <level id='33'>
+        R2_50 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00050.png"
+        </path>
+        
+      </level>
+      <level id='34'>
+        R2_51 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00051.png"
+        </path>
+        
+      </level>
+      <level id='35'>
+        R2_52 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00052.png"
+        </path>
+        
+      </level>
+      <level id='36'>
+        R2_53 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00053.png"
+        </path>
+        
+      </level>
+      <level id='37'>
+        R2_54 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00054.png"
+        </path>
+        
+      </level>
+      <level id='38'>
+        R2_55 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00055.png"
+        </path>
+        
+      </level>
+      <level id='39'>
+        R2_56 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00056.png"
+        </path>
+        
+      </level>
+      <level id='40'>
+        R2_57 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00057.png"
+        </path>
+        
+      </level>
+      <level id='41'>
+        R2_58 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00058.png"
+        </path>
+        
+      </level>
+      <level id='42'>
+        R2_59 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00059.png"
+        </path>
+        
+      </level>
+      <level id='43'>
+        R2_60 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00060.png"
+        </path>
+        
+      </level>
+      <level id='44'>
+        R2_61 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00061.png"
+        </path>
+        
+      </level>
+      <level id='45'>
+        R2_62 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00062.png"
+        </path>
+        
+      </level>
+      <level id='46'>
+        R2_63 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00063.png"
+        </path>
+        
+      </level>
+      <level id='47'>
+        R2_64 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00064.png"
+        </path>
+        
+      </level>
+      <level id='48'>
+        R2_65 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00065.png"
+        </path>
+        
+      </level>
+      <level id='49'>
+        R2_66 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00066.png"
+        </path>
+        
+      </level>
+      <level id='50'>
+        R2_67 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00067.png"
+        </path>
+        
+      </level>
+      <level id='51'>
+        R2_68 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00068.png"
+        </path>
+        
+      </level>
+      <level id='52'>
+        R2_69 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00069.png"
+        </path>
+        
+      </level>
+      <level id='53'>
+        R2_70 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00070.png"
+        </path>
+        
+      </level>
+      <level id='54'>
+        R2_71 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00071.png"
+        </path>
+        
+      </level>
+      <level id='55'>
+        R2_72 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00072.png"
+        </path>
+        
+      </level>
+      <level id='56'>
+        R2_73 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00073.png"
+        </path>
+        
+      </level>
+      <level id='57'>
+        R2_74 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00074.png"
+        </path>
+        
+      </level>
+      <level id='58'>
+        R2_75 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00075.png"
+        </path>
+        
+      </level>
+      <level id='59'>
+        R2_76 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00076.png"
+        </path>
+        
+      </level>
+      <level id='60'>
+        R2_77 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00077.png"
+        </path>
+        
+      </level>
+      <level id='61'>
+        R2_78 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00078.png"
+        </path>
+        
+      </level>
+      <level id='62'>
+        R2_79 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00079.png"
+        </path>
+        
+      </level>
+      <level id='63'>
+        R2_80 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00080.png"
+        </path>
+        
+      </level>
+      <level id='64'>
+        R2_81 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00081.png"
+        </path>
+        
+      </level>
+      <level id='65'>
+        R2_82 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00082.png"
+        </path>
+        
+      </level>
+      <level id='66'>
+        R2_83 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00083.png"
+        </path>
+        
+      </level>
+      <level id='67'>
+        R2_84 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00084.png"
+        </path>
+        
+      </level>
+      <level id='68'>
+        R2_85 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00085.png"
+        </path>
+        
+      </level>
+      <level id='69'>
+        R2_86 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00086.png"
+        </path>
+        
+      </level>
+      <level id='70'>
+        R2_87 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00087.png"
+        </path>
+        
+      </level>
+      <level id='71'>
+        R2_88 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00088.png"
+        </path>
+        
+      </level>
+      <level id='72'>
+        R2_89 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00089.png"
+        </path>
+        
+      </level>
+      <level id='73'>
+        R2_90 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00090.png"
+        </path>
+        
+      </level>
+      <level id='74'>
+        R2_91 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00091.png"
+        </path>
+        
+      </level>
+      <level id='75'>
+        R2_92 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00092.png"
+        </path>
+        
+      </level>
+      <level id='76'>
+        R2_93 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00093.png"
+        </path>
+        
+      </level>
+      <level id='77'>
+        R2_94 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00094.png"
+        </path>
+        
+      </level>
+      <level id='78'>
+        R2_95 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00095.png"
+        </path>
+        
+      </level>
+      <level id='79'>
+        R2_96 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00096.png"
+        </path>
+        
+      </level>
+      <level id='80'>
+        R2_97 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00097.png"
+        </path>
+        
+      </level>
+      <level id='81'>
+        R2_98 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00098.png"
+        </path>
+        
+      </level>
+      <level id='82'>
+        R2_99 
+        <info dpix="120.000000" dpiy="120.000000" premultiply="1"/>
+        <path>
+          "+inputs/shot 38/R2/R2_00099.png"
+        </path>
+        
+      </level>
+      
+    </levels>
+    <folder name="Cast" type="default">
+      <levels>
+        <level id='3'/><level id='5'/><level id='15'/><level id='2'/><level id='8'/><level id='18'/><level id='13'/><level id='29'/><level id='28'/><level id='14'/><level id='9'/><level id='12'/><level id='45'/><level id='11'/><level id='22'/><level id='7'/><level id='1'/><level id='27'/><level id='24'/><level id='23'/><level id='26'/><level id='25'/><level id='4'/><level id='6'/><level id='21'/><level id='19'/><level id='16'/><level id='20'/><level id='10'/><level id='81'/><level id='31'/><level id='17'/><level id='33'/><level id='30'/><level id='32'/><level id='36'/><level id='34'/><level id='64'/><level id='35'/><level id='38'/><level id='39'/><level id='41'/><level id='37'/><level id='40'/><level id='44'/><level id='43'/><level id='47'/><level id='51'/><level id='49'/><level id='80'/><level id='67'/><level id='70'/><level id='72'/><level id='79'/><level id='73'/><level id='75'/><level id='76'/><level id='57'/><level id='50'/><level id='42'/><level id='56'/><level id='52'/><level id='53'/><level id='55'/><level id='54'/><level id='48'/><level id='46'/><level id='61'/><level id='74'/><level id='58'/><level id='60'/><level id='68'/><level id='69'/><level id='62'/><level id='71'/><level id='63'/><level id='59'/><level id='66'/><level id='78'/><level id='65'/><level id='77'/><level id='82'/>
+      </levels>
+      </folder>
+    <folder name="Audio">
+      </folder>
+    </levelSet>
+  <xsheet>
+    <columns>
+      <levelColumn id='83'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 1 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            1 1 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            2 1 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            3 1 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            4 1 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            5 1 <level id='6'/>"-"0 
+          </cell>
+          <cell>
+            6 1 <level id='7'/>"-"0 
+          </cell>
+          <cell>
+            7 1 <level id='8'/>"-"0 
+          </cell>
+          <cell>
+            8 1 <level id='9'/>"-"0 
+          </cell>
+          <cell>
+            9 1 <level id='10'/>"-"0 
+          </cell>
+          <cell>
+            10 1 <level id='11'/>"-"0 
+          </cell>
+          <cell>
+            11 1 <level id='12'/>"-"0 
+          </cell>
+          <cell>
+            12 1 <level id='13'/>"-"0 
+          </cell>
+          <cell>
+            13 1 <level id='14'/>"-"0 
+          </cell>
+          <cell>
+            14 1 <level id='15'/>"-"0 
+          </cell>
+          <cell>
+            15 1 <level id='16'/>"-"0 
+          </cell>
+          <cell>
+            16 1 <level id='17'/>"-"0 
+          </cell>
+          <cell>
+            17 1 <level id='18'/>"-"0 
+          </cell>
+          <cell>
+            18 1 <level id='19'/>"-"0 
+          </cell>
+          <cell>
+            19 1 <level id='20'/>"-"0 
+          </cell>
+          <cell>
+            20 1 <level id='21'/>"-"0 
+          </cell>
+          <cell>
+            21 1 <level id='22'/>"-"0 
+          </cell>
+          <cell>
+            22 1 <level id='23'/>"-"0 
+          </cell>
+          <cell>
+            23 1 <level id='24'/>"-"0 
+          </cell>
+          <cell>
+            24 1 <level id='25'/>"-"0 
+          </cell>
+          <cell>
+            25 1 <level id='26'/>"-"0 
+          </cell>
+          <cell>
+            26 1 <level id='27'/>"-"0 
+          </cell>
+          <cell>
+            27 1 <level id='28'/>"-"0 
+          </cell>
+          <cell>
+            28 1 <level id='29'/>"-"0 
+          </cell>
+          <cell>
+            29 1 <level id='30'/>"-"0 
+          </cell>
+          <cell>
+            30 1 <level id='31'/>"-"0 
+          </cell>
+          <cell>
+            31 1 <level id='32'/>"-"0 
+          </cell>
+          <cell>
+            32 1 <level id='33'/>"-"0 
+          </cell>
+          <cell>
+            33 1 <level id='34'/>"-"0 
+          </cell>
+          <cell>
+            34 1 <level id='35'/>"-"0 
+          </cell>
+          <cell>
+            35 1 <level id='36'/>"-"0 
+          </cell>
+          <cell>
+            36 1 <level id='37'/>"-"0 
+          </cell>
+          <cell>
+            37 1 <level id='38'/>"-"0 
+          </cell>
+          <cell>
+            38 1 <level id='39'/>"-"0 
+          </cell>
+          <cell>
+            39 1 <level id='40'/>"-"0 
+          </cell>
+          <cell>
+            40 1 <level id='41'/>"-"0 
+          </cell>
+          <cell>
+            41 1 <level id='42'/>"-"0 
+          </cell>
+          <cell>
+            42 1 <level id='43'/>"-"0 
+          </cell>
+          <cell>
+            43 1 <level id='44'/>"-"0 
+          </cell>
+          <cell>
+            44 1 <level id='45'/>"-"0 
+          </cell>
+          <cell>
+            45 1 <level id='46'/>"-"0 
+          </cell>
+          <cell>
+            46 1 <level id='47'/>"-"0 
+          </cell>
+          <cell>
+            47 1 <level id='48'/>"-"0 
+          </cell>
+          <cell>
+            48 1 <level id='49'/>"-"0 
+          </cell>
+          <cell>
+            49 1 <level id='50'/>"-"0 
+          </cell>
+          <cell>
+            50 1 <level id='51'/>"-"0 
+          </cell>
+          <cell>
+            51 1 <level id='52'/>"-"0 
+          </cell>
+          <cell>
+            52 1 <level id='53'/>"-"0 
+          </cell>
+          <cell>
+            53 1 <level id='54'/>"-"0 
+          </cell>
+          <cell>
+            54 1 <level id='55'/>"-"0 
+          </cell>
+          <cell>
+            55 1 <level id='56'/>"-"0 
+          </cell>
+          <cell>
+            56 1 <level id='57'/>"-"0 
+          </cell>
+          <cell>
+            57 1 <level id='58'/>"-"0 
+          </cell>
+          <cell>
+            58 1 <level id='59'/>"-"0 
+          </cell>
+          <cell>
+            59 1 <level id='60'/>"-"0 
+          </cell>
+          <cell>
+            60 1 <level id='61'/>"-"0 
+          </cell>
+          <cell>
+            61 1 <level id='62'/>"-"0 
+          </cell>
+          <cell>
+            62 1 <level id='63'/>"-"0 
+          </cell>
+          <cell>
+            63 1 <level id='64'/>"-"0 
+          </cell>
+          <cell>
+            64 1 <level id='65'/>"-"0 
+          </cell>
+          <cell>
+            65 1 <level id='66'/>"-"0 
+          </cell>
+          <cell>
+            66 1 <level id='67'/>"-"0 
+          </cell>
+          <cell>
+            67 1 <level id='68'/>"-"0 
+          </cell>
+          <cell>
+            68 1 <level id='69'/>"-"0 
+          </cell>
+          <cell>
+            69 1 <level id='70'/>"-"0 
+          </cell>
+          <cell>
+            70 1 <level id='71'/>"-"0 
+          </cell>
+          <cell>
+            71 1 <level id='72'/>"-"0 
+          </cell>
+          <cell>
+            72 1 <level id='73'/>"-"0 
+          </cell>
+          <cell>
+            73 1 <level id='74'/>"-"0 
+          </cell>
+          <cell>
+            74 1 <level id='75'/>"-"0 
+          </cell>
+          <cell>
+            75 1 <level id='76'/>"-"0 
+          </cell>
+          <cell>
+            76 1 <level id='77'/>"-"0 
+          </cell>
+          <cell>
+            77 1 <level id='78'/>"-"0 
+          </cell>
+          <cell>
+            78 1 <level id='79'/>"-"0 
+          </cell>
+          <cell>
+            79 1 <level id='80'/>"-"0 
+          </cell>
+          <cell>
+            80 1 <level id='81'/>"-"0 
+          </cell>
+          <cell>
+            81 1 <level id='82'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='84'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24055 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      
+    </columns>
+    <pegbars>
+      <pegbar activeboth="yes" id="Camera1">
+        <parent handle="B" id="None" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24500 25550 
+        </nodePos>
+        <camera>
+          <cameraSize>
+            16 9 
+          </cameraSize>
+          <cameraRes>
+            1920 1080 
+          </cameraRes>
+          <cameraXPrevalence>
+            1 
+          </cameraXPrevalence>
+          <interestRect>
+            0 0 -1 -1 
+          </interestRect>
+          </camera>
+        </pegbar>
+      <pegbar id="Table">
+        <parent handle="B" id="None" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24500 25500 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col1">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 24550 
+        </nodePos>
+        </pegbar>
+      <grid_dimension>
+        1 
+      </grid_dimension>
+      </pegbars>
+    <fxnodes>
+      <terminal>
+        <fxnode>
+          <Toonz_columnFx id='84'/>
+        </fxnode>
+        </terminal>
+      <xsheet>
+        <Toonz_xsheetFx id='85'>
+          
+          <params>
+            </params>
+          <ports>
+            </ports>
+          <dagNodePos>
+            25120 25000 
+          </dagNodePos>
+          <numberId>
+            0 
+          </numberId>
+          <name>
+            Xsheet 
+          </name>
+          <fxId>
+            "" 
+          </fxId>
+          <opened>
+            0 
+          </opened>
+          
+        </Toonz_xsheetFx>
+        
+      </xsheet>
+      <output>
+        <Toonz_outputFx id='86'>
+          
+          <params>
+            </params>
+          <ports>
+            <source>
+              <Toonz_xsheetFx id='85'/>
+            </source>
+            </ports>
+          <dagNodePos>
+            25235 24995 
+          </dagNodePos>
+          <numberId>
+            0 
+          </numberId>
+          <name>
+            OutputFx 
+          </name>
+          <fxId>
+            "" 
+          </fxId>
+          <opened>
+            0 
+          </opened>
+          
+        </Toonz_outputFx>
+        
+      </output>
+      <grid_dimension>
+        1 
+      </grid_dimension>
+      </fxnodes>
+    </xsheet>
+  <history>
+    "| #    DATE:       Time:   MACHINE:    USER:           |"
+    "| #1   12 Jun 19   12:25                |"
+  </history>
+  </tnz>

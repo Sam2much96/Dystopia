@@ -1,0 +1,2977 @@
+<tnz framecount="60" version="71.0">
+  <generator>
+    "OpenToonz 1.4 (eXperimental)"
+  </generator>
+  <properties>
+    <cameras>
+      <camera>
+        <cameraSize>
+          10.6667 6 
+        </cameraSize>
+        <cameraRes>
+          1280 720 
+        </cameraRes>
+        <cameraXPrevalence>
+          1 
+        </cameraXPrevalence>
+        <interestRect>
+          0 0 -1 -1 
+        </interestRect>
+        </camera>
+      </cameras>
+    <outputs>
+      <output name="main">
+        <range>
+          0 -1 
+        </range>
+        <step>
+          1 
+        </step>
+        <shrink>
+          1 
+        </shrink>
+        <applyShrinkToViewer>
+          0 
+        </applyShrinkToViewer>
+        <fps>
+          12 
+        </fps>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\.mp4"
+        </path>
+        <bpp>
+          32 
+        </bpp>
+        <multimedia>
+          0 
+        </multimedia>
+        <threadsIndex>
+          0 
+        </threadsIndex>
+        <maxTileSizeIndex>
+          0 
+        </maxTileSizeIndex>
+        <subcameraPrev>
+          0 
+        </subcameraPrev>
+        <stereoscopic>
+          0 0.05 
+        </stereoscopic>
+        <resquality>
+          0 
+        </resquality>
+        <fieldprevalence>
+          0 
+        </fieldprevalence>
+        <gamma>
+          1 
+        </gamma>
+        <timestretch>
+          25 25 
+        </timestretch>
+        <formatsProperties>
+          <formatProperties ext="gif">
+            <property max="100" min="1" name="Scale" type="int" value="100"/>
+            <property name="Looping" type="bool" value="true"/>
+            <property name="Generate Palette" type="bool" value="true"/>
+            </formatProperties>
+          <formatProperties ext="mp4">
+            <property max="100" min="1" name="Quality" type="int" value="90"/>
+            <property max="100" min="1" name="Scale" type="int" value="100"/>
+            </formatProperties>
+          <formatProperties ext="tif">
+            <property name="Byte Ordering" type="enum" value="IBM PC">
+              <item value="IBM PC"/>
+              <item value="Mac"/>
+              </property>
+            <property name="Compression Type" type="enum" value="Lempel-Ziv & Welch encoding">
+              <item value="Lempel-Ziv & Welch encoding"/>
+              <item value="None"/>
+              <item value="Macintosh Run-length encoding"/>
+              <item value="ThunderScan Run-length encoding"/>
+              <item value="CCITT Group 3 fax encoding"/>
+              <item value="CCITT Group 4 fax encoding"/>
+              <item value="CCITT modified Huffman Run-length encoding"/>
+              <item value="JPEG compression"/>
+              <item value="JPEG compression 6.0"/>
+              <item value="SGILog"/>
+              <item value="SGILog24"/>
+              <item value="8"/>
+              <item value="zip"/>
+              <item value="Unknown"/>
+              </property>
+            <property name="Bits Per Pixel" type="enum" value="32(RGBM)">
+              <item value="24(RGB)"/>
+              <item value="48(RGB)"/>
+              <item value=" 1(BW)"/>
+              <item value=" 8(GREYTONES)"/>
+              <item value="32(RGBM)"/>
+              <item value="64(RGBM)"/>
+              </property>
+            <property name="Orientation" type="enum" value="Top Left">
+              <item value="Top Left"/>
+              <item value="Top Right"/>
+              <item value="Bottom Right"/>
+              <item value="Bottom Left"/>
+              <item value="Left Top"/>
+              <item value="Right Top"/>
+              <item value="Right Bottom"/>
+              <item value="Left Bottom"/>
+              </property>
+            </formatProperties>
+          </formatsProperties>
+        </output>
+      <output name="preview">
+        <range>
+          0 59 
+        </range>
+        <step>
+          1 
+        </step>
+        <shrink>
+          1 
+        </shrink>
+        <applyShrinkToViewer>
+          0 
+        </applyShrinkToViewer>
+        <fps>
+          24 
+        </fps>
+        <path>
+          "+outputs\\.tif"
+        </path>
+        <bpp>
+          32 
+        </bpp>
+        <multimedia>
+          0 
+        </multimedia>
+        <threadsIndex>
+          2 
+        </threadsIndex>
+        <maxTileSizeIndex>
+          0 
+        </maxTileSizeIndex>
+        <subcameraPrev>
+          0 
+        </subcameraPrev>
+        <stereoscopic>
+          0 0.05 
+        </stereoscopic>
+        <resquality>
+          0 
+        </resquality>
+        <fieldprevalence>
+          0 
+        </fieldprevalence>
+        <gamma>
+          1 
+        </gamma>
+        <timestretch>
+          25 25 
+        </timestretch>
+        <formatsProperties>
+          <formatProperties ext="tif">
+            <property name="Byte Ordering" type="enum" value="IBM PC">
+              <item value="IBM PC"/>
+              <item value="Mac"/>
+              </property>
+            <property name="Compression Type" type="enum" value="Lempel-Ziv & Welch encoding">
+              <item value="Lempel-Ziv & Welch encoding"/>
+              <item value="None"/>
+              <item value="Macintosh Run-length encoding"/>
+              <item value="ThunderScan Run-length encoding"/>
+              <item value="CCITT Group 3 fax encoding"/>
+              <item value="CCITT Group 4 fax encoding"/>
+              <item value="CCITT modified Huffman Run-length encoding"/>
+              <item value="JPEG compression"/>
+              <item value="JPEG compression 6.0"/>
+              <item value="SGILog"/>
+              <item value="SGILog24"/>
+              <item value="8"/>
+              <item value="zip"/>
+              <item value="Unknown"/>
+              </property>
+            <property name="Bits Per Pixel" type="enum" value="32(RGBM)">
+              <item value="24(RGB)"/>
+              <item value="48(RGB)"/>
+              <item value=" 1(BW)"/>
+              <item value=" 8(GREYTONES)"/>
+              <item value="32(RGBM)"/>
+              <item value="64(RGBM)"/>
+              </property>
+            <property name="Orientation" type="enum" value="Top Left">
+              <item value="Top Left"/>
+              <item value="Top Right"/>
+              <item value="Bottom Right"/>
+              <item value="Bottom Left"/>
+              <item value="Left Top"/>
+              <item value="Right Top"/>
+              <item value="Right Bottom"/>
+              <item value="Left Bottom"/>
+              </property>
+            </formatProperties>
+          </formatsProperties>
+        </output>
+      </outputs>
+    <cleanupParameters>
+      <cleanupCamera>
+        <cameraSize>
+          16 9 
+        </cameraSize>
+        <cameraRes>
+          1920 1080 
+        </cameraRes>
+        <cameraXPrevalence>
+          1 
+        </cameraXPrevalence>
+        <interestRect>
+          0 0 -1 -1 
+        </interestRect>
+        </cleanupCamera>
+      <cleanupPalette>
+        <version>
+          71 0 
+        </version>
+        <styles>
+          <style>
+            color_0 3 255 255 255 0 
+          </style>
+          <style>
+            color_1 2002 0 0 0 255 0 0 0 255 0 50 70 10 
+          </style>
+          </styles>
+        <stylepages>
+          <page>
+            <name>
+              colors 
+            </name>
+            <indices>
+              0 1 
+            </indices>
+            </page>
+          </stylepages>
+        <shortcuts>
+          -1 0 1 -1 -1 -1 -1 -1 -1 -1 
+        </shortcuts>
+        </cleanupPalette>
+      <lineProcessing autoAdjust="0" mode="grey" sharpness="90.000000"/>
+      <despeckling value="2"/>
+      <aaValue value="70"/>
+      <closestField value="999.000000"/>
+      <fdg name=""/>
+      </cleanupParameters>
+    <scanParameters>
+      <paper fmt=""/>
+      </scanParameters>
+    <vectorizerParameters>
+      <version>
+        71 0 
+      </version>
+      <outline>
+        0 
+      </outline>
+      <visibilityBits>
+        -1 
+      </visibilityBits>
+      <Centerline>
+        <threshold>
+          8 
+        </threshold>
+        <accuracy>
+          9 
+        </accuracy>
+        <despeckling>
+          5 
+        </despeckling>
+        <maxThickness>
+          200 
+        </maxThickness>
+        <thicknessRatioFirst>
+          100 
+        </thicknessRatioFirst>
+        <thicknessRatioLast>
+          100 
+        </thicknessRatioLast>
+        <makeFrame>
+          0 
+        </makeFrame>
+        <paintFill>
+          0 
+        </paintFill>
+        <naaSource>
+          0 
+        </naaSource>
+        </Centerline>
+      <Outline>
+        <despeckling>
+          4 
+        </despeckling>
+        <accuracy>
+          8 
+        </accuracy>
+        <adherence>
+          50 
+        </adherence>
+        <angle>
+          45 
+        </angle>
+        <relative>
+          25 
+        </relative>
+        <maxColors>
+          50 
+        </maxColors>
+        <toneThreshold>
+          128 
+        </toneThreshold>
+        <transparentColor>
+          255 255 255 255 
+        </transparentColor>
+        <paintFill>
+          0 
+        </paintFill>
+        </Outline>
+      </vectorizerParameters>
+    <bgColor>
+      255 255 255 0 
+    </bgColor>
+    <markers>
+      6 0 
+    </markers>
+    <subsampling>
+      1 1 
+    </subsampling>
+    <fieldguide>
+      16 1.77778 
+    </fieldguide>
+    <noteColors>
+      255 235 140 255 255 160 120 255 255 180 190 255 135 205 250 255 145 240 145 255 130 255 210 255 150 245 255 255 
+    </noteColors>
+    </properties>
+  <levelSet>
+    <levels>
+      <level id='1'>
+        T1 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\trouser fbf\\T1.png"
+        </path>
+        
+      </level>
+      <level id='2'>
+        T2 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\trouser fbf\\T2.png"
+        </path>
+        
+      </level>
+      <level id='3'>
+        T3 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\trouser fbf\\T3.png"
+        </path>
+        
+      </level>
+      <level id='4'>
+        T4 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\trouser fbf\\T4.png"
+        </path>
+        
+      </level>
+      <level id='5'>
+        T5 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\trouser fbf\\T5.png"
+        </path>
+        
+      </level>
+      <level id='6'>
+        T6 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\trouser fbf\\T6.png"
+        </path>
+        
+      </level>
+      <level id='7'>
+        "Leg cutout"
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\Leg cutout\\Leg cutout.png"
+        </path>
+        
+      </level>
+      <level id='8'>
+        body 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\security guard cutout\\body.png"
+        </path>
+        
+      </level>
+      <level id='9'>
+        head 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\security guard cutout\\head.png"
+        </path>
+        
+      </level>
+      <level id='10'>
+        mouth 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\security guard cutout\\mouth.png"
+        </path>
+        
+      </level>
+      <level id='11'>
+        neck 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\security guard cutout\\neck.png"
+        </path>
+        
+      </level>
+      <level id='12'>
+        tongue 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\security guard cutout\\tongue.png"
+        </path>
+        
+      </level>
+      <level id='13'>
+        speedlines 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\speedlines.png"
+        </path>
+        
+      </level>
+      <level id='14'>
+        d1 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\drool fx\\d1.png"
+        </path>
+        
+      </level>
+      <level id='15'>
+        d2 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\drool fx\\d2.png"
+        </path>
+        
+      </level>
+      <level id='16'>
+        d3 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\drool fx\\d3.png"
+        </path>
+        
+      </level>
+      <level id='17'>
+        d4 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\drool fx\\d4.png"
+        </path>
+        
+      </level>
+      <level id='18'>
+        d5 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\drool fx\\d5.png"
+        </path>
+        
+      </level>
+      <level id='19'>
+        body_mesh 
+        <info dpiType="image"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\security guard cutout\\body.mesh"
+        </path>
+        
+      </level>
+      <level id='20'>
+        Logo 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\water mark\\Logo.png"
+        </path>
+        
+      </level>
+      <level id='21'>
+        fx1 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\kick dust fx fbf\\fx1.png"
+        </path>
+        
+      </level>
+      <level id='22'>
+        fx2 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\kick dust fx fbf\\fx2.png"
+        </path>
+        
+      </level>
+      <level id='23'>
+        fx3 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\kick dust fx fbf\\fx3.png"
+        </path>
+        
+      </level>
+      <level id='24'>
+        fx4 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\kick dust fx fbf\\fx4.png"
+        </path>
+        
+      </level>
+      <level id='25'>
+        fx5 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\kick dust fx fbf\\fx5.png"
+        </path>
+        
+      </level>
+      <level id='26'>
+        fx6 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 11b\\kick dust fx fbf\\fx6.png"
+        </path>
+        
+      </level>
+      
+    </levels>
+    <folder name="Cast" type="default">
+      <levels>
+        <level id='3'/><level id='4'/><level id='8'/><level id='10'/><level id='1'/><level id='2'/><level id='5'/><level id='6'/><level id='7'/><level id='9'/><level id='11'/><level id='17'/><level id='20'/><level id='26'/><level id='14'/><level id='19'/><level id='24'/><level id='21'/><level id='12'/><level id='16'/><level id='25'/><level id='22'/><level id='23'/><level id='18'/><level id='13'/><level id='15'/>
+      </levels>
+      </folder>
+    <folder name="Audio">
+      </folder>
+    </levelSet>
+  <xsheet>
+    <columns>
+      <zeraryFxColumn id='27'>
+        <Toonz_zeraryColumnFx id='28'>
+          <colorCardFx id='29'>
+            
+            <params>
+              <color>
+                <red>
+                  <default>
+                    1 
+                  </default>
+                  </red>
+                <green>
+                  <default>
+                    1 
+                  </default>
+                  </green>
+                <blue>
+                  <default>
+                    1 
+                  </default>
+                  </blue>
+                <matte>
+                  <default>
+                    1 
+                  </default>
+                  </matte>
+                </color>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25370 24855 
+            </dagNodePos>
+            <numberId>
+              1 
+            </numberId>
+            <name>
+              ColorCardFx 
+            </name>
+            <fxId>
+              ColorCard01 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </colorCardFx>
+          
+          <params>
+            </params>
+          <ports>
+            </ports>
+          <dagNodePos>
+            24986 25074 
+          </dagNodePos>
+          <numberId>
+            0 
+          </numberId>
+          <name>
+            ZeraryColumn 
+          </name>
+          <fxId>
+            "" 
+          </fxId>
+          <opened>
+            0 
+          </opened>
+          
+        </Toonz_zeraryColumnFx>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 60 
+          </cell>
+          </cells>
+        
+      </zeraryFxColumn>
+      <levelColumn id='30'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 60 <level id='8'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='31'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 25005 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <meshColumn id='32'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 60 <level id='19'/>"-"0 
+          </cell>
+          </cells>
+        
+      </meshColumn>
+      <levelColumn id='33'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 60 <level id='11'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='34'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24705 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='35'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 60 <level id='9'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='36'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24955 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='37'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 60 <level id='10'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='38'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24905 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='39'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 60 <level id='12'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='40'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24805 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='41'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            12 3 <level id='14'/>"-"0 
+          </cell>
+          <cell>
+            15 3 <level id='15'/>"-"0 
+          </cell>
+          <cell>
+            18 3 <level id='16'/>"-"0 
+          </cell>
+          <cell>
+            21 3 <level id='17'/>"-"0 
+          </cell>
+          <cell>
+            24 3 <level id='18'/>"-"0 
+          </cell>
+          <cell>
+            27 3 <level id='14'/>"-"0 
+          </cell>
+          <cell>
+            30 3 <level id='15'/>"-"0 
+          </cell>
+          <cell>
+            33 3 <level id='16'/>"-"0 
+          </cell>
+          <cell>
+            36 3 <level id='17'/>"-"0 
+          </cell>
+          <cell>
+            39 3 <level id='18'/>"-"0 
+          </cell>
+          <cell>
+            42 3 <level id='14'/>"-"0 
+          </cell>
+          <cell>
+            45 3 <level id='15'/>"-"0 
+          </cell>
+          <cell>
+            48 3 <level id='16'/>"-"0 
+          </cell>
+          <cell>
+            51 3 <level id='17'/>"-"0 
+          </cell>
+          <cell>
+            54 3 <level id='18'/>"-"0 
+          </cell>
+          <cell>
+            57 3 <level id='17'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='42'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24655 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='43'>
+        
+        <status>
+          0 
+        </status>
+        <fx>
+          <Toonz_columnFx id='44'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='45'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 60 <level id='13'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='46'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24555 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='47'>
+        
+        <status>
+          0 
+        </status>
+        <fx>
+          <Toonz_columnFx id='48'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='49'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 60 <level id='7'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='50'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24605 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='51'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 2 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            2 2 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            4 2 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            6 2 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            8 2 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            10 2 <level id='6'/>"-"0 
+          </cell>
+          <cell>
+            12 6 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            18 6 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            24 6 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            30 6 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            36 6 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            42 6 <level id='6'/>"-"0 
+          </cell>
+          <cell>
+            48 6 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            54 6 <level id='3'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='52'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24755 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='53'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            12 2 <level id='21'/>"-"0 
+          </cell>
+          <cell>
+            14 2 <level id='22'/>"-"0 
+          </cell>
+          <cell>
+            16 2 <level id='23'/>"-"0 
+          </cell>
+          <cell>
+            18 2 <level id='24'/>"-"0 
+          </cell>
+          <cell>
+            20 2 <level id='25'/>"-"0 
+          </cell>
+          <cell>
+            22 2 <level id='26'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='54'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 24855 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      
+    </columns>
+    <pegbars>
+      <pegbar id="None">
+        <parent handle="B" id="None" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          1.234e+09 5.678e+09 
+        </nodePos>
+        </pegbar>
+      <pegbar activeboth="yes" id="Camera1">
+        <parent handle="B" id="None" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.384568 
+            </L>
+            <L>
+              <prev>
+                3.08647 
+              </prev>
+              11 3.08647 
+            </L>
+            <L>
+              <prev>
+                3.18866 
+              </prev>
+              35 3.18866 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0.28103 
+            </L>
+            <L>
+              <prev>
+                0.051102 
+              </prev>
+              11 0.051102 
+            </L>
+            <L>
+              <prev>
+                0.26999 
+              </prev>
+              35 0.26999 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          <keyframes>
+            <L>
+              0 0.888345 
+            </L>
+            <L>
+              <prev>
+                0.775289 
+              </prev>
+              11 0.775289 
+            </L>
+            </keyframes>
+          </sc>
+        <rot>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -1.7077 
+            </L>
+            <L>
+              <prev>
+                1.43306 
+              </prev>
+              11 1.43306 
+            </L>
+            <L>
+              <prev>
+                -1.27013 
+              </prev>
+              35 -1.27013 
+            </L>
+            </keyframes>
+          </rot>
+        <nodePos>
+          24500 25550 
+        </nodePos>
+        <camera>
+          <cameraSize>
+            10.6667 6 
+          </cameraSize>
+          <cameraRes>
+            1280 720 
+          </cameraRes>
+          <cameraXPrevalence>
+            1 
+          </cameraXPrevalence>
+          <interestRect>
+            0 0 -1 -1 
+          </interestRect>
+          </camera>
+        </pegbar>
+      <pegbar id="Table">
+        <parent handle="B" id="None" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24500 25500 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col1">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25500 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col2">
+        <parent handle="B" id="Col3" parentHandle="B">
+          </parent>
+        <name>
+          body 
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24907 25532 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col3">
+        <parent handle="B" id="Col4" parentHandle="B">
+          </parent>
+        <name>
+          body_mesh 
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <plasticSD>
+          <VertexDeforms>
+            <Name>
+              Root 
+            </Name>
+            <Hook>
+              1 
+            </Hook>
+            <VD>
+              <Angle>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    23 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    35 0 
+                  </L>
+                  </keyframes>
+                </Angle>
+              <Distance>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    23 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    35 0 
+                  </L>
+                  </keyframes>
+                </Distance>
+              <SO>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    23 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    35 0 
+                  </L>
+                  </keyframes>
+                </SO>
+              </VD>
+            <Name>
+              "Vertex __1"
+            </Name>
+            <Hook>
+              2 
+            </Hook>
+            <VD>
+              <Angle>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      2.80899 
+                    </prev>
+                    23 2.80899 
+                  </L>
+                  <L>
+                    <prev>
+                      2.80899 
+                    </prev>
+                    35 2.80899 
+                  </L>
+                  </keyframes>
+                </Angle>
+              <Distance>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    23 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    35 0 
+                  </L>
+                  </keyframes>
+                </Distance>
+              <SO>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    23 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    35 0 
+                  </L>
+                  </keyframes>
+                </SO>
+              </VD>
+            <Name>
+              "Vertex __2"
+            </Name>
+            <Hook>
+              3 
+            </Hook>
+            <VD>
+              <Angle>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 1.03927 
+                  </L>
+                  <L>
+                    <prev>
+                      1.41538 
+                    </prev>
+                    11 1.41538 
+                  </L>
+                  <L>
+                    <prev>
+                      5.48277 
+                    </prev>
+                    17 5.48277 
+                  </L>
+                  <L>
+                    <prev>
+                      1.4207 
+                    </prev>
+                    23 1.4207 
+                  </L>
+                  <L>
+                    <prev>
+                      -3.64572 
+                    </prev>
+                    35 -3.64572 
+                  </L>
+                  </keyframes>
+                </Angle>
+              <Distance>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    23 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    35 0 
+                  </L>
+                  </keyframes>
+                </Distance>
+              <SO>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    23 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    35 0 
+                  </L>
+                  </keyframes>
+                </SO>
+              </VD>
+            <Name>
+              "Vertex __3"
+            </Name>
+            <Hook>
+              4 
+            </Hook>
+            <VD>
+              <Angle>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      -12.0272 
+                    </prev>
+                    23 -12.0272 
+                  </L>
+                  <L>
+                    <prev>
+                      -1.95317 
+                    </prev>
+                    35 -1.95317 
+                  </L>
+                  </keyframes>
+                </Angle>
+              <Distance>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    23 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    35 0 
+                  </L>
+                  </keyframes>
+                </Distance>
+              <SO>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    23 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    35 0 
+                  </L>
+                  </keyframes>
+                </SO>
+              </VD>
+            <Name>
+              "Vertex __4"
+            </Name>
+            <Hook>
+              5 
+            </Hook>
+            <VD>
+              <Angle>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 3.75329 
+                  </L>
+                  <L>
+                    <prev>
+                      3.75329 
+                    </prev>
+                    11 3.75329 
+                  </L>
+                  <L>
+                    <prev>
+                      -11.3824 
+                    </prev>
+                    17 -11.3824 
+                  </L>
+                  <L>
+                    <prev>
+                      -19.7463 
+                    </prev>
+                    23 -19.7463 
+                  </L>
+                  <L>
+                    <prev>
+                      1.06048 
+                    </prev>
+                    35 1.06048 
+                  </L>
+                  </keyframes>
+                </Angle>
+              <Distance>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    23 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    35 0 
+                  </L>
+                  </keyframes>
+                </Distance>
+              <SO>
+                <default>
+                  0 
+                </default>
+                <keyframes>
+                  <L>
+                    0 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    11 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    17 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    23 0 
+                  </L>
+                  <L>
+                    <prev>
+                      0 
+                    </prev>
+                    35 0 
+                  </L>
+                  </keyframes>
+                </SO>
+              </VD>
+            </VertexDeforms>
+          <SkelIdsParam>
+            <default>
+              1 
+            </default>
+            </SkelIdsParam>
+          <Skeletons>
+            <SkelId>
+              1 
+            </SkelId>
+            <Skeleton>
+              <V>
+                5 
+                <Vertex>
+                  <name>
+                    Root 
+                  </name>
+                  <number>
+                    0 
+                  </number>
+                  <pos>
+                    6.34282 -31.8158 
+                  </pos>
+                  <interpolate>
+                    1 
+                  </interpolate>
+                  </Vertex>
+                <Vertex>
+                  <name>
+                    "Vertex __1"
+                  </name>
+                  <number>
+                    1 
+                  </number>
+                  <pos>
+                    -32.3112 -76.7807 
+                  </pos>
+                  <interpolate>
+                    1 
+                  </interpolate>
+                  </Vertex>
+                <Vertex>
+                  <name>
+                    "Vertex __2"
+                  </name>
+                  <number>
+                    2 
+                  </number>
+                  <pos>
+                    -113.563 -128.845 
+                  </pos>
+                  <interpolate>
+                    1 
+                  </interpolate>
+                  </Vertex>
+                <Vertex>
+                  <name>
+                    "Vertex __3"
+                  </name>
+                  <number>
+                    3 
+                  </number>
+                  <pos>
+                    101.006 -87.8247 
+                  </pos>
+                  <interpolate>
+                    1 
+                  </interpolate>
+                  </Vertex>
+                <Vertex>
+                  <name>
+                    "Vertex __4"
+                  </name>
+                  <number>
+                    4 
+                  </number>
+                  <pos>
+                    153.859 -129.634 
+                  </pos>
+                  <interpolate>
+                    1 
+                  </interpolate>
+                  </Vertex>
+                </V>
+              <E>
+                4 0 1 1 2 0 3 3 4 
+              </E>
+              </Skeleton>
+            </Skeletons>
+          </plasticSD>
+        <nodePos>
+          24791 25521 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col4">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <name>
+          neck 
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 3.08334 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0.166667 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24755 25376 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col5">
+        <parent handle="B" id="Col4" parentHandle="B">
+          </parent>
+        <name>
+          head 
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          1.18334 -0.383335 -1.18334 0.383335 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0 
+            </L>
+            <L>
+              <prev>
+                0 
+              </prev>
+              11 0 
+            </L>
+            <L>
+              <prev>
+                0.116667 
+              </prev>
+              17 0.116667 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.0333334 
+            </L>
+            <L>
+              <prev>
+                -0.0333334 
+              </prev>
+              11 -0.0333334 
+            </L>
+            <L>
+              <prev>
+                -0.0500002 
+              </prev>
+              17 -0.0500002 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <rot>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 2.496 
+            </L>
+            <L>
+              <prev>
+                2.496 
+              </prev>
+              11 2.496 
+            </L>
+            <L>
+              <prev>
+                -2.26966 
+              </prev>
+              17 -2.26966 
+            </L>
+            </keyframes>
+          </rot>
+        <nodePos>
+          25016 25344 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col6">
+        <parent handle="B" id="Col4" parentHandle="B">
+          </parent>
+        <name>
+          mouth 
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.0166667 
+            </L>
+            <L>
+              <prev>
+                -0.00416668 
+              </prev>
+              12 -0.00416668 
+            </L>
+            <L>
+              <prev>
+                0.1125 
+              </prev>
+              17 0.1125 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0.00416668 
+            </L>
+            <L>
+              <prev>
+                0.00416668 
+              </prev>
+              12 0.00416668 
+            </L>
+            <L>
+              <prev>
+                -0.0375001 
+              </prev>
+              17 -0.0375001 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24919 25469 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col7">
+        <parent handle="B" id="Col4" parentHandle="B">
+          </parent>
+        <name>
+          tongue 
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          1.84888 -0.813509 -1.84888 0.813509 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0.0254237 
+            </L>
+            <L>
+              <prev>
+                -2.88136e-08 
+              </prev>
+              12 -2.88136e-08 
+            </L>
+            <L>
+              <prev>
+                0.0947887 
+              </prev>
+              17 0.0947887 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.0341807 
+            </L>
+            <L>
+              <prev>
+                -0.0596044 
+              </prev>
+              12 -0.0596044 
+            </L>
+            <L>
+              <prev>
+                -0.124396 
+              </prev>
+              17 -0.124396 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <rot>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              12 6.41916 
+            </L>
+            <L>
+              <prev>
+                -1.70408 
+              </prev>
+              17 -1.70408 
+            </L>
+            </keyframes>
+          </rot>
+        <nodePos>
+          24919 25412 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col8">
+        <parent handle="B" id="Col5" parentHandle="B">
+          </parent>
+        <name>
+          "drool fx"
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          25165 25361 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col9">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          1.234e+09 5.678e+09 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col10">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <name>
+          speedlines 
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -1.38334 
+            </L>
+            <L>
+              <prev>
+                2.25226 
+              </prev>
+              11 2.25226 
+            </L>
+            <L>
+              <prev>
+                2.91328 
+              </prev>
+              23 2.91328 
+            </L>
+            <L>
+              <prev>
+                3.59972 
+              </prev>
+              59 3.59972 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 1.11667 
+            </L>
+            <L>
+              <prev>
+                0.099721 
+              </prev>
+              11 0.099721 
+            </L>
+            <L>
+              <prev>
+                -0.0528214 
+              </prev>
+              23 -0.0528214 
+            </L>
+            <L>
+              <prev>
+                -0.307059 
+              </prev>
+              59 -0.307059 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <rot>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 164.07 
+            </L>
+            </keyframes>
+          </rot>
+        <nodePos>
+          24620 25200 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col11">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          1.234e+09 5.678e+09 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col12">
+        <parent handle="B" id="Col13" parentHandle="B">
+          </parent>
+        <name>
+          "leg cutout"
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 2.11513 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.340195 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          <keyframes>
+            <L>
+              0 0.943281 
+            </L>
+            </keyframes>
+          </sc>
+        <rot>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              8 1.88861 
+            </L>
+            <L>
+              <prev>
+                -8.32436 
+              </prev>
+              11 -8.32436 
+            </L>
+            </keyframes>
+          </rot>
+        <nodePos>
+          24880 25300 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col13">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <name>
+          "leg fbf"
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -2.92502 
+            </L>
+            <L>
+              <prev>
+                1.00466 
+              </prev>
+              11 1.00466 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 1.40528 
+            </L>
+            <L>
+              <prev>
+                0.577872 
+              </prev>
+              11 0.577872 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <rot>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 9.84658 
+            </L>
+            </keyframes>
+          </rot>
+        <nodePos>
+          24752 25292 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col14">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <name>
+          "dust fx"
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 3.31668 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0.450001 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25400 
+        </nodePos>
+        </pegbar>
+      <grid_dimension>
+        1 
+      </grid_dimension>
+      </pegbars>
+    <fxnodes>
+      <terminal>
+        <fxnode>
+          <Toonz_zeraryColumnFx id='28'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='36'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='42'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='46'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='48'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='44'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='50'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='31'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='40'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='38'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='34'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='54'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='52'/>
+        </fxnode>
+        </terminal>
+      <xsheet>
+        <Toonz_xsheetFx id='55'>
+          
+          <params>
+            </params>
+          <ports>
+            </ports>
+          <dagNodePos>
+            25120 25000 
+          </dagNodePos>
+          <numberId>
+            0 
+          </numberId>
+          <name>
+            Xsheet 
+          </name>
+          <fxId>
+            "" 
+          </fxId>
+          <opened>
+            0 
+          </opened>
+          
+        </Toonz_xsheetFx>
+        
+      </xsheet>
+      <output>
+        <Toonz_outputFx id='56'>
+          
+          <params>
+            </params>
+          <ports>
+            <source>
+              <Toonz_xsheetFx id='55'/>
+            </source>
+            </ports>
+          <dagNodePos>
+            25235 24995 
+          </dagNodePos>
+          <numberId>
+            0 
+          </numberId>
+          <name>
+            OutputFx 
+          </name>
+          <fxId>
+            "" 
+          </fxId>
+          <opened>
+            0 
+          </opened>
+          
+        </Toonz_outputFx>
+        
+      </output>
+      <grid_dimension>
+        1 
+      </grid_dimension>
+      </fxnodes>
+    </xsheet>
+  <history>
+    "| #    DATE:       Time:   MACHINE:    USER:           |"
+    "| #1   07 Nov 20   18:49   LAPTOP-HC63JShayla          |"
+    "| #2   08 Nov 20   03:51   LAPTOP-HC63JShayla          |"
+    "| #3   08 Nov 20   04:09   LAPTOP-HC63JShayla          |"
+    "| #4   08 Nov 20   04:42   LAPTOP-HC63JShayla          |"
+    "| #5   08 Nov 20   05:00   LAPTOP-HC63JShayla          |"
+    "| #6   08 Nov 20   05:27   LAPTOP-HC63JShayla          |"
+    "| #7   08 Nov 20   06:00   LAPTOP-HC63JShayla          |"
+    "| #8   08 Nov 20   06:16   LAPTOP-HC63JShayla          |"
+  </history>
+  </tnz>

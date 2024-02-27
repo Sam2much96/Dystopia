@@ -1,0 +1,1567 @@
+<tnz framecount="49" version="71.0">
+  <generator>
+    "OpenToonz 1.4 (eXperimental)"
+  </generator>
+  <properties>
+    <cameras>
+      <camera>
+        <cameraSize>
+          8.88889 5 
+        </cameraSize>
+        <cameraRes>
+          1280 720 
+        </cameraRes>
+        <cameraXPrevalence>
+          1 
+        </cameraXPrevalence>
+        <interestRect>
+          0 0 -1 -1 
+        </interestRect>
+        </camera>
+      </cameras>
+    <outputs>
+      <output name="main">
+        <range>
+          0 -1 
+        </range>
+        <step>
+          1 
+        </step>
+        <shrink>
+          1 
+        </shrink>
+        <applyShrinkToViewer>
+          0 
+        </applyShrinkToViewer>
+        <fps>
+          12 
+        </fps>
+        <path>
+          "+outputs\\.mp4"
+        </path>
+        <bpp>
+          32 
+        </bpp>
+        <multimedia>
+          0 
+        </multimedia>
+        <threadsIndex>
+          0 
+        </threadsIndex>
+        <maxTileSizeIndex>
+          0 
+        </maxTileSizeIndex>
+        <subcameraPrev>
+          0 
+        </subcameraPrev>
+        <stereoscopic>
+          0 0.05 
+        </stereoscopic>
+        <resquality>
+          0 
+        </resquality>
+        <fieldprevalence>
+          0 
+        </fieldprevalence>
+        <gamma>
+          1 
+        </gamma>
+        <timestretch>
+          25 25 
+        </timestretch>
+        <formatsProperties>
+          <formatProperties ext="mp4">
+            <property max="100" min="1" name="Quality" type="int" value="90"/>
+            <property max="100" min="1" name="Scale" type="int" value="100"/>
+            </formatProperties>
+          <formatProperties ext="tif">
+            <property name="Byte Ordering" type="enum" value="IBM PC">
+              <item value="IBM PC"/>
+              <item value="Mac"/>
+              </property>
+            <property name="Compression Type" type="enum" value="Lempel-Ziv & Welch encoding">
+              <item value="Lempel-Ziv & Welch encoding"/>
+              <item value="None"/>
+              <item value="Macintosh Run-length encoding"/>
+              <item value="ThunderScan Run-length encoding"/>
+              <item value="CCITT Group 3 fax encoding"/>
+              <item value="CCITT Group 4 fax encoding"/>
+              <item value="CCITT modified Huffman Run-length encoding"/>
+              <item value="JPEG compression"/>
+              <item value="JPEG compression 6.0"/>
+              <item value="SGILog"/>
+              <item value="SGILog24"/>
+              <item value="8"/>
+              <item value="zip"/>
+              <item value="Unknown"/>
+              </property>
+            <property name="Bits Per Pixel" type="enum" value="32(RGBM)">
+              <item value="24(RGB)"/>
+              <item value="48(RGB)"/>
+              <item value=" 1(BW)"/>
+              <item value=" 8(GREYTONES)"/>
+              <item value="32(RGBM)"/>
+              <item value="64(RGBM)"/>
+              </property>
+            <property name="Orientation" type="enum" value="Top Left">
+              <item value="Top Left"/>
+              <item value="Top Right"/>
+              <item value="Bottom Right"/>
+              <item value="Bottom Left"/>
+              <item value="Left Top"/>
+              <item value="Right Top"/>
+              <item value="Right Bottom"/>
+              <item value="Left Bottom"/>
+              </property>
+            </formatProperties>
+          </formatsProperties>
+        </output>
+      <output name="preview">
+        <range>
+          0 -1 
+        </range>
+        <step>
+          1 
+        </step>
+        <shrink>
+          1 
+        </shrink>
+        <applyShrinkToViewer>
+          0 
+        </applyShrinkToViewer>
+        <fps>
+          24 
+        </fps>
+        <path>
+          "+outputs\\.tif"
+        </path>
+        <bpp>
+          32 
+        </bpp>
+        <multimedia>
+          0 
+        </multimedia>
+        <threadsIndex>
+          2 
+        </threadsIndex>
+        <maxTileSizeIndex>
+          0 
+        </maxTileSizeIndex>
+        <subcameraPrev>
+          0 
+        </subcameraPrev>
+        <stereoscopic>
+          0 0.05 
+        </stereoscopic>
+        <resquality>
+          0 
+        </resquality>
+        <fieldprevalence>
+          0 
+        </fieldprevalence>
+        <gamma>
+          1 
+        </gamma>
+        <timestretch>
+          25 25 
+        </timestretch>
+        <formatsProperties>
+          <formatProperties ext="tif">
+            <property name="Byte Ordering" type="enum" value="IBM PC">
+              <item value="IBM PC"/>
+              <item value="Mac"/>
+              </property>
+            <property name="Compression Type" type="enum" value="Lempel-Ziv & Welch encoding">
+              <item value="Lempel-Ziv & Welch encoding"/>
+              <item value="None"/>
+              <item value="Macintosh Run-length encoding"/>
+              <item value="ThunderScan Run-length encoding"/>
+              <item value="CCITT Group 3 fax encoding"/>
+              <item value="CCITT Group 4 fax encoding"/>
+              <item value="CCITT modified Huffman Run-length encoding"/>
+              <item value="JPEG compression"/>
+              <item value="JPEG compression 6.0"/>
+              <item value="SGILog"/>
+              <item value="SGILog24"/>
+              <item value="8"/>
+              <item value="zip"/>
+              <item value="Unknown"/>
+              </property>
+            <property name="Bits Per Pixel" type="enum" value="32(RGBM)">
+              <item value="24(RGB)"/>
+              <item value="48(RGB)"/>
+              <item value=" 1(BW)"/>
+              <item value=" 8(GREYTONES)"/>
+              <item value="32(RGBM)"/>
+              <item value="64(RGBM)"/>
+              </property>
+            <property name="Orientation" type="enum" value="Top Left">
+              <item value="Top Left"/>
+              <item value="Top Right"/>
+              <item value="Bottom Right"/>
+              <item value="Bottom Left"/>
+              <item value="Left Top"/>
+              <item value="Right Top"/>
+              <item value="Right Bottom"/>
+              <item value="Left Bottom"/>
+              </property>
+            </formatProperties>
+          </formatsProperties>
+        </output>
+      </outputs>
+    <cleanupParameters>
+      <cleanupCamera>
+        <cameraSize>
+          16 9 
+        </cameraSize>
+        <cameraRes>
+          1920 1080 
+        </cameraRes>
+        <cameraXPrevalence>
+          1 
+        </cameraXPrevalence>
+        <interestRect>
+          0 0 -1 -1 
+        </interestRect>
+        </cleanupCamera>
+      <cleanupPalette>
+        <version>
+          71 0 
+        </version>
+        <styles>
+          <style>
+            color_0 3 255 255 255 0 
+          </style>
+          <style>
+            color_1 2002 0 0 0 255 0 0 0 255 0 50 70 10 
+          </style>
+          </styles>
+        <stylepages>
+          <page>
+            <name>
+              colors 
+            </name>
+            <indices>
+              0 1 
+            </indices>
+            </page>
+          </stylepages>
+        <shortcuts>
+          -1 0 1 -1 -1 -1 -1 -1 -1 -1 
+        </shortcuts>
+        </cleanupPalette>
+      <lineProcessing autoAdjust="0" mode="grey" sharpness="90.000000"/>
+      <despeckling value="2"/>
+      <aaValue value="70"/>
+      <closestField value="999.000000"/>
+      <fdg name=""/>
+      </cleanupParameters>
+    <scanParameters>
+      <paper fmt=""/>
+      </scanParameters>
+    <vectorizerParameters>
+      <version>
+        71 0 
+      </version>
+      <outline>
+        0 
+      </outline>
+      <visibilityBits>
+        -1 
+      </visibilityBits>
+      <Centerline>
+        <threshold>
+          5 
+        </threshold>
+        <accuracy>
+          10 
+        </accuracy>
+        <despeckling>
+          1 
+        </despeckling>
+        <maxThickness>
+          80 
+        </maxThickness>
+        <thicknessRatioFirst>
+          100 
+        </thicknessRatioFirst>
+        <thicknessRatioLast>
+          100 
+        </thicknessRatioLast>
+        <makeFrame>
+          0 
+        </makeFrame>
+        <paintFill>
+          0 
+        </paintFill>
+        <naaSource>
+          0 
+        </naaSource>
+        </Centerline>
+      <Outline>
+        <despeckling>
+          0 
+        </despeckling>
+        <accuracy>
+          0 
+        </accuracy>
+        <adherence>
+          40 
+        </adherence>
+        <angle>
+          0 
+        </angle>
+        <relative>
+          0 
+        </relative>
+        <maxColors>
+          1 
+        </maxColors>
+        <toneThreshold>
+          0 
+        </toneThreshold>
+        <transparentColor>
+          255 255 255 255 
+        </transparentColor>
+        <paintFill>
+          0 
+        </paintFill>
+        </Outline>
+      </vectorizerParameters>
+    <bgColor>
+      255 255 255 0 
+    </bgColor>
+    <markers>
+      6 0 
+    </markers>
+    <subsampling>
+      1 1 
+    </subsampling>
+    <fieldguide>
+      16 1.77778 
+    </fieldguide>
+    <noteColors>
+      255 235 140 255 255 160 120 255 255 180 190 255 135 205 250 255 145 240 145 255 130 255 210 255 150 245 255 255 
+    </noteColors>
+    </properties>
+  <levelSet>
+    <levels>
+      <level id='1'>
+        frame0037 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0037.png"
+        </path>
+        
+      </level>
+      <level id='2'>
+        frame0038 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0038.png"
+        </path>
+        
+      </level>
+      <level id='3'>
+        frame0039 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0039.png"
+        </path>
+        
+      </level>
+      <level id='4'>
+        frame0040 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0040.png"
+        </path>
+        
+      </level>
+      <level id='5'>
+        frame0041 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0041.png"
+        </path>
+        
+      </level>
+      <level id='6'>
+        frame0042 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0042.png"
+        </path>
+        
+      </level>
+      <level id='7'>
+        frame0043 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0043.png"
+        </path>
+        
+      </level>
+      <level id='8'>
+        frame0002 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0002.png"
+        </path>
+        
+      </level>
+      <level id='9'>
+        frame0003 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0003.png"
+        </path>
+        
+      </level>
+      <level id='10'>
+        frame0004 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0004.png"
+        </path>
+        
+      </level>
+      <level id='11'>
+        frame0005 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0005.png"
+        </path>
+        
+      </level>
+      <level id='12'>
+        frame0006 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0006.png"
+        </path>
+        
+      </level>
+      <level id='13'>
+        frame0007 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0007.png"
+        </path>
+        
+      </level>
+      <level id='14'>
+        frame0008 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0008.png"
+        </path>
+        
+      </level>
+      <level id='15'>
+        frame0009 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0009.png"
+        </path>
+        
+      </level>
+      <level id='16'>
+        frame0010 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0010.png"
+        </path>
+        
+      </level>
+      <level id='17'>
+        frame0011 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0011.png"
+        </path>
+        
+      </level>
+      <level id='18'>
+        frame0012 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0012.png"
+        </path>
+        
+      </level>
+      <level id='19'>
+        frame0013 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0013.png"
+        </path>
+        
+      </level>
+      <level id='20'>
+        frame0014 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0014.png"
+        </path>
+        
+      </level>
+      <level id='21'>
+        frame0015 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0015.png"
+        </path>
+        
+      </level>
+      <level id='22'>
+        frame0016 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0016.png"
+        </path>
+        
+      </level>
+      <level id='23'>
+        frame0017 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0017.png"
+        </path>
+        
+      </level>
+      <level id='24'>
+        frame0018 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0018.png"
+        </path>
+        
+      </level>
+      <level id='25'>
+        frame0019 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0019.png"
+        </path>
+        
+      </level>
+      <level id='26'>
+        frame0020 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0020.png"
+        </path>
+        
+      </level>
+      <level id='27'>
+        frame0021 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0021.png"
+        </path>
+        
+      </level>
+      <level id='28'>
+        frame0022 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0022.png"
+        </path>
+        
+      </level>
+      <level id='29'>
+        frame0023 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0023.png"
+        </path>
+        
+      </level>
+      <level id='30'>
+        frame0024 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0024.png"
+        </path>
+        
+      </level>
+      <level id='31'>
+        frame0025 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0025.png"
+        </path>
+        
+      </level>
+      <level id='32'>
+        frame0026 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0026.png"
+        </path>
+        
+      </level>
+      <level id='33'>
+        frame0027 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0027.png"
+        </path>
+        
+      </level>
+      <level id='34'>
+        frame0028 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0028.png"
+        </path>
+        
+      </level>
+      <level id='35'>
+        frame0029 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0029.png"
+        </path>
+        
+      </level>
+      <level id='36'>
+        frame0030 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0030.png"
+        </path>
+        
+      </level>
+      <level id='37'>
+        frame0031 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0031.png"
+        </path>
+        
+      </level>
+      <level id='38'>
+        frame0032 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0032.png"
+        </path>
+        
+      </level>
+      <level id='39'>
+        frame0033 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0033.png"
+        </path>
+        
+      </level>
+      <level id='40'>
+        frame0034 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0034.png"
+        </path>
+        
+      </level>
+      <level id='41'>
+        frame0035 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0035.png"
+        </path>
+        
+      </level>
+      <level id='42'>
+        frame0036 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\shot 2 fbf\\frame0036.png"
+        </path>
+        
+      </level>
+      <level id='43'>
+        background 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\Market background.jpg"
+        </path>
+        
+      </level>
+      <level id='44'>
+        "background man"
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 2\\background man.png"
+        </path>
+        
+      </level>
+      <level id='45'>
+        frame0002v 
+        <info dpiType="image"/>
+        <path>
+          "+drawings\\shot 2\\frame0002v.pli"
+        </path>
+        
+      </level>
+      <level id='46'>
+        frame0002v_1 
+        <info dpiType="image"/>
+        <path>
+          "+drawings\\shot 2\\frame0002v_1.pli"
+        </path>
+        
+      </level>
+      
+    </levels>
+    <folder name="Cast" type="default">
+      <levels>
+        <level id='1'/><level id='2'/><level id='12'/><level id='21'/><level id='9'/><level id='23'/><level id='24'/><level id='8'/><level id='3'/><level id='13'/><level id='14'/><level id='20'/><level id='4'/><level id='10'/><level id='17'/><level id='15'/><level id='5'/><level id='6'/><level id='7'/><level id='16'/><level id='18'/><level id='11'/><level id='19'/><level id='22'/><level id='43'/><level id='27'/><level id='26'/><level id='32'/><level id='39'/><level id='28'/><level id='44'/><level id='37'/><level id='46'/><level id='36'/><level id='45'/><level id='41'/><level id='25'/><level id='33'/><level id='34'/><level id='35'/><level id='29'/><level id='38'/><level id='30'/><level id='31'/><level id='40'/><level id='42'/>
+      </levels>
+      </folder>
+    <folder name="Audio">
+      </folder>
+    </levelSet>
+  <xsheet>
+    <columns>
+      <levelColumn id='47'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 49 <level id='43'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='48'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              24778 25059 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='49'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 49 <level id='44'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='50'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              24948 25146 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='51'>
+        
+        <status>
+          0 
+        </status>
+        <fx>
+          <Toonz_columnFx id='52'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='53'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 1 <level id='8'/>"-"0 
+          </cell>
+          <cell>
+            1 1 <level id='9'/>"-"0 
+          </cell>
+          <cell>
+            2 1 <level id='10'/>"-"0 
+          </cell>
+          <cell>
+            3 1 <level id='11'/>"-"0 
+          </cell>
+          <cell>
+            4 1 <level id='12'/>"-"0 
+          </cell>
+          <cell>
+            5 1 <level id='13'/>"-"0 
+          </cell>
+          <cell>
+            6 1 <level id='14'/>"-"0 
+          </cell>
+          <cell>
+            7 2 <level id='15'/>"-"0 
+          </cell>
+          <cell>
+            9 1 <level id='16'/>"-"0 
+          </cell>
+          <cell>
+            10 2 <level id='17'/>"-"0 
+          </cell>
+          <cell>
+            12 1 <level id='18'/>"-"0 
+          </cell>
+          <cell>
+            13 1 <level id='19'/>"-"0 
+          </cell>
+          <cell>
+            14 1 <level id='20'/>"-"0 
+          </cell>
+          <cell>
+            15 1 <level id='21'/>"-"0 
+          </cell>
+          <cell>
+            16 2 <level id='22'/>"-"0 
+          </cell>
+          <cell>
+            18 2 <level id='23'/>"-"0 
+          </cell>
+          <cell>
+            20 2 <level id='24'/>"-"0 
+          </cell>
+          <cell>
+            22 1 <level id='25'/>"-"0 
+          </cell>
+          <cell>
+            23 1 <level id='26'/>"-"0 
+          </cell>
+          <cell>
+            24 7 <level id='27'/>"-"0 
+          </cell>
+          <cell>
+            31 2 <level id='34'/>"-"0 
+          </cell>
+          <cell>
+            33 2 <level id='35'/>"-"0 
+          </cell>
+          <cell>
+            35 4 <level id='37'/>"-"0 
+          </cell>
+          <cell>
+            39 1 <level id='40'/>"-"0 
+          </cell>
+          <cell>
+            40 3 <level id='41'/>"-"0 
+          </cell>
+          <cell>
+            43 1 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            44 1 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            45 2 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            47 1 <level id='6'/>"-"0 
+          </cell>
+          <cell>
+            48 1 <level id='7'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='54'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              24742 24924 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      
+    </columns>
+    <pegbars>
+      <pegbar activeboth="yes" id="Camera1">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.0115849 
+            </L>
+            <L>
+              <prev>
+                0.420501 
+              </prev>
+              7 0.420501 
+            </L>
+            <L>
+              <prev>
+                -0.0085248 
+              </prev>
+              12 -0.0085248 
+            </L>
+            <L>
+              <prev>
+                -0.0226012 
+              </prev>
+              14 -0.0226012 
+            </L>
+            <L>
+              <prev>
+                0.280348 
+              </prev>
+              16 0.280348 
+            </L>
+            <L>
+              <prev>
+                0.535561 
+              </prev>
+              19 0.535561 
+            </L>
+            <L>
+              <prev>
+                0.533112 
+              </prev>
+              20 0.533112 
+            </L>
+            <L>
+              <prev>
+                0.451102 
+              </prev>
+              22 0.451102 
+            </L>
+            <L>
+              <prev>
+                0.0881743 
+              </prev>
+              27 0.0881743 
+            </L>
+            <L>
+              <prev>
+                0.328698 
+              </prev>
+              31 0.328698 
+            </L>
+            <L>
+              <prev>
+                0.930313 
+              </prev>
+              33 0.930313 
+            </L>
+            <L>
+              <prev>
+                0.542293 
+              </prev>
+              35 0.542293 
+            </L>
+            <L>
+              <prev>
+                0.326862 
+              </prev>
+              39 0.326862 
+            </L>
+            <L>
+              <prev>
+                0.357463 
+              </prev>
+              41 0.357463 
+            </L>
+            <L>
+              <prev>
+                0.353179 
+              </prev>
+              43 0.353179 
+            </L>
+            <L>
+              <prev>
+                -0.105224 
+              </prev>
+              46 -0.105224 
+            </L>
+            <L>
+              <prev>
+                -0.163978 
+              </prev>
+              48 -0.163978 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 1.18922 
+            </L>
+            <L>
+              <prev>
+                0.812169 
+              </prev>
+              7 0.812169 
+            </L>
+            <L>
+              <prev>
+                1.07777 
+              </prev>
+              12 1.07777 
+            </L>
+            <L>
+              <prev>
+                1.32931 
+              </prev>
+              14 1.32931 
+            </L>
+            <L>
+              <prev>
+                1.49649 
+              </prev>
+              16 1.49649 
+            </L>
+            <L>
+              <prev>
+                1.16526 
+              </prev>
+              19 1.16526 
+            </L>
+            <L>
+              <prev>
+                0.797586 
+              </prev>
+              20 0.797586 
+            </L>
+            <L>
+              <prev>
+                0.596041 
+              </prev>
+              22 0.596041 
+            </L>
+            <L>
+              <prev>
+                0.203887 
+              </prev>
+              27 0.203887 
+            </L>
+            <L>
+              <prev>
+                0.496049 
+              </prev>
+              31 0.496049 
+            </L>
+            <L>
+              <prev>
+                1.1236 
+              </prev>
+              33 1.1236 
+            </L>
+            <L>
+              <prev>
+                0.695512 
+              </prev>
+              35 0.695512 
+            </L>
+            <L>
+              <prev>
+                0.409078 
+              </prev>
+              39 0.409078 
+            </L>
+            <L>
+              <prev>
+                0.137746 
+              </prev>
+              41 0.137746 
+            </L>
+            <L>
+              <prev>
+                -0.171082 
+              </prev>
+              43 -0.171082 
+            </L>
+            <L>
+              <prev>
+                -0.42731 
+              </prev>
+              46 -0.42731 
+            </L>
+            <L>
+              <prev>
+                -0.476785 
+              </prev>
+              48 -0.476785 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24642 25622 
+        </nodePos>
+        <camera>
+          <cameraSize>
+            8.88889 5 
+          </cameraSize>
+          <cameraRes>
+            1280 720 
+          </cameraRes>
+          <cameraXPrevalence>
+            1 
+          </cameraXPrevalence>
+          <interestRect>
+            0 0 -1 -1 
+          </interestRect>
+          </camera>
+        </pegbar>
+      <pegbar id="Table">
+        <parent handle="B" id="None" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24500 25500 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col1">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <name>
+          background 
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.777475 
+            </L>
+            <L>
+              <prev>
+                0.0630733 
+              </prev>
+              48 0.0630733 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0.728397 
+            </L>
+            <L>
+              <prev>
+                1.06302 
+              </prev>
+              48 1.06302 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          <keyframes>
+            <L>
+              0 1.5418 
+            </L>
+            </keyframes>
+          </sc>
+        <nodePos>
+          24686 25534 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col2">
+        <parent handle="B" id="Col1" parentHandle="B">
+          </parent>
+        <name>
+          "background man"
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.112237 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.44324 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          <keyframes>
+            <L>
+              0 0.679903 
+            </L>
+            </keyframes>
+          </sc>
+        <nodePos>
+          24827 25533 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col3">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          1.234e+09 5.678e+09 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col4">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <name>
+          "fbf animation"
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.0187353 
+            </L>
+            <L>
+              <prev>
+                -0.393441 
+              </prev>
+              48 -0.393441 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0.0187353 
+            </L>
+            <L>
+              <prev>
+                -0.393441 
+              </prev>
+              48 -0.393441 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24680 25458 
+        </nodePos>
+        </pegbar>
+      <grid_dimension>
+        1 
+      </grid_dimension>
+      </pegbars>
+    <fxnodes>
+      <terminal>
+        <fxnode>
+          <Toonz_columnFx id='50'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='48'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='52'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='54'/>
+        </fxnode>
+        </terminal>
+      <xsheet>
+        <Toonz_xsheetFx id='55'>
+          
+          <params>
+            </params>
+          <ports>
+            </ports>
+          <dagNodePos>
+            25120 25000 
+          </dagNodePos>
+          <numberId>
+            0 
+          </numberId>
+          <name>
+            Xsheet 
+          </name>
+          <fxId>
+            "" 
+          </fxId>
+          <opened>
+            0 
+          </opened>
+          
+        </Toonz_xsheetFx>
+        
+      </xsheet>
+      <output>
+        <Toonz_outputFx id='56'>
+          
+          <params>
+            </params>
+          <ports>
+            <source>
+              <Toonz_xsheetFx id='55'/>
+            </source>
+            </ports>
+          <dagNodePos>
+            25235 24995 
+          </dagNodePos>
+          <numberId>
+            0 
+          </numberId>
+          <name>
+            OutputFx 
+          </name>
+          <fxId>
+            "" 
+          </fxId>
+          <opened>
+            0 
+          </opened>
+          
+        </Toonz_outputFx>
+        
+      </output>
+      <grid_dimension>
+        1 
+      </grid_dimension>
+      </fxnodes>
+    </xsheet>
+  <history>
+    "| #    DATE:       Time:   MACHINE:    USER:           |"
+    "| #1   10 Jan 20   02:20   LAPTOP-HC63JShayla          |"
+    "| #2   10 Jan 20   02:40   LAPTOP-HC63JShayla          |"
+    "| #3   10 Jan 20   03:13   LAPTOP-HC63JShayla          |"
+    "| #4   15 Aug 20   01:53   LAPTOP-HC63JShayla          |"
+    "| #5   15 Aug 20   02:06   LAPTOP-HC63JShayla          |"
+    "| #6   15 Aug 20   03:36   LAPTOP-HC63JShayla          |"
+    "| #7   16 Aug 20   12:45   LAPTOP-HC63JShayla          |"
+  </history>
+  </tnz>
