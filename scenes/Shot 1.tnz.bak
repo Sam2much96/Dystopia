@@ -37,10 +37,10 @@
           24 
         </fps>
         <path>
-          "+outputs/.mp4"
+          "/home/samuel/renderchan/projects/Dystopia/render/scenes/.mp4"
         </path>
         <bpp>
-          32 
+          64 
         </bpp>
         <multimedia>
           0 
@@ -414,7 +414,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/><level id='1'/>
+        <level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -968,5 +968,7 @@
     "| #5   26 Jan 24   13:54               samuel          |"
     "| #6   22 Feb 24   16:42               samuel          |"
     "| #7   22 Feb 24   17:50               samuel          |"
+    "| #8   24 Feb 24   14:33               samuel          |"
+    "| #9   02 Mar 24   05:09               samuel          |"
   </history>
   </tnz>

@@ -4,9 +4,9 @@
   </version>
   <folders>
     <folder name="inputs" path="+inputs" useScenePath="yes"/>
-    <folder name="drawings" path="drawings"/>
+    <folder name="drawings" path="drawings" useScenePath="yes"/>
     <folder name="scenes" path="scenes"/>
-    <folder name="extras" path="extras"/>
+    <folder name="extras" path="extras" useScenePath="yes"/>
     <folder name="outputs" path="outputs"/>
     <folder name="palettes" path="palettes"/>
     <folder name="scripts" path="scripts"/>
