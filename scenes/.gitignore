@@ -1,0 +1,5 @@
+# Ignore all Render files
+*.png
+/Truck 1
+/spritesheet.kra.png
+/shot 1 frame by frame .kra.png
