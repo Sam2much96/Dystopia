@@ -34,7 +34,7 @@
           0 
         </applyShrinkToViewer>
         <fps>
-          24 
+          12 
         </fps>
         <path>
           "/home/samuel/renderchan/projects/Dystopia/render/scenes/.mp4"
@@ -350,7 +350,7 @@
         "shot 1001"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/renderchan/projects/Dystopia/render/inputs/shot 1/shot 1 frame by frame .kra.png/file0000.png"
+          "$scenefolder/shot 1 frame by frame .kra.png/file0000.png"
         </path>
         
       </level>
@@ -358,7 +358,7 @@
         "shot 1002"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/renderchan/projects/Dystopia/render/inputs/shot 1/shot 1 frame by frame .kra.png/file0001.png"
+          "$scenefolder/shot 1 frame by frame .kra.png/file0001.png"
         </path>
         
       </level>
@@ -366,7 +366,7 @@
         "shot 1003"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/renderchan/projects/Dystopia/render/inputs/shot 1/shot 1 frame by frame .kra.png/file0002.png"
+          "$scenefolder/shot 1 frame by frame .kra.png/file0002.png"
         </path>
         
       </level>
@@ -374,7 +374,7 @@
         "shot 1004"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/renderchan/projects/Dystopia/render/inputs/shot 1/shot 1 frame by frame .kra.png/file0003.png"
+          "$scenefolder/shot 1 frame by frame .kra.png/file0003.png"
         </path>
         
       </level>
@@ -382,7 +382,7 @@
         "shot 1005"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/renderchan/projects/Dystopia/render/inputs/shot 1/shot 1 frame by frame .kra.png/file0004.png"
+          "$scenefolder/shot 1 frame by frame .kra.png/file0004.png"
         </path>
         
       </level>
@@ -390,7 +390,7 @@
         "shot 1006"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/renderchan/projects/Dystopia/render/inputs/shot 1/shot 1 frame by frame .kra.png/file0005.png"
+          "$scenefolder/shot 1 frame by frame .kra.png/file0005.png"
         </path>
         
       </level>
@@ -398,7 +398,7 @@
         "Truck 1 body"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/renderchan/projects/Dystopia/render/extras/Truck 1/Truck.kra.png/file0000.png"
+          "$scenefolder/Truck 1/Truck.kra.png/file0000.png"
         </path>
         
       </level>
@@ -406,7 +406,15 @@
         Tire 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/renderchan/projects/Dystopia/render/extras/Truck 1/Truck.kra.png/file0001.png"
+          "$scenefolder/Truck 1/Truck.kra.png/file0001.png"
+        </path>
+        
+      </level>
+      <level id='9'>
+        "raw 3 Dystopia Bckgrnd-1.psd"
+        <info dpix="80.000000" dpiy="80.000000" premultiply="1"/>
+        <path>
+          "$scenefolder/backgrounds/raw 3 Dystopia Bckgrnd-1.jpg"
         </path>
         
       </level>
@@ -414,7 +422,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/>
+        <level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/><level id='9'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -422,13 +430,18 @@
     </levelSet>
   <xsheet>
     <columns>
-      <levelColumn id='9'>
+      <levelColumn id='10'>
         
         <status>
           0 
         </status>
+        <cells>
+          <cell>
+            0 18 <level id='9'/>"-"0 
+          </cell>
+          </cells>
         <fx>
-          <Toonz_columnFx id='10'>
+          <Toonz_columnFx id='11'>
             
             <params>
               </params>
@@ -455,71 +468,18 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='11'>
+      <levelColumn id='12'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            0 3 <level id='1'/>"-"0 
-          </cell>
-          <cell>
-            3 3 <level id='2'/>"-"0 
-          </cell>
-          <cell>
-            6 3 <level id='3'/>"-"0 
-          </cell>
-          <cell>
-            9 3 <level id='4'/>"-"0 
-          </cell>
-          <cell>
-            12 3 <level id='5'/>"-"0 
-          </cell>
-          <cell>
-            15 3 <level id='6'/>"-"0 
+            0 18 <level id='8'/>"-"0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='12'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <dagNodePos>
-              24988 25092 
-            </dagNodePos>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='13'>
-        
-        <status>
-          0 
-        </status>
-        <cells>
-          <cell>
-            0 1 <level id='8'/>"-"0 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='14'>
+          <Toonz_columnFx id='13'>
             
             <params>
               </params>
@@ -546,18 +506,18 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='15'>
+      <levelColumn id='14'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            0 1 <level id='7'/>"-"0 
+            0 18 <level id='7'/>"-"0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='16'>
+          <Toonz_columnFx id='15'>
             
             <params>
               </params>
@@ -565,6 +525,59 @@
               </ports>
             <dagNodePos>
               25014 24863 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
+      <levelColumn id='16'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 3 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            3 3 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            6 3 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            9 3 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            12 3 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            15 3 <level id='6'/>"-"0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='17'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              24988 25092 
             </dagNodePos>
             <numberId>
               0 
@@ -684,7 +697,7 @@
           </default>
           <keyframes>
             <L>
-              0 -0.123088 
+              0 1.73659 
             </L>
             </keyframes>
           </x>
@@ -694,7 +707,7 @@
           </default>
           <keyframes>
             <L>
-              0 0.403444 
+              0 -1.98467 
             </L>
             </keyframes>
           </y>
@@ -712,72 +725,13 @@
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              0 1.53386 
-            </L>
-            </keyframes>
           </sc>
         <nodePos>
           24650 25330 
         </nodePos>
         </pegbar>
       <pegbar id="Col2">
-        <parent handle="B" id="Table" parentHandle="B">
-          </parent>
-        <name>
-          keyframes 
-        </name>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          0 0 0 0 
-        </center>
-        <status>
-          0 
-        </status>
-        <x>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 -0.542502 
-            </L>
-            </keyframes>
-          </x>
-        <y>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 -0.326286 
-            </L>
-            </keyframes>
-          </y>
-        <sx>
-          <default>
-            1 
-          </default>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          </sc>
-        <nodePos>
-          24697 25496 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col3">
-        <parent handle="B" id="Col4" parentHandle="B">
+        <parent handle="B" id="Col3" parentHandle="B">
           </parent>
         <name>
           Tire 
@@ -835,7 +789,7 @@
           24755 25394 
         </nodePos>
         </pegbar>
-      <pegbar id="Col4">
+      <pegbar id="Col3">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <name>
@@ -889,6 +843,60 @@
           24640 25429 
         </nodePos>
         </pegbar>
+      <pegbar id="Col4">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <name>
+          keyframes 
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.542502 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.326286 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24697 25496 
+        </nodePos>
+        </pegbar>
       <grid_dimension>
         1 
       </grid_dimension>
@@ -896,11 +904,20 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='12'/>
+          <Toonz_columnFx id='11'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='17'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='13'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='15'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='17'>
+        <Toonz_xsheetFx id='18'>
           
           <params>
             </params>
@@ -926,13 +943,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='18'>
+        <Toonz_outputFx id='19'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='17'/>
+              <Toonz_xsheetFx id='18'/>
             </source>
             </ports>
           <dagNodePos>
@@ -970,5 +987,11 @@
     "| #7   22 Feb 24   17:50               samuel          |"
     "| #8   24 Feb 24   14:33               samuel          |"
     "| #9   02 Mar 24   05:09               samuel          |"
+    "| #10  02 Mar 24   05:31               samuel          |"
+    "| #11  17 Mar 24   08:31               samuel          |"
+    "| #12  17 Mar 24   08:39               samuel          |"
+    "| #13  17 Mar 24   08:49               samuel          |"
+    "| #14  17 Mar 24   09:26               samuel          |"
+    "| #15  17 Mar 24   09:52               samuel          |"
   </history>
   </tnz>

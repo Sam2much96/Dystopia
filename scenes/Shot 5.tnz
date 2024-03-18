@@ -1,6 +1,6 @@
 <tnz framecount="129" version="71.0">
   <generator>
-    "OpenToonz 1.2.0"
+    "OpenToonz 1.4 (Morevna Edition)"
   </generator>
   <properties>
     <cameras>
@@ -353,7 +353,7 @@
         "shot 10000"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/DYSTOPIA/Pilot episode/shot 5/shot 10000.png"
+          "$scenefolder/shot 5  animation fbf .kra.png/file0000.png"
         </path>
         
       </level>
@@ -361,7 +361,7 @@
         "shot 10001"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/DYSTOPIA/Pilot episode/shot 5/shot 10001.png"
+          "$scenefolder/shot 5  animation fbf .kra.png/file0001.png"
         </path>
         
       </level>
@@ -369,7 +369,7 @@
         "shot 10002"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/DYSTOPIA/Pilot episode/shot 5/shot 10002.png"
+          "$scenefolder/shot 5  animation fbf .kra.png/file0002.png"
         </path>
         
       </level>
@@ -377,7 +377,7 @@
         "shot 10003"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/DYSTOPIA/Pilot episode/shot 5/shot 10003.png"
+          "$scenefolder/shot 5  animation fbf .kra.png/file0003.png"
         </path>
         
       </level>
@@ -385,39 +385,7 @@
         "shot 10004"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/DYSTOPIA/Pilot episode/shot 5/shot 10004.png"
-        </path>
-        
-      </level>
-      <level id='6'>
-        "shot 10005"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "/home/samuel/Desktop/DYSTOPIA/Pilot episode/shot 5/shot 10005.png"
-        </path>
-        
-      </level>
-      <level id='7'>
-        "shot 10006"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "/home/samuel/Desktop/DYSTOPIA/Pilot episode/shot 5/shot 10006.png"
-        </path>
-        
-      </level>
-      <level id='8'>
-        G 
-        <info dpiType="image"/>
-        <path>
-          "+drawings/G.pli"
-        </path>
-        
-      </level>
-      <level id='9'>
-        GRADIENT 
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "/home/samuel/Desktop/DYSTOPIA/Pilot episode/shot 5/GRADIENT.png"
+          "$scenefolder/shot 5  animation fbf .kra.png/file0004.png"
         </path>
         
       </level>
@@ -425,7 +393,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/><level id='9'/>
+        <level id='2'/><level id='3'/><level id='5'/><level id='1'/><level id='4'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -433,42 +401,9 @@
     </levelSet>
   <xsheet>
     <columns>
-      <levelColumn id='10'>
-        
-        <status>
-          0 
-        </status>
-        <fx>
-          <Toonz_columnFx id='11'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <dagNodePos>
-              25001 24848 
-            </dagNodePos>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <zeraryFxColumn id='12'>
-        <Toonz_zeraryColumnFx id='13'>
-          <colorCardFx id='14'>
+      <zeraryFxColumn id='6'>
+        <Toonz_zeraryColumnFx id='7'>
+          <colorCardFx id='8'>
             
             <params>
               <color>
@@ -546,7 +481,7 @@
           </cells>
         
       </zeraryFxColumn>
-      <levelColumn id='15'>
+      <levelColumn id='9'>
         
         <status>
           0 
@@ -692,7 +627,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='16'>
+          <Toonz_columnFx id='10'>
             
             <params>
               </params>
@@ -799,38 +734,7 @@
         </nodePos>
         </pegbar>
       <pegbar id="Col1">
-        <parent handle="B" id="Table" parentHandle="B">
-          </parent>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          0 0 0 0 
-        </center>
-        <status>
-          0 
-        </status>
-        <sx>
-          <default>
-            1 
-          </default>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          </sc>
-        <nodePos>
-          24620 25450 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col2">
-        <parent handle="B" id="Col3" parentHandle="B">
+        <parent handle="B" id="Col2" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -860,7 +764,7 @@
           24832 25450 
         </nodePos>
         </pegbar>
-      <pegbar id="Col3">
+      <pegbar id="Col2">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -923,7 +827,7 @@
     <fxnodes>
       <internal>
         <fxnode>
-          <STD_backlitFx id='17'>
+          <STD_backlitFx id='11'>
             
             <params>
               <value>
@@ -961,10 +865,10 @@
               </params>
             <ports>
               <Light>
-                <Toonz_zeraryColumnFx id='13'/>
+                <Toonz_zeraryColumnFx id='7'/>
               </Light>
               <Source>
-                <Toonz_columnFx id='16'/>
+                <Toonz_columnFx id='10'/>
               </Source>
               </ports>
             <dagNodePos>
@@ -987,7 +891,7 @@
           
         </fxnode>
         <fxnode>
-          <STD_glowFx id='18'>
+          <STD_glowFx id='12'>
             
             <params>
               <value>
@@ -1030,7 +934,7 @@
               </params>
             <ports>
               <Light>
-                <Toonz_columnFx id='16'/>
+                <Toonz_columnFx id='10'/>
               </Light>
               <Source>
                 </Source>
@@ -1057,17 +961,14 @@
         </internal>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='11'/>
+          <STD_backlitFx id='11'/>
         </fxnode>
         <fxnode>
-          <STD_backlitFx id='17'/>
-        </fxnode>
-        <fxnode>
-          <STD_glowFx id='18'/>
+          <STD_glowFx id='12'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='19'>
+        <Toonz_xsheetFx id='13'>
           
           <params>
             </params>
@@ -1093,13 +994,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='20'>
+        <Toonz_outputFx id='14'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='19'/>
+              <Toonz_xsheetFx id='13'/>
             </source>
             </ports>
           <dagNodePos>
@@ -1131,5 +1032,6 @@
     "| #1   11 Aug 19   10:58                |"
     "| #2   11 Aug 19   11:15                |"
     "| #3   11 Aug 19   12:02                |"
+    "| #4   17 Mar 24   15:07               samuel          |"
   </history>
   </tnz>

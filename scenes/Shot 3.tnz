@@ -1,6 +1,6 @@
 <tnz framecount="100" version="71.0">
   <generator>
-    "OpenToonz 1.4 (eXperimental)"
+    "OpenToonz 1.4 (Morevna Edition)"
   </generator>
   <properties>
     <hGuides>
@@ -43,7 +43,7 @@
           12 
         </fps>
         <path>
-          "+outputs\\.mp4"
+          "+outputs/.mp4"
         </path>
         <bpp>
           32 
@@ -142,7 +142,7 @@
           24 
         </fps>
         <path>
-          "+outputs\\.tif"
+          "+outputs/.tif"
         </path>
         <bpp>
           32 
@@ -360,9 +360,9 @@
     <levels>
       <level id='1'>
         "cow head"
-        <info premultiply="1"/>
+        <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\cow head.png"
+          "$scenefolder/shot 3.kra.png/file0006.png"
         </path>
         
       </level>
@@ -370,7 +370,7 @@
         "cow mouth"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\cow mouth.png"
+          "$scenefolder/shot 3.kra.png/file0007.png"
         </path>
         
       </level>
@@ -378,7 +378,7 @@
         "grass 1"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\grass 1.png"
+          "$scenefolder/shot 3.kra.png/file0008.png"
         </path>
         
       </level>
@@ -386,7 +386,7 @@
         "grass 2"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\grass 2.png"
+          "$scenefolder/shot 3.kra.png/file0009.png"
         </path>
         
       </level>
@@ -394,7 +394,7 @@
         gun 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\gun.png"
+          "$scenefolder/shot 3.kra.png/file0011.png"
         </path>
         
       </level>
@@ -402,7 +402,7 @@
         headdress 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\headdress.png"
+          "$scenefolder/shot 3.kra.png/file0012.png"
         </path>
         
       </level>
@@ -410,7 +410,7 @@
         "left hand"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\left hand.png"
+          "$scenefolder/shot 3.kra.png/file0004.png"
         </path>
         
       </level>
@@ -418,7 +418,7 @@
         "left leg"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\left leg.png"
+          "$scenefolder/shot 3.kra.png/file0002.png"
         </path>
         
       </level>
@@ -426,7 +426,7 @@
         "man clothes"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\man clothes.png"
+          "$scenefolder/shot 3.kra.png/file0013.png"
         </path>
         
       </level>
@@ -434,7 +434,7 @@
         "man head"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\man head.png"
+          "$scenefolder/shot 3.kra.png/file0014.png"
         </path>
         
       </level>
@@ -442,7 +442,7 @@
         neck 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\neck.png"
+          "$scenefolder/shot 3.kra.png/file0010.png"
         </path>
         
       </level>
@@ -450,7 +450,7 @@
         "raw 3 Dystopia Bckgrnd-2"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\raw 3 Dystopia Bckgrnd-2.png"
+          "$scenefolder/backgrounds/raw 3 Dystopia Bckgrnd-1.jpg"
         </path>
         
       </level>
@@ -458,103 +458,63 @@
         "right hand"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\right hand.png"
+          "$scenefolder/shot 3.kra.png/file0005.png"
         </path>
         
       </level>
       <level id='14'>
-        "right leg"
+        soldier 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\right leg.png"
+          "$scenefolder/shot 3.kra.png/file0015.png"
         </path>
         
       </level>
       <level id='15'>
-        sky 
+        tail 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\sky.png"
+          "$scenefolder/shot 3.kra.png/file0001.png"
         </path>
         
       </level>
       <level id='16'>
-        "soft light sand"
+        body 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\soft light sand.png"
+          "$scenefolder/shot 3.kra.png/file0000.png"
         </path>
         
       </level>
       <level id='17'>
-        soldier 
-        <info dpiType="image" premultiply="1"/>
+        "man clothes_mesh"
+        <info dpiType="image"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\soldier.png"
+          "$scenefolder/man clothes.mesh"
         </path>
         
       </level>
       <level id='18'>
-        tail 
-        <info dpiType="image" premultiply="1"/>
+        headdress_mesh 
+        <info dpiType="image"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\tail.png"
+          "$scenefolder/headdress.mesh"
         </path>
         
       </level>
       <level id='19'>
-        body 
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\body.png"
-        </path>
-        
-      </level>
-      <level id='20'>
-        "man clothes_mesh"
-        <info dpiType="image"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\man clothes.mesh"
-        </path>
-        
-      </level>
-      <level id='21'>
-        headdress_mesh 
-        <info dpiType="image"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\headdress.mesh"
-        </path>
-        
-      </level>
-      <level id='22'>
         tail_mesh 
         <info dpiType="image"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\tail.mesh"
+          "$scenefolder/tail.mesh"
         </path>
         
       </level>
-      <level id='23'>
-        "dust opacity 62"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\dust opacity 62.png"
-        </path>
-        
-      </level>
-      <level id='24'>
-        "dust opacity 62_mesh"
-        <info dpiType="image"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\dust opacity 62.mesh"
-        </path>
-        
-      </level>
-      <childLevel id='25'>
-        <xsheet id='26'>
+      <childLevel id='20'>
+        <xsheet id='21'>
           
           <columns>
-            <levelColumn id='27'>
+            <levelColumn id='22'>
               
               <status>
                 0 
@@ -564,11 +524,19 @@
               </camerastand_opacity>
               <cells>
                 <cell>
-                  0 1 <level id='23'/>"-"0 
+                  0 1 <level id='23'>
+                    "dust opacity 62"
+                    <info dpiType="image" premultiply="1"/>
+                    <path>
+                      "C:/Users/Shayla/Desktop/DYSTOPIA/Anime pilot- Chap 2 Money Heist/shot 3/dust opacity 62.png"
+                    </path>
+                    
+                  </level>
+                  "-"0 
                 </cell>
                 </cells>
               <fx>
-                <Toonz_columnFx id='28'>
+                <Toonz_columnFx id='24'>
                   
                   <params>
                     </params>
@@ -750,11 +718,11 @@
           <fxnodes>
             <terminal>
               <fxnode>
-                <Toonz_columnFx id='28'/>
+                <Toonz_columnFx id='24'/>
               </fxnode>
               </terminal>
             <xsheet>
-              <Toonz_xsheetFx id='29'>
+              <Toonz_xsheetFx id='25'>
                 
                 <params>
                   </params>
@@ -777,13 +745,13 @@
               
             </xsheet>
             <output>
-              <Toonz_outputFx id='30'>
+              <Toonz_outputFx id='26'>
                 
                 <params>
                   </params>
                 <ports>
                   <source>
-                    <Toonz_xsheetFx id='29'/>
+                    <Toonz_xsheetFx id='25'/>
                   </source>
                   </ports>
                 <numberId>
@@ -814,123 +782,83 @@
         </name>
         
       </childLevel>
-      <level id='31'>
-        A 
-        <info dpiType="image"/>
+      <level id='27'>
+        "wind fx 1"
+        <info dpiType="image" premultiply="1"/>
         <path>
-          "+drawings\\A.pli"
+          "$scenefolder/wind fx.kra.png/file0000.png"
+        </path>
+        
+      </level>
+      <level id='28'>
+        "wind fx 2"
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/wind fx.kra.png/file0001.png"
+        </path>
+        
+      </level>
+      <level id='29'>
+        "wind fx 3"
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/wind fx.kra.png/file0002.png"
+        </path>
+        
+      </level>
+      <level id='30'>
+        "wind fx 4"
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/wind fx.kra.png/file0004.png"
+        </path>
+        
+      </level>
+      <level id='31'>
+        "wind fx 5"
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/wind fx.kra.png/file0006.png"
         </path>
         
       </level>
       <level id='32'>
-        B 
-        <info dpiType="image"/>
+        "wind fx 6"
+        <info dpiType="image" premultiply="1"/>
         <path>
-          "+drawings\\B.pli"
+          "$scenefolder/wind fx.kra.png/file0008.png"
         </path>
         
       </level>
       <level id='33'>
-        C 
-        <info dpiType="image"/>
+        "wind fx 7"
+        <info dpiType="image" premultiply="1"/>
         <path>
-          "+drawings\\C.pli"
+          "$scenefolder/wind fx.kra.png/file0009.png"
         </path>
         
       </level>
       <level id='34'>
-        D 
-        <info dpiType="image"/>
+        "wind fx 8"
+        <info dpiType="image" premultiply="1"/>
         <path>
-          "+drawings\\D.pli"
+          "$scenefolder/wind fx.kra.png/file0010.png"
         </path>
         
       </level>
       <level id='35'>
-        "wind fx 1"
+        "wind fx 9"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\Wind gust FX\\wind fx 1.png"
+          "$scenefolder/wind fx.kra.png/file0012.png"
         </path>
         
       </level>
       <level id='36'>
-        "wind fx 2"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\Wind gust FX\\wind fx 2.png"
-        </path>
-        
-      </level>
-      <level id='37'>
-        "wind fx 3"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\Wind gust FX\\wind fx 3.png"
-        </path>
-        
-      </level>
-      <level id='38'>
-        "wind fx 4"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\Wind gust FX\\wind fx 4.png"
-        </path>
-        
-      </level>
-      <level id='39'>
-        "wind fx 5"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\Wind gust FX\\wind fx 5.png"
-        </path>
-        
-      </level>
-      <level id='40'>
-        "wind fx 6"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\Wind gust FX\\wind fx 6.png"
-        </path>
-        
-      </level>
-      <level id='41'>
-        "wind fx 7"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\Wind gust FX\\wind fx 7.png"
-        </path>
-        
-      </level>
-      <level id='42'>
-        "wind fx 8"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\Wind gust FX\\wind fx 8.png"
-        </path>
-        
-      </level>
-      <level id='43'>
-        "wind fx 9"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\Wind gust FX\\wind fx 9.png"
-        </path>
-        
-      </level>
-      <level id='44'>
         "wind fx 010"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\Wind gust FX\\wind fx 010.png"
-        </path>
-        
-      </level>
-      <level id='45'>
-        "wind fx 011"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:\\Users\\Shayla\\Desktop\\DYSTOPIA\\Anime pilot- Chap 2 Money Heist\\shot 3\\Wind gust FX\\wind fx 011.png"
+          "$scenefolder/wind fx.kra.png/file0014.png"
         </path>
         
       </level>
@@ -938,7 +866,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <childLevel id='25'/><level id='1'/><level id='44'/><level id='36'/><level id='39'/><level id='43'/><level id='31'/><level id='33'/><level id='32'/><level id='35'/><level id='41'/><level id='34'/><level id='37'/><level id='42'/><level id='24'/><level id='38'/><level id='40'/><level id='45'/><level id='16'/><level id='22'/><level id='23'/><level id='14'/><level id='3'/><level id='9'/><level id='10'/><level id='4'/><level id='18'/><level id='2'/><level id='5'/><level id='7'/><level id='19'/><level id='20'/><level id='13'/><level id='15'/><level id='21'/><level id='11'/><level id='12'/><level id='17'/><level id='8'/><level id='6'/>
+        <level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><childLevel id='20'/><level id='27'/><level id='28'/><level id='29'/><level id='30'/><level id='31'/><level id='32'/><level id='33'/><level id='34'/><level id='35'/><level id='36'/><level id='1'/><level id='2'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -946,7 +874,7 @@
     </levelSet>
   <xsheet>
     <columns>
-      <levelColumn id='46'>
+      <levelColumn id='37'>
         
         <status>
           8 
@@ -957,7 +885,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='47'>
+          <Toonz_columnFx id='38'>
             
             <params>
               </params>
@@ -984,56 +912,18 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='48'>
-        
-        <status>
-          8 
-        </status>
-        <cells>
-          <cell>
-            0 100 <level id='34'/>0001 0 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='49'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <dagNodePos>
-              25000 24950 
-            </dagNodePos>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              "LevelColumn AffineFx"
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='50'>
+      <levelColumn id='39'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            0 100 <level id='18'/>"-"0 
+            0 100 <level id='15'/>"-"0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='51'>
+          <Toonz_columnFx id='40'>
             
             <params>
               </params>
@@ -1060,19 +950,7 @@
         </fx>
         
       </levelColumn>
-      <meshColumn id='52'>
-        
-        <status>
-          0 
-        </status>
-        <cells>
-          <cell>
-            0 100 <level id='22'/>"-"0 
-          </cell>
-          </cells>
-        
-      </meshColumn>
-      <levelColumn id='53'>
+      <meshColumn id='41'>
         
         <status>
           0 
@@ -1082,8 +960,20 @@
             0 100 <level id='19'/>"-"0 
           </cell>
           </cells>
+        
+      </meshColumn>
+      <levelColumn id='42'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 100 <level id='16'/>"-"0 
+          </cell>
+          </cells>
         <fx>
-          <Toonz_columnFx id='54'>
+          <Toonz_columnFx id='43'>
             
             <params>
               </params>
@@ -1110,7 +1000,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='55'>
+      <levelColumn id='44'>
         
         <status>
           0 
@@ -1121,7 +1011,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='56'>
+          <Toonz_columnFx id='45'>
             
             <params>
               </params>
@@ -1148,45 +1038,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='57'>
-        
-        <status>
-          0 
-        </status>
-        <cells>
-          <cell>
-            0 100 <level id='14'/>"-"0 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='58'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <dagNodePos>
-              25000 24750 
-            </dagNodePos>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='59'>
+      <levelColumn id='46'>
         
         <status>
           0 
@@ -1197,7 +1049,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='60'>
+          <Toonz_columnFx id='47'>
             
             <params>
               </params>
@@ -1224,7 +1076,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='61'>
+      <levelColumn id='48'>
         
         <status>
           0 
@@ -1235,7 +1087,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='62'>
+          <Toonz_columnFx id='49'>
             
             <params>
               </params>
@@ -1262,7 +1114,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='63'>
+      <levelColumn id='50'>
         
         <status>
           0 
@@ -1273,7 +1125,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='64'>
+          <Toonz_columnFx id='51'>
             
             <params>
               </params>
@@ -1300,7 +1152,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='65'>
+      <levelColumn id='52'>
         
         <status>
           0 
@@ -1311,7 +1163,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='66'>
+          <Toonz_columnFx id='53'>
             
             <params>
               </params>
@@ -1338,7 +1190,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='67'>
+      <levelColumn id='54'>
         
         <status>
           0 
@@ -1349,7 +1201,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='68'>
+          <Toonz_columnFx id='55'>
             
             <params>
               </params>
@@ -1376,7 +1228,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='69'>
+      <levelColumn id='56'>
         
         <status>
           0 
@@ -1387,7 +1239,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='70'>
+          <Toonz_columnFx id='57'>
             
             <params>
               </params>
@@ -1414,13 +1266,13 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='71'>
+      <levelColumn id='58'>
         
         <status>
           0 
         </status>
         <fx>
-          <Toonz_columnFx id='72'>
+          <Toonz_columnFx id='59'>
             
             <params>
               </params>
@@ -1444,18 +1296,18 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='73'>
+      <levelColumn id='60'>
         
         <status>
           8 
         </status>
         <cells>
           <cell>
-            0 100 <level id='17'/>"-"0 
+            0 100 <level id='14'/>"-"0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='74'>
+          <Toonz_columnFx id='61'>
             
             <params>
               </params>
@@ -1482,7 +1334,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='75'>
+      <levelColumn id='62'>
         
         <status>
           8 
@@ -1493,7 +1345,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='76'>
+          <Toonz_columnFx id='63'>
             
             <params>
               </params>
@@ -1520,19 +1372,19 @@
         </fx>
         
       </levelColumn>
-      <meshColumn id='77'>
+      <meshColumn id='64'>
         
         <status>
           1 
         </status>
         <cells>
           <cell>
-            0 100 <level id='21'/>"-"0 
+            0 100 <level id='18'/>"-"0 
           </cell>
           </cells>
         
       </meshColumn>
-      <levelColumn id='78'>
+      <levelColumn id='65'>
         
         <status>
           0 
@@ -1543,7 +1395,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='79'>
+          <Toonz_columnFx id='66'>
             
             <params>
               </params>
@@ -1570,7 +1422,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='80'>
+      <levelColumn id='67'>
         
         <status>
           0 
@@ -1581,7 +1433,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='81'>
+          <Toonz_columnFx id='68'>
             
             <params>
               </params>
@@ -1608,7 +1460,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='82'>
+      <levelColumn id='69'>
         
         <status>
           0 
@@ -1619,7 +1471,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='83'>
+          <Toonz_columnFx id='70'>
             
             <params>
               </params>
@@ -1646,25 +1498,25 @@
         </fx>
         
       </levelColumn>
-      <meshColumn id='84'>
+      <meshColumn id='71'>
         
         <status>
           1 
         </status>
         <cells>
           <cell>
-            0 100 <level id='20'/>"-"0 
+            0 100 <level id='17'/>"-"0 
           </cell>
           </cells>
         
       </meshColumn>
-      <levelColumn id='85'>
+      <levelColumn id='72'>
         
         <status>
           0 
         </status>
         <fx>
-          <Toonz_columnFx id='86'>
+          <Toonz_columnFx id='73'>
             
             <params>
               </params>
@@ -1688,7 +1540,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='87'>
+      <levelColumn id='74'>
         
         <status>
           0 
@@ -1699,7 +1551,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='88'>
+          <Toonz_columnFx id='75'>
             
             <params>
               </params>
@@ -1726,54 +1578,13 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='89'>
-        
-        <status>
-          0 
-        </status>
-        <camerastand_opacity>
-          140 
-        </camerastand_opacity>
-        <cells>
-          <cell>
-            0 100 <level id='23'/>"-"0 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='90'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <dagNodePos>
-              25000 24100 
-            </dagNodePos>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='91'>
+      <levelColumn id='76'>
         
         <status>
           0 
         </status>
         <fx>
-          <Toonz_columnFx id='92'>
+          <Toonz_columnFx id='77'>
             
             <params>
               </params>
@@ -1797,81 +1608,75 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='93'>
+      <levelColumn id='78'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            15 3 <level id='35'/>"-"0 
+            15 3 <level id='27'/>"-"0 
           </cell>
           <cell>
-            18 3 <level id='36'/>"-"0 
+            18 3 <level id='28'/>"-"0 
           </cell>
           <cell>
-            21 3 <level id='37'/>"-"0 
+            21 3 <level id='29'/>"-"0 
           </cell>
           <cell>
-            24 3 <level id='38'/>"-"0 
+            24 3 <level id='30'/>"-"0 
           </cell>
           <cell>
-            27 3 <level id='39'/>"-"0 
+            27 3 <level id='31'/>"-"0 
           </cell>
           <cell>
-            30 3 <level id='40'/>"-"0 
+            30 3 <level id='32'/>"-"0 
           </cell>
           <cell>
-            33 3 <level id='41'/>"-"0 
+            33 3 <level id='33'/>"-"0 
           </cell>
           <cell>
-            36 3 <level id='42'/>"-"0 
+            36 3 <level id='34'/>"-"0 
           </cell>
           <cell>
-            39 3 <level id='43'/>"-"0 
+            39 3 <level id='35'/>"-"0 
           </cell>
           <cell>
-            42 3 <level id='44'/>"-"0 
+            42 6 <level id='36'/>"-"0 
           </cell>
           <cell>
-            45 3 <level id='45'/>"-"0 
+            64 3 <level id='27'/>"-"0 
           </cell>
           <cell>
-            64 3 <level id='35'/>"-"0 
+            67 3 <level id='28'/>"-"0 
           </cell>
           <cell>
-            67 3 <level id='36'/>"-"0 
+            70 3 <level id='29'/>"-"0 
           </cell>
           <cell>
-            70 3 <level id='37'/>"-"0 
+            73 3 <level id='30'/>"-"0 
           </cell>
           <cell>
-            73 3 <level id='38'/>"-"0 
+            76 3 <level id='31'/>"-"0 
           </cell>
           <cell>
-            76 3 <level id='39'/>"-"0 
+            79 3 <level id='32'/>"-"0 
           </cell>
           <cell>
-            79 3 <level id='40'/>"-"0 
+            82 3 <level id='33'/>"-"0 
           </cell>
           <cell>
-            82 3 <level id='41'/>"-"0 
+            85 3 <level id='34'/>"-"0 
           </cell>
           <cell>
-            85 3 <level id='42'/>"-"0 
+            88 3 <level id='35'/>"-"0 
           </cell>
           <cell>
-            88 3 <level id='43'/>"-"0 
-          </cell>
-          <cell>
-            91 3 <level id='44'/>"-"0 
-          </cell>
-          <cell>
-            94 3 <level id='45'/>"-"0 
+            91 6 <level id='36'/>"-"0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='94'>
+          <Toonz_columnFx id='79'>
             
             <params>
               </params>
@@ -1898,13 +1703,13 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='95'>
+      <levelColumn id='80'>
         
         <status>
           0 
         </status>
         <fx>
-          <Toonz_columnFx id='96'>
+          <Toonz_columnFx id='81'>
             
             <params>
               </params>
@@ -1928,13 +1733,13 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='97'>
+      <levelColumn id='82'>
         
         <status>
           0 
         </status>
         <fx>
-          <Toonz_columnFx id='98'>
+          <Toonz_columnFx id='83'>
             
             <params>
               </params>
@@ -1958,9 +1763,9 @@
         </fx>
         
       </levelColumn>
-      <zeraryFxColumn id='99'>
-        <Toonz_zeraryColumnFx id='100'>
-          <STD_particlesFx id='101'>
+      <zeraryFxColumn id='84'>
+        <Toonz_zeraryColumnFx id='85'>
+          <STD_particlesFx id='86'>
             
             <params>
               <source_ctrl>
@@ -2573,7 +2378,7 @@
         </Toonz_zeraryColumnFx>
         
         <status>
-          3 
+          1 
         </status>
         <cells>
           <cell>
@@ -3068,86 +2873,7 @@
         </nodePos>
         </pegbar>
       <pegbar id="Col2">
-        <parent handle="B" id="Col1" parentHandle="B">
-          </parent>
-        <name>
-          sun 
-        </name>
-        <isOpened>
-          0 
-        </isOpened>
-        <pinnedStatus>
-          <permanent>
-            0 1000000 
-          </permanent>
-          <placement>
-            1.7207 -0.576153 102.373 0.576153 1.7207 -121.404 
-          </placement>
-          </pinnedStatus>
-        <center>
-          0.126469 3.62545 -0.126469 -3.62545 
-        </center>
-        <status>
-          0 
-        </status>
-        <x>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <S>
-              0 0.552493 22.3333 0 
-            </S>
-            <L>
-              <prev>
-                0.510883 -22.3333 0 
-              </prev>
-              67 0.510883 
-            </L>
-            </keyframes>
-          </x>
-        <y>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <S>
-              0 -1.61208 22.3333 0 
-            </S>
-            <L>
-              <prev>
-                -1.6049 -22.3333 0 
-              </prev>
-              67 -1.6049 
-            </L>
-            </keyframes>
-          </y>
-        <sx>
-          <default>
-            1 
-          </default>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              0 0.101278 
-            </L>
-            </keyframes>
-          </sc>
-        <nodePos>
-          24740 25050 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col3">
-        <parent handle="B" id="Col4" parentHandle="B">
+        <parent handle="B" id="Col3" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -3185,8 +2911,8 @@
           24980 25500 
         </nodePos>
         </pegbar>
-      <pegbar id="Col4">
-        <parent handle="B" id="Col5" parentHandle="B">
+      <pegbar id="Col3">
+        <parent handle="B" id="Col4" parentHandle="B">
           </parent>
         <name>
           Col3_mesh 
@@ -4539,7 +4265,7 @@
           24860 25500 
         </nodePos>
         </pegbar>
-      <pegbar id="Col5">
+      <pegbar id="Col4">
         <parent handle="B" id="Peg1" parentHandle="B">
           </parent>
         <isOpened>
@@ -4673,8 +4399,8 @@
           24740 25500 
         </nodePos>
         </pegbar>
-      <pegbar id="Col6">
-        <parent handle="B" id="Col5" parentHandle="B">
+      <pegbar id="Col5">
+        <parent handle="B" id="Col4" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -4712,39 +4438,8 @@
           24860 25450 
         </nodePos>
         </pegbar>
-      <pegbar id="Col7">
-        <parent handle="B" id="Col5" parentHandle="B">
-          </parent>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          -2.55856 -2.10015 2.55856 2.10015 
-        </center>
-        <status>
-          0 
-        </status>
-        <sx>
-          <default>
-            1 
-          </default>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          </sc>
-        <nodePos>
-          24860 25400 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col8">
-        <parent handle="B" id="Col11" parentHandle="B">
+      <pegbar id="Col6">
+        <parent handle="B" id="Col9" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -4799,8 +4494,8 @@
           24980 25350 
         </nodePos>
         </pegbar>
-      <pegbar id="Col9">
-        <parent handle="B" id="Col8" parentHandle="B">
+      <pegbar id="Col7">
+        <parent handle="B" id="Col6" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -5225,8 +4920,8 @@
           25100 25350 
         </nodePos>
         </pegbar>
-      <pegbar id="Col10">
-        <parent handle="B" id="Col8" parentHandle="B">
+      <pegbar id="Col8">
+        <parent handle="B" id="Col6" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -5651,8 +5346,8 @@
           25100 25300 
         </nodePos>
         </pegbar>
-      <pegbar id="Col11">
-        <parent handle="B" id="Col5" parentHandle="B">
+      <pegbar id="Col9">
+        <parent handle="B" id="Col4" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -5951,8 +5646,8 @@
           24860 25350 
         </nodePos>
         </pegbar>
-      <pegbar id="Col12">
-        <parent handle="B" id="Col5" parentHandle="B">
+      <pegbar id="Col10">
+        <parent handle="B" id="Col4" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -5982,8 +5677,8 @@
           24860 25250 
         </nodePos>
         </pegbar>
-      <pegbar id="Col13">
-        <parent handle="B" id="Col5" parentHandle="B">
+      <pegbar id="Col11">
+        <parent handle="B" id="Col4" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -6013,7 +5708,7 @@
           24860 25200 
         </nodePos>
         </pegbar>
-      <pegbar id="Col14">
+      <pegbar id="Col12">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -6044,7 +5739,7 @@
           24620 24800 
         </nodePos>
         </pegbar>
-      <pegbar id="Col15">
+      <pegbar id="Col13">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -6182,8 +5877,8 @@
           24620 25000 
         </nodePos>
         </pegbar>
-      <pegbar id="Col16">
-        <parent handle="B" id="Col17" parentHandle="B">
+      <pegbar id="Col14">
+        <parent handle="B" id="Col15" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -6308,8 +6003,8 @@
           25340 25100 
         </nodePos>
         </pegbar>
-      <pegbar id="Col17">
-        <parent handle="B" id="Col23" parentHandle="B">
+      <pegbar id="Col15">
+        <parent handle="B" id="Col21" parentHandle="B">
           </parent>
         <name>
           Col15_mesh 
@@ -7572,8 +7267,8 @@
           25220 25100 
         </nodePos>
         </pegbar>
-      <pegbar id="Col18">
-        <parent handle="B" id="Col20" parentHandle="B">
+      <pegbar id="Col16">
+        <parent handle="B" id="Col18" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -8622,8 +8317,8 @@
           24980 25150 
         </nodePos>
         </pegbar>
-      <pegbar id="Col19">
-        <parent handle="B" id="Col20" parentHandle="B">
+      <pegbar id="Col17">
+        <parent handle="B" id="Col18" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -8748,8 +8443,8 @@
           24980 25100 
         </nodePos>
         </pegbar>
-      <pegbar id="Col20">
-        <parent handle="B" id="Col21" parentHandle="B">
+      <pegbar id="Col18">
+        <parent handle="B" id="Col19" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -8874,7 +8569,7 @@
           24860 25150 
         </nodePos>
         </pegbar>
-      <pegbar id="Col21">
+      <pegbar id="Col19">
         <parent handle="B" id="Peg2" parentHandle="B">
           </parent>
         <name>
@@ -10970,8 +10665,8 @@
           24740 25150 
         </nodePos>
         </pegbar>
-      <pegbar id="Col22">
-        <parent handle="B" id="Col20" parentHandle="B">
+      <pegbar id="Col20">
+        <parent handle="B" id="Col18" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -11001,8 +10696,8 @@
           25066.2 25407.6 
         </nodePos>
         </pegbar>
-      <pegbar id="Col23">
-        <parent handle="B" id="Col19" parentHandle="B">
+      <pegbar id="Col21">
+        <parent handle="B" id="Col17" parentHandle="B">
           </parent>
         <isOpened>
           0 
@@ -11259,100 +10954,7 @@
           25100 25100 
         </nodePos>
         </pegbar>
-      <pegbar id="Col24">
-        <parent handle="B" id="Table" parentHandle="B">
-          </parent>
-        <name>
-          dust 
-        </name>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          0 0 0 0 
-        </center>
-        <status>
-          0 
-        </status>
-        <x>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <S>
-              0 -6.62819 22.3333 0 
-            </S>
-            <S>
-              <prev>
-                6.9439 -22.3333 0 
-              </prev>
-              67 6.9439 22.3333 0 
-            </S>
-            <L>
-              <prev>
-                -0.18649 -6.66667 0 
-              </prev>
-              99 -0.18649 
-            </L>
-            </keyframes>
-          </x>
-        <y>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <S>
-              0 -0.467402 22.3333 0 
-            </S>
-            <S>
-              <prev>
-                -0.590561 -22.3333 0 
-              </prev>
-              67 -0.590561 22.3333 0 
-            </S>
-            <L>
-              <prev>
-                -1.56145 -6.66667 0 
-              </prev>
-              99 -1.56145 
-            </L>
-            </keyframes>
-          </y>
-        <sx>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              0 3 
-            </L>
-            </keyframes>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              0 1.5 
-            </L>
-            </keyframes>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              0 1.0337 
-            </L>
-            </keyframes>
-          </sc>
-        <nodePos>
-          24620 24950 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col25">
+      <pegbar id="Col22">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -11383,7 +10985,7 @@
           1.234e+09 5.678e+09 
         </nodePos>
         </pegbar>
-      <pegbar id="Col26">
+      <pegbar id="Col23">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <name>
@@ -11472,7 +11074,7 @@
           24620 24900 
         </nodePos>
         </pegbar>
-      <pegbar id="Col27">
+      <pegbar id="Col24">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -11503,7 +11105,7 @@
           1.234e+09 5.678e+09 
         </nodePos>
         </pegbar>
-      <pegbar id="Col28">
+      <pegbar id="Col25">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -11534,7 +11136,7 @@
           1.234e+09 5.678e+09 
         </nodePos>
         </pegbar>
-      <pegbar id="Col29">
+      <pegbar id="Col26">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <isOpened>
@@ -11572,7 +11174,7 @@
     <fxnodes>
       <internal>
         <fxnode>
-          <STD_raylitFx id='102'>
+          <STD_raylitFx id='87'>
             
             <params>
               <p>
@@ -11638,7 +11240,7 @@
               </params>
             <ports>
               <Source>
-                <Toonz_columnFx id='74'/>
+                <Toonz_columnFx id='61'/>
               </Source>
               </ports>
             <dagNodePos>
@@ -11661,217 +11263,199 @@
           
         </fxnode>
         <fxnode>
-          <STD_localBlurFx id='103'>
+          <colorDodgeFx id='88'>
             
             <params>
-              <value>
-                <default>
-                  20 
-                </default>
-                </value>
               </params>
             <ports>
-              <Reference>
-                <Toonz_columnFx id='94'/>
-              </Reference>
-              <Source>
-                <STD_hsvScaleFx id='104'>
+              <Source1>
+                <STD_fadeFx id='89'>
                   
                   <params>
-                    <hue>
-                      <default>
-                        39.866 
-                      </default>
-                      </hue>
-                    <saturation>
-                      <default>
-                        0.624 
-                      </default>
-                      </saturation>
                     <value>
                       <default>
-                        -0.195 
+                        58.683 
                       </default>
                       </value>
-                    <hue_scale>
-                      <default>
-                        100 
-                      </default>
-                      </hue_scale>
-                    <saturation_scale>
-                      <default>
-                        100 
-                      </default>
-                      </saturation_scale>
-                    <value_scale>
-                      <default>
-                        100 
-                      </default>
-                      </value_scale>
                     </params>
                   <ports>
                     <Source>
-                      <Toonz_columnFx id='94'/>
+                      <STD_localBlurFx id='90'>
+                        
+                        <params>
+                          <value>
+                            <default>
+                              20 
+                            </default>
+                            </value>
+                          </params>
+                        <ports>
+                          <Reference>
+                            <Toonz_columnFx id='79'/>
+                          </Reference>
+                          <Source>
+                            <STD_hsvScaleFx id='91'>
+                              
+                              <params>
+                                <hue>
+                                  <default>
+                                    39.866 
+                                  </default>
+                                  </hue>
+                                <saturation>
+                                  <default>
+                                    0.624 
+                                  </default>
+                                  </saturation>
+                                <value>
+                                  <default>
+                                    -0.195 
+                                  </default>
+                                  </value>
+                                <hue_scale>
+                                  <default>
+                                    100 
+                                  </default>
+                                  </hue_scale>
+                                <saturation_scale>
+                                  <default>
+                                    100 
+                                  </default>
+                                  </saturation_scale>
+                                <value_scale>
+                                  <default>
+                                    100 
+                                  </default>
+                                  </value_scale>
+                                </params>
+                              <ports>
+                                <Source>
+                                  <Toonz_columnFx id='79'/>
+                                </Source>
+                                </ports>
+                              <dagNodePos>
+                                25120 24050 
+                              </dagNodePos>
+                              <numberId>
+                                1 
+                              </numberId>
+                              <name>
+                                HSVScale01 
+                              </name>
+                              <fxId>
+                                HSVScale01 
+                              </fxId>
+                              <opened>
+                                0 
+                              </opened>
+                              
+                            </STD_hsvScaleFx>
+                            
+                          </Source>
+                          </ports>
+                        <dagNodePos>
+                          25240 24050 
+                        </dagNodePos>
+                        <numberId>
+                          1 
+                        </numberId>
+                        <name>
+                          LocalBlur01 
+                        </name>
+                        <fxId>
+                          LocalBlur01 
+                        </fxId>
+                        <opened>
+                          0 
+                        </opened>
+                        
+                      </STD_localBlurFx>
+                      
                     </Source>
                     </ports>
                   <dagNodePos>
-                    25120 24050 
+                    25360 24050 
                   </dagNodePos>
                   <numberId>
-                    1 
+                    3 
                   </numberId>
                   <name>
-                    HSVScale01 
+                    Transparency03 
                   </name>
                   <fxId>
-                    HSVScale01 
+                    Transparency03 
                   </fxId>
                   <opened>
                     0 
                   </opened>
                   
-                </STD_hsvScaleFx>
+                </STD_fadeFx>
                 
-              </Source>
+              </Source1>
+              <Source2>
+                </Source2>
               </ports>
             <dagNodePos>
-              25240 24050 
+              25467 24084 
             </dagNodePos>
             <numberId>
-              1 
+              3 
             </numberId>
             <name>
-              LocalBlur01 
+              ImageCombinationFx 
             </name>
             <fxId>
-              LocalBlur01 
+              ColorDodge03 
             </fxId>
             <opened>
               0 
             </opened>
             
-          </STD_localBlurFx>
+          </colorDodgeFx>
           
         </fxnode>
         <fxnode>
-          <STD_radialBlurFx id='105'>
+          <colorDodgeFx id='92'>
             
             <params>
-              <point>
-                <x>
-                  <default>
-                    0 
-                  </default>
-                  </x>
-                <y>
-                  <default>
-                    0 
-                  </default>
-                  </y>
-                </point>
-              <radius>
-                <default>
-                  0 
-                </default>
-                </radius>
-              <blur>
-                <default>
-                  5 
-                </default>
-                </blur>
               </params>
             <ports>
-              <Source>
-                <STD_glowFx id='106'>
-                  
-                  <params>
-                    <value>
-                      <default>
-                        10 
-                      </default>
-                      </value>
-                    <brightness>
-                      <default>
-                        100 
-                      </default>
-                      </brightness>
-                    <color>
-                      <red>
-                        <default>
-                          1 
-                        </default>
-                        </red>
-                      <green>
-                        <default>
-                          1 
-                        </default>
-                        </green>
-                      <blue>
-                        <default>
-                          1 
-                        </default>
-                        </blue>
-                      <matte>
-                        <default>
-                          1 
-                        </default>
-                        </matte>
-                      </color>
-                    <fade>
-                      <default>
-                        0 
-                      </default>
-                      </fade>
-                    </params>
-                  <ports>
-                    <Light>
-                      <Toonz_columnFx id='49'/>
-                    </Light>
-                    <Source>
-                      <Toonz_columnFx id='49'/>
-                    </Source>
-                    </ports>
-                  <dagNodePos>
-                    25120 24950 
-                  </dagNodePos>
-                  <numberId>
-                    1 
-                  </numberId>
-                  <name>
-                    Glow01 
-                  </name>
-                  <fxId>
-                    Glow01 
-                  </fxId>
-                  <opened>
-                    0 
-                  </opened>
-                  
-                </STD_glowFx>
-                
-              </Source>
+              <Source1>
+                <Toonz_zeraryColumnFx id='85'/>
+              </Source1>
+              <Source2>
+                </Source2>
               </ports>
             <dagNodePos>
-              25240 24950 
+              25120 24000 
             </dagNodePos>
             <numberId>
-              1 
+              4 
             </numberId>
             <name>
-              RadialBlur01 
+              ImageCombinationFx 
             </name>
             <fxId>
-              RadialBlur01 
+              ColorDodge04 
             </fxId>
             <opened>
               0 
             </opened>
             
-          </STD_radialBlurFx>
+          </colorDodgeFx>
           
         </fxnode>
         <fxnode>
-          <STD_inoColorDodgeFx id='107'>
+          <STD_fadeFx id='89'/>
+        </fxnode>
+        <fxnode>
+          <STD_localBlurFx id='90'/>
+        </fxnode>
+        <fxnode>
+          <STD_hsvScaleFx id='91'/>
+        </fxnode>
+        <fxnode>
+          <STD_inoColorDodgeFx id='93'>
             
             <params>
               <opacity>
@@ -11887,7 +11471,7 @@
               <Back>
                 </Back>
               <Fore>
-                <STD_bodyHighLightFx id='108'>
+                <STD_bodyHighLightFx id='94'>
                   
                   <params>
                     <mode>
@@ -11948,7 +11532,7 @@
                     </params>
                   <ports>
                     <Source>
-                      <Toonz_columnFx id='88'/>
+                      <Toonz_columnFx id='75'/>
                     </Source>
                     </ports>
                   <dagNodePos>
@@ -11991,7 +11575,10 @@
           
         </fxnode>
         <fxnode>
-          <STD_inoColorDodgeFx id='109'>
+          <STD_bodyHighLightFx id='94'/>
+        </fxnode>
+        <fxnode>
+          <STD_inoColorDodgeFx id='95'>
             
             <params>
               <opacity>
@@ -12007,7 +11594,7 @@
               <Back>
                 </Back>
               <Fore>
-                <STD_bodyHighLightFx id='110'>
+                <STD_bodyHighLightFx id='96'>
                   
                   <params>
                     <mode>
@@ -12063,7 +11650,7 @@
                     </params>
                   <ports>
                     <Source>
-                      <Toonz_columnFx id='76'/>
+                      <Toonz_columnFx id='63'/>
                     </Source>
                     </ports>
                   <dagNodePos>
@@ -12106,100 +11693,10 @@
           
         </fxnode>
         <fxnode>
-          <colorDodgeFx id='111'>
-            
-            <params>
-              </params>
-            <ports>
-              <Source1>
-                <STD_fadeFx id='112'>
-                  
-                  <params>
-                    <value>
-                      <default>
-                        58.683 
-                      </default>
-                      </value>
-                    </params>
-                  <ports>
-                    <Source>
-                      <STD_localBlurFx id='103'/>
-                    </Source>
-                    </ports>
-                  <dagNodePos>
-                    25360 24050 
-                  </dagNodePos>
-                  <numberId>
-                    3 
-                  </numberId>
-                  <name>
-                    Transparency03 
-                  </name>
-                  <fxId>
-                    Transparency03 
-                  </fxId>
-                  <opened>
-                    0 
-                  </opened>
-                  
-                </STD_fadeFx>
-                
-              </Source1>
-              <Source2>
-                </Source2>
-              </ports>
-            <dagNodePos>
-              25467 24084 
-            </dagNodePos>
-            <numberId>
-              3 
-            </numberId>
-            <name>
-              ImageCombinationFx 
-            </name>
-            <fxId>
-              ColorDodge03 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </colorDodgeFx>
-          
+          <STD_bodyHighLightFx id='96'/>
         </fxnode>
         <fxnode>
-          <colorDodgeFx id='113'>
-            
-            <params>
-              </params>
-            <ports>
-              <Source1>
-                <Toonz_zeraryColumnFx id='100'/>
-              </Source1>
-              <Source2>
-                </Source2>
-              </ports>
-            <dagNodePos>
-              25120 24000 
-            </dagNodePos>
-            <numberId>
-              4 
-            </numberId>
-            <name>
-              ImageCombinationFx 
-            </name>
-            <fxId>
-              ColorDodge04 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </colorDodgeFx>
-          
-        </fxnode>
-        <fxnode>
-          <STD_brightContFx id='114'>
+          <STD_brightContFx id='97'>
             
             <params>
               <brightness>
@@ -12215,7 +11712,7 @@
               </params>
             <ports>
               <Source>
-                <Toonz_columnFx id='47'/>
+                <Toonz_columnFx id='38'/>
               </Source>
               </ports>
             <dagNodePos>
@@ -12238,7 +11735,7 @@
           
         </fxnode>
         <fxnode>
-          <STD_bodyHighLightFx id='115'>
+          <STD_bodyHighLightFx id='98'>
             
             <params>
               <mode>
@@ -12294,7 +11791,7 @@
               </params>
             <ports>
               <Source>
-                <Toonz_columnFx id='54'/>
+                <Toonz_columnFx id='43'/>
               </Source>
               </ports>
             <dagNodePos>
@@ -12317,13 +11814,7 @@
           
         </fxnode>
         <fxnode>
-          <STD_bodyHighLightFx id='110'/>
-        </fxnode>
-        <fxnode>
-          <STD_glowFx id='106'/>
-        </fxnode>
-        <fxnode>
-          <STD_bodyHighLightFx id='116'>
+          <STD_bodyHighLightFx id='99'>
             
             <params>
               <mode>
@@ -12379,7 +11870,7 @@
               </params>
             <ports>
               <Source>
-                <Toonz_columnFx id='79'/>
+                <Toonz_columnFx id='66'/>
               </Source>
               </ports>
             <dagNodePos>
@@ -12402,10 +11893,7 @@
           
         </fxnode>
         <fxnode>
-          <STD_bodyHighLightFx id='108'/>
-        </fxnode>
-        <fxnode>
-          <STD_bodyHighLightFx id='117'>
+          <STD_bodyHighLightFx id='100'>
             
             <params>
               <mode>
@@ -12461,7 +11949,7 @@
               </params>
             <ports>
               <Source>
-                <Toonz_columnFx id='81'/>
+                <Toonz_columnFx id='68'/>
               </Source>
               </ports>
             <dagNodePos>
@@ -12484,7 +11972,7 @@
           
         </fxnode>
         <fxnode>
-          <STD_bodyHighLightFx id='118'>
+          <STD_bodyHighLightFx id='101'>
             
             <params>
               <mode>
@@ -12540,7 +12028,7 @@
               </params>
             <ports>
               <Source>
-                <Toonz_columnFx id='83'/>
+                <Toonz_columnFx id='70'/>
               </Source>
               </ports>
             <dagNodePos>
@@ -12562,132 +12050,83 @@
           </STD_bodyHighLightFx>
           
         </fxnode>
-        <fxnode>
-          <STD_hsvScaleFx id='104'/>
-        </fxnode>
-        <fxnode>
-          <STD_fadeFx id='112'/>
-        </fxnode>
-        <fxnode>
-          <STD_fadeFx id='119'>
-            
-            <params>
-              <value>
-                <default>
-                  34.194 
-                </default>
-                </value>
-              </params>
-            <ports>
-              <Source>
-                <Toonz_columnFx id='90'/>
-              </Source>
-              </ports>
-            <dagNodePos>
-              25120 24100 
-            </dagNodePos>
-            <numberId>
-              1 
-            </numberId>
-            <name>
-              Transparency01 
-            </name>
-            <fxId>
-              Transparency01 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </STD_fadeFx>
-          
-        </fxnode>
         </internal>
       <terminal>
         <fxnode>
-          <STD_raylitFx id='102'/>
+          <Toonz_columnFx id='53'/>
         </fxnode>
         <fxnode>
-          <STD_radialBlurFx id='105'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='81'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='86'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='92'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='96'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='98'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='70'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='62'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='64'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='72'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='68'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='56'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='58'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='60'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='66'/>
+          <Toonz_columnFx id='49'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='51'/>
         </fxnode>
         <fxnode>
-          <STD_inoColorDodgeFx id='107'/>
+          <Toonz_columnFx id='45'/>
         </fxnode>
         <fxnode>
-          <STD_inoColorDodgeFx id='109'/>
+          <STD_raylitFx id='87'/>
         </fxnode>
         <fxnode>
-          <colorDodgeFx id='111'/>
+          <Toonz_columnFx id='81'/>
         </fxnode>
         <fxnode>
-          <colorDodgeFx id='113'/>
+          <Toonz_columnFx id='83'/>
         </fxnode>
         <fxnode>
-          <STD_brightContFx id='114'/>
+          <Toonz_columnFx id='40'/>
         </fxnode>
         <fxnode>
-          <STD_bodyHighLightFx id='115'/>
+          <Toonz_columnFx id='57'/>
         </fxnode>
         <fxnode>
-          <STD_bodyHighLightFx id='116'/>
+          <Toonz_columnFx id='47'/>
         </fxnode>
         <fxnode>
-          <STD_bodyHighLightFx id='117'/>
+          <Toonz_columnFx id='68'/>
         </fxnode>
         <fxnode>
-          <STD_bodyHighLightFx id='118'/>
+          <Toonz_columnFx id='55'/>
         </fxnode>
         <fxnode>
-          <STD_fadeFx id='119'/>
+          <Toonz_columnFx id='59'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='73'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='77'/>
+        </fxnode>
+        <fxnode>
+          <colorDodgeFx id='88'/>
+        </fxnode>
+        <fxnode>
+          <colorDodgeFx id='92'/>
+        </fxnode>
+        <fxnode>
+          <STD_inoColorDodgeFx id='93'/>
+        </fxnode>
+        <fxnode>
+          <STD_inoColorDodgeFx id='95'/>
+        </fxnode>
+        <fxnode>
+          <STD_brightContFx id='97'/>
+        </fxnode>
+        <fxnode>
+          <STD_bodyHighLightFx id='98'/>
+        </fxnode>
+        <fxnode>
+          <STD_bodyHighLightFx id='99'/>
+        </fxnode>
+        <fxnode>
+          <STD_bodyHighLightFx id='100'/>
+        </fxnode>
+        <fxnode>
+          <STD_bodyHighLightFx id='101'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='120'>
+        <Toonz_xsheetFx id='102'>
           
           <params>
             </params>
@@ -12713,13 +12152,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='121'>
+        <Toonz_outputFx id='103'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='120'/>
+              <Toonz_xsheetFx id='102'/>
             </source>
             </ports>
           <dagNodePos>
@@ -12769,5 +12208,7 @@
     "| #19  09 Jul 20   04:42   LAPTOP-HC63JShayla          |"
     "| #20  09 Jul 20   05:22   LAPTOP-HC63JShayla          |"
     "| #21  18 Jul 20   00:45   LAPTOP-HC63JShayla          |"
+    "| #22  17 Mar 24   14:06               samuel          |"
+    "| #23  18 Mar 24   04:20               samuel          |"
   </history>
   </tnz>
