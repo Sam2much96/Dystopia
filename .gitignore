@@ -2,3 +2,5 @@
 render/*
 *.webp
 *.png
+extras/sfx
+*.mp3
