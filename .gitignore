@@ -1,2 +1,4 @@
 # Render files
 render/*
+*.webp
+*.png

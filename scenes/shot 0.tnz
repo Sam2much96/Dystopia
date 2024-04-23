@@ -347,14 +347,6 @@
   <levelSet>
     <levels>
       <level id='1'>
-        bckgrnd 
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "/home/samuel/Downloads/scene1 assets/bg gradient.png"
-        </path>
-        
-      </level>
-      <level id='2'>
         earth 
         <info dpiType="image" premultiply="1"/>
         <path>
@@ -362,19 +354,11 @@
         </path>
         
       </level>
-      <level id='3'>
+      <level id='2'>
         moon 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "$scenefolder/earth/earth.kra.png/file0001.png"
-        </path>
-        
-      </level>
-      <level id='4'>
-        satelite 
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "/home/samuel/Downloads/scene1 assets/satelite.png"
+          "/home/samuel/RenderChan/projects/Dystopia/render/extras/earth/earth.kra.png/file0001.png"
         </path>
         
       </level>
@@ -382,7 +366,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='1'/><level id='2'/><level id='3'/><level id='4'/>
+        <level id='1'/><level id='2'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -390,9 +374,9 @@
     </levelSet>
   <xsheet>
     <columns>
-      <zeraryFxColumn id='5'>
-        <Toonz_zeraryColumnFx id='6'>
-          <SHADER_starsky id='7'>
+      <zeraryFxColumn id='3'>
+        <Toonz_zeraryColumnFx id='4'>
+          <SHADER_starsky id='5'>
             
             <params>
               <color>
@@ -468,7 +452,7 @@
         </Toonz_zeraryColumnFx>
         
         <status>
-          0 
+          1 
         </status>
         <cells>
           <cell>
@@ -477,9 +461,9 @@
           </cells>
         
       </zeraryFxColumn>
-      <zeraryFxColumn id='8'>
-        <Toonz_zeraryColumnFx id='9'>
-          <colorCardFx id='10'>
+      <zeraryFxColumn id='6'>
+        <Toonz_zeraryColumnFx id='7'>
+          <colorCardFx id='8'>
             
             <params>
               <color>
@@ -545,7 +529,7 @@
         </Toonz_zeraryColumnFx>
         
         <status>
-          0 
+          1 
         </status>
         <cells>
           <cell>
@@ -554,9 +538,9 @@
           </cells>
         
       </zeraryFxColumn>
-      <zeraryFxColumn id='11'>
-        <Toonz_zeraryColumnFx id='12'>
-          <STD_iwa_LinearGradientFx id='13'>
+      <zeraryFxColumn id='9'>
+        <Toonz_zeraryColumnFx id='10'>
+          <STD_iwa_LinearGradientFx id='11'>
             
             <params>
               <startPoint>
@@ -686,7 +670,7 @@
         </Toonz_zeraryColumnFx>
         
         <status>
-          0 
+          1 
         </status>
         <cells>
           <cell>
@@ -695,18 +679,18 @@
           </cells>
         
       </zeraryFxColumn>
-      <levelColumn id='14'>
+      <levelColumn id='12'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            0 186 <level id='2'/>"-"0 
+            0 186 <level id='1'/>"-"0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='15'>
+          <Toonz_columnFx id='13'>
             
             <params>
               </params>
@@ -733,18 +717,18 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='16'>
+      <levelColumn id='14'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            0 186 <level id='3'/>"-"0 
+            0 186 <level id='2'/>"-"0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='17'>
+          <Toonz_columnFx id='15'>
             
             <params>
               </params>
@@ -757,7 +741,7 @@
               0 
             </numberId>
             <name>
-              "LevelColumn AffineFx"
+              LevelColumn 
             </name>
             <fxId>
               "" 
@@ -1017,13 +1001,13 @@
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <name>
-          moon 
+          "moon 2"
         </name>
         <isOpened>
           0 
         </isOpened>
         <center>
-          3.38947 -2.65837 -6.37748 -114.42 
+          -2.57266 -1.12338 19.6335 7.62466 
         </center>
         <status>
           0 
@@ -1034,7 +1018,7 @@
           </default>
           <keyframes>
             <L>
-              0 -6.04 
+              0 18.8811 
             </L>
             </keyframes>
           </x>
@@ -1044,7 +1028,7 @@
           </default>
           <keyframes>
             <L>
-              0 -115.309 
+              0 7.19573 
             </L>
             </keyframes>
           </y>
@@ -1064,7 +1048,7 @@
           </default>
           <keyframes>
             <L>
-              0 6.02102 
+              0 5.83544 
             </L>
             </keyframes>
           </sc>
@@ -1074,25 +1058,13 @@
           </default>
           <keyframes>
             <L>
-              0 -100.745 
+              0 -2.41281 
             </L>
             <L>
               <prev>
-                -186.167 
+                -110.426 
               </prev>
-              53 -186.167 
-            </L>
-            <L>
-              <prev>
-                -264.855 
-              </prev>
-              113 -264.855 
-            </L>
-            <L>
-              <prev>
-                -364.48 
-              </prev>
-              186 -364.48 
+              185 -110.426 
             </L>
             </keyframes>
           </rot>
@@ -1107,7 +1079,7 @@
     <fxnodes>
       <internal>
         <fxnode>
-          <STD_fadeFx id='18'>
+          <STD_fadeFx id='16'>
             
             <params>
               <value>
@@ -1118,7 +1090,7 @@
               </params>
             <ports>
               <Source>
-                <Toonz_zeraryColumnFx id='6'/>
+                <Toonz_zeraryColumnFx id='4'/>
               </Source>
               </ports>
             <dagNodePos>
@@ -1141,7 +1113,7 @@
           
         </fxnode>
         <fxnode>
-          <multFx id='19'>
+          <multFx id='17'>
             
             <params>
               <value>
@@ -1155,13 +1127,13 @@
               </params>
             <ports>
               <Source1>
-                <Toonz_zeraryColumnFx id='12'/>
+                <Toonz_zeraryColumnFx id='10'/>
               </Source1>
               <Source2>
-                <STD_fadeFx id='18'/>
+                <STD_fadeFx id='16'/>
               </Source2>
               <Source3>
-                <Toonz_zeraryColumnFx id='9'/>
+                <Toonz_zeraryColumnFx id='7'/>
               </Source3>
               <Source4>
                 </Source4>
@@ -1188,17 +1160,17 @@
         </internal>
       <terminal>
         <fxnode>
+          <multFx id='17'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='13'/>
+        </fxnode>
+        <fxnode>
           <Toonz_columnFx id='15'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='17'/>
-        </fxnode>
-        <fxnode>
-          <multFx id='19'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='20'>
+        <Toonz_xsheetFx id='18'>
           
           <params>
             </params>
@@ -1224,13 +1196,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='21'>
+        <Toonz_outputFx id='19'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='20'/>
+              <Toonz_xsheetFx id='18'/>
             </source>
             </ports>
           <dagNodePos>
@@ -1266,5 +1238,7 @@
     "| #5   26 Oct 21   20:06                |"
     "| #6   27 Oct 21   09:36                |"
     "| #7   17 Mar 24   10:26               samuel          |"
+    "| #8   26 Mar 24   13:19               samuel          |"
+    "| #9   26 Mar 24   13:52               samuel          |"
   </history>
   </tnz>

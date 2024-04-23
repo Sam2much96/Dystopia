@@ -1,4 +1,4 @@
-<tnz framecount="39" version="71.0">
+<tnz framecount="51" version="71.0">
   <generator>
     "OpenToonz 1.4 (Morevna Edition)"
   </generator>
@@ -6,10 +6,10 @@
     <cameras>
       <camera>
         <cameraSize>
-          10.6667 6 
+          4.58406 4.58815 
         </cameraSize>
         <cameraRes>
-          1280 720 
+          550 550 
         </cameraRes>
         <cameraXPrevalence>
           1 
@@ -677,11 +677,115 @@
         </path>
         
       </level>
+      <level id='40'>
+        file0099 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0099.png"
+        </path>
+        
+      </level>
+      <level id='41'>
+        file0100 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0100.png"
+        </path>
+        
+      </level>
+      <level id='42'>
+        file0105 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0105.png"
+        </path>
+        
+      </level>
+      <level id='43'>
+        file0111 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0111.png"
+        </path>
+        
+      </level>
+      <level id='44'>
+        file0112 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0112.png"
+        </path>
+        
+      </level>
+      <level id='45'>
+        file0113 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0113.png"
+        </path>
+        
+      </level>
+      <level id='46'>
+        file0116 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0116.png"
+        </path>
+        
+      </level>
+      <level id='47'>
+        file0117 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0117.png"
+        </path>
+        
+      </level>
+      <level id='48'>
+        file0118 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0118.png"
+        </path>
+        
+      </level>
+      <level id='49'>
+        file0120 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0120.png"
+        </path>
+        
+      </level>
+      <level id='50'>
+        file0121 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0121.png"
+        </path>
+        
+      </level>
+      <level id='51'>
+        file0122 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0122.png"
+        </path>
+        
+      </level>
+      <level id='52'>
+        file0082 
+        <info dpiType="image" premultiply="1"/>
+        <path>
+          "$scenefolder/spritesheet.kra.png/file0082.png"
+        </path>
+        
+      </level>
       
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><level id='20'/><level id='21'/><level id='22'/><level id='23'/><level id='24'/><level id='25'/><level id='26'/><level id='27'/><level id='28'/><level id='29'/><level id='30'/><level id='31'/><level id='32'/><level id='33'/><level id='34'/><level id='35'/><level id='36'/><level id='37'/><level id='38'/><level id='39'/>
+        <level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><level id='20'/><level id='21'/><level id='22'/><level id='23'/><level id='24'/><level id='25'/><level id='26'/><level id='27'/><level id='28'/><level id='29'/><level id='30'/><level id='31'/><level id='32'/><level id='33'/><level id='34'/><level id='35'/><level id='36'/><level id='37'/><level id='38'/><level id='39'/><level id='40'/><level id='41'/><level id='42'/><level id='43'/><level id='44'/><level id='45'/><level id='46'/><level id='47'/><level id='48'/><level id='49'/><level id='50'/><level id='51'/><level id='52'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -689,9 +793,9 @@
     </levelSet>
   <xsheet>
     <columns>
-      <zeraryFxColumn id='40'>
-        <Toonz_zeraryColumnFx id='41'>
-          <colorCardFx id='42'>
+      <zeraryFxColumn id='53'>
+        <Toonz_zeraryColumnFx id='54'>
+          <colorCardFx id='55'>
             
             <params>
               <color>
@@ -757,16 +861,16 @@
         </Toonz_zeraryColumnFx>
         
         <status>
-          0 
+          1 
         </status>
         <cells>
           <cell>
-            0 39 
+            0 51 
           </cell>
           </cells>
         
       </zeraryFxColumn>
-      <levelColumn id='43'>
+      <levelColumn id='56'>
         
         <status>
           0 
@@ -881,7 +985,7 @@
             35 1 <level id='39'/>"-"0 
           </cell>
           <cell>
-            36 1 <level id='35'/>"-"0 
+            36 1 <level id='52'/>"-"0 
           </cell>
           <cell>
             37 1 <level id='36'/>"-"0 
@@ -889,9 +993,45 @@
           <cell>
             38 1 <level id='37'/>"-"0 
           </cell>
+          <cell>
+            39 1 <level id='40'/>"-"0 
+          </cell>
+          <cell>
+            40 1 <level id='41'/>"-"0 
+          </cell>
+          <cell>
+            41 1 <level id='42'/>"-"0 
+          </cell>
+          <cell>
+            42 1 <level id='43'/>"-"0 
+          </cell>
+          <cell>
+            43 1 <level id='44'/>"-"0 
+          </cell>
+          <cell>
+            44 1 <level id='45'/>"-"0 
+          </cell>
+          <cell>
+            45 1 <level id='46'/>"-"0 
+          </cell>
+          <cell>
+            46 1 <level id='47'/>"-"0 
+          </cell>
+          <cell>
+            47 1 <level id='48'/>"-"0 
+          </cell>
+          <cell>
+            48 1 <level id='49'/>"-"0 
+          </cell>
+          <cell>
+            49 1 <level id='50'/>"-"0 
+          </cell>
+          <cell>
+            50 1 <level id='51'/>"-"0 
+          </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='44'>
+          <Toonz_columnFx id='57'>
             
             <params>
               </params>
@@ -950,10 +1090,10 @@
         </nodePos>
         <camera>
           <cameraSize>
-            10.6667 6 
+            4.58406 4.58815 
           </cameraSize>
           <cameraRes>
-            1280 720 
+            550 550 
           </cameraRes>
           <cameraXPrevalence>
             1 
@@ -1037,6 +1177,26 @@
         <status>
           0 
         </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.0240634 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 0.120317 
+            </L>
+            </keyframes>
+          </y>
         <sx>
           <default>
             1 
@@ -1051,6 +1211,11 @@
           <default>
             1 
           </default>
+          <keyframes>
+            <L>
+              0 0.434677 
+            </L>
+            </keyframes>
           </sc>
         <nodePos>
           1.234e+09 5.678e+09 
@@ -1063,14 +1228,14 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='44'/>
+          <Toonz_zeraryColumnFx id='54'/>
         </fxnode>
         <fxnode>
-          <Toonz_zeraryColumnFx id='41'/>
+          <Toonz_columnFx id='57'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='45'>
+        <Toonz_xsheetFx id='58'>
           
           <params>
             </params>
@@ -1096,13 +1261,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='46'>
+        <Toonz_outputFx id='59'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='45'/>
+              <Toonz_xsheetFx id='58'/>
             </source>
             </ports>
           <dagNodePos>
@@ -1134,6 +1299,9 @@
     "| #1   06 Dec 20   18:40   LAPTOP-HC63JShayla          |"
     "| #2   06 Dec 20   18:56   LAPTOP-HC63JShayla          |"
     "| #3   04 Mar 24   16:43               samuel          |"
-    "| #4   05 Mar 24   15:12               samuel          |"
+    "| #4   05 Mar 24   15:19               samuel          |"
+    "| #5   14 Apr 24   13:40               samuel          |"
+    "| #6   14 Apr 24   13:50               samuel          |"
+    "| #7   15 Apr 24   22:44               samuel          |"
   </history>
   </tnz>

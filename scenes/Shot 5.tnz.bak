@@ -34,7 +34,7 @@
           0 
         </applyShrinkToViewer>
         <fps>
-          24 
+          12 
         </fps>
         <path>
           "/home/samuel/Desktop/DYSTOPIA/Pilot episode/shot 5/shot 5 final animation/.mp4"
@@ -332,7 +332,7 @@
         </Outline>
       </vectorizerParameters>
     <bgColor>
-      255 255 255 0 
+      255 255 255 255 
     </bgColor>
     <markers>
       6 0 
@@ -393,7 +393,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='2'/><level id='3'/><level id='5'/><level id='1'/><level id='4'/>
+        <level id='3'/><level id='1'/><level id='2'/><level id='4'/><level id='5'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -414,12 +414,12 @@
                   </red>
                 <green>
                   <default>
-                    0.960784 
+                    1 
                   </default>
                   </green>
                 <blue>
                   <default>
-                    0.976471 
+                    1 
                   </default>
                   </blue>
                 <matte>
@@ -1033,5 +1033,7 @@
     "| #2   11 Aug 19   11:15                |"
     "| #3   11 Aug 19   12:02                |"
     "| #4   17 Mar 24   15:07               samuel          |"
+    "| #5   21 Mar 24   17:36               samuel          |"
+    "| #6   22 Mar 24   00:38               samuel          |"
   </history>
   </tnz>

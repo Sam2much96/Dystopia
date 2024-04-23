@@ -522,7 +522,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='16'/><level id='13'/><level id='12'/><level id='18'/><level id='15'/><level id='11'/><level id='9'/><level id='14'/><level id='10'/><level id='1'/><level id='2'/><level id='3'/><level id='8'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='19'/><level id='21'/><level id='17'/><level id='22'/><level id='20'/>
+        <level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><level id='20'/><level id='21'/><level id='22'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -806,77 +806,23 @@
         <status>
           0 
         </status>
-        <x>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <S>
-              0 -0.0721507 7 0 
-            </S>
-            <L>
-              <prev>
-                -0.0796682 -7 0 
-              </prev>
-              21 -0.0796682 
-            </L>
-            </keyframes>
-          </x>
-        <y>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <S>
-              0 -0.153216 7 0 
-            </S>
-            <L>
-              <prev>
-                -0.169824 -7 0 
-              </prev>
-              21 -0.169824 
-            </L>
-            </keyframes>
-          </y>
         <sx>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              0 1.12356 
-            </L>
-            </keyframes>
           </sx>
         <sy>
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              0 1.14008 
-            </L>
-            </keyframes>
           </sy>
         <sc>
           <default>
             1 
           </default>
           <keyframes>
-            <S>
-              0 1.3302 0.666667 0 
-            </S>
-            <S>
-              <prev>
-                0.230011 -0.666667 0 
-              </prev>
-              2 0.230011 0.666667 0 
-            </S>
             <L>
-              <prev>
-                1.53418 -6.33333 0 
-              </prev>
-              21 1.53418 
+              0 2.36614 
             </L>
             </keyframes>
           </sc>
@@ -1014,9 +960,15 @@
             1 
           </default>
           <keyframes>
-            <S>
-              0 3.78734 7 0 
-            </S>
+            <L>
+              0 3.78734 
+            </L>
+            <L>
+              <prev>
+                3.36071 
+              </prev>
+              77 3.36071 
+            </L>
             </keyframes>
           </sc>
         <nodePos>
@@ -1044,7 +996,7 @@
           </default>
           <keyframes>
             <L>
-              0 -1.20907 
+              0 0.343704 
             </L>
             </keyframes>
           </x>
@@ -1054,7 +1006,7 @@
           </default>
           <keyframes>
             <L>
-              0 -0.917565 
+              0 0.0757953 
             </L>
             </keyframes>
           </y>
@@ -1074,7 +1026,7 @@
           </default>
           <keyframes>
             <L>
-              0 2.72467 
+              0 6.57405 
             </L>
             </keyframes>
           </sc>
@@ -1111,6 +1063,11 @@
           <default>
             1 
           </default>
+          <keyframes>
+            <L>
+              0 6.31083 
+            </L>
+            </keyframes>
           </sc>
         <nodePos>
           1.234e+09 5.678e+09 
@@ -1123,13 +1080,13 @@
     <fxnodes>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='26'/>
+          <Toonz_columnFx id='28'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='24'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='28'/>
+          <Toonz_columnFx id='26'/>
         </fxnode>
         </terminal>
       <xsheet>
@@ -1197,6 +1154,7 @@
     "| #1   08 Jul 19   22:14                |"
     "| #2   08 Jul 19   22:34                |"
     "| #3   08 Jul 19   23:07                |"
-    "| #4   18 Mar 24   05:32               samuel          |"
+    "| #4   18 Mar 24   05:36               samuel          |"
+    "| #5   21 Mar 24   17:57               samuel          |"
   </history>
   </tnz>

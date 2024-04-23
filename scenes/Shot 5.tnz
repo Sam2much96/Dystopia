@@ -1,4 +1,4 @@
-<tnz framecount="129" version="71.0">
+<tnz framecount="258" version="71.0">
   <generator>
     "OpenToonz 1.4 (Morevna Edition)"
   </generator>
@@ -34,7 +34,7 @@
           0 
         </applyShrinkToViewer>
         <fps>
-          24 
+          12 
         </fps>
         <path>
           "/home/samuel/Desktop/DYSTOPIA/Pilot episode/shot 5/shot 5 final animation/.mp4"
@@ -332,7 +332,7 @@
         </Outline>
       </vectorizerParameters>
     <bgColor>
-      255 255 255 0 
+      255 255 255 255 
     </bgColor>
     <markers>
       6 0 
@@ -393,7 +393,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='2'/><level id='3'/><level id='5'/><level id='1'/><level id='4'/>
+        <level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -414,12 +414,12 @@
                   </red>
                 <green>
                   <default>
-                    0.960784 
+                    1 
                   </default>
                   </green>
                 <blue>
                   <default>
-                    0.976471 
+                    1 
                   </default>
                   </blue>
                 <matte>
@@ -476,7 +476,7 @@
         </status>
         <cells>
           <cell>
-            0 129 
+            0 258 
           </cell>
           </cells>
         
@@ -624,6 +624,144 @@
           </cell>
           <cell>
             125 4 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            129 3 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            132 3 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            135 3 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            138 3 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            141 3 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            144 3 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            147 3 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            150 3 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            153 3 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            156 5 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            161 2 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            163 2 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            165 2 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            167 2 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            169 2 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            171 2 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            173 2 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            175 2 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            177 2 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            179 2 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            181 2 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            183 2 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            185 2 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            187 2 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            189 3 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            192 3 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            195 3 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            198 3 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            201 3 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            204 3 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            207 3 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            210 3 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            213 5 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            218 3 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            221 3 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            224 3 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            227 3 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            230 3 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            233 3 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            236 3 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            239 3 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            242 3 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            245 3 <level id='5'/>"-"0 
+          </cell>
+          <cell>
+            248 3 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            251 3 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            254 4 <level id='4'/>"-"0 
           </cell>
           </cells>
         <fx>
@@ -1033,5 +1171,8 @@
     "| #2   11 Aug 19   11:15                |"
     "| #3   11 Aug 19   12:02                |"
     "| #4   17 Mar 24   15:07               samuel          |"
+    "| #5   21 Mar 24   17:36               samuel          |"
+    "| #6   22 Mar 24   00:38               samuel          |"
+    "| #7   26 Mar 24   06:16               samuel          |"
   </history>
   </tnz>

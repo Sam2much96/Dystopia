@@ -1,4 +1,4 @@
-<tnz framecount="66" version="71.0">
+<tnz framecount="162" version="71.0">
   <generator>
     "OpenToonz 1.4 (Morevna Edition)"
   </generator>
@@ -352,7 +352,7 @@
         "shot 39 background"
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 39/shot 39_background_coloured.png"
+          "$scenefolder/shot 39/shot 39 background.jpg"
         </path>
         
       </level>
@@ -448,7 +448,7 @@
         1_1 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 39/blast fx/1.png"
+          "$scenefolder/Blast & smoke fx.kra.png/file0000.png"
         </path>
         
       </level>
@@ -456,7 +456,7 @@
         2_1 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 39/blast fx/2.png"
+          "$scenefolder/Blast & smoke fx.kra.png/file0001.png"
         </path>
         
       </level>
@@ -464,7 +464,7 @@
         3_1 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 39/blast fx/3.png"
+          "$scenefolder/Blast & smoke fx.kra.png/file0002.png"
         </path>
         
       </level>
@@ -472,7 +472,7 @@
         4_1 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 39/blast fx/4.png"
+          "$scenefolder/Blast & smoke fx.kra.png/file0003.png"
         </path>
         
       </level>
@@ -480,7 +480,7 @@
         5_1 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 39/blast fx/5.png"
+          "$scenefolder/Blast & smoke fx.kra.png/file0004.png"
         </path>
         
       </level>
@@ -488,7 +488,7 @@
         6_1 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 39/blast fx/6.png"
+          "$scenefolder/Blast & smoke fx.kra.png/file0005.png"
         </path>
         
       </level>
@@ -496,7 +496,7 @@
         7_1 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 39/blast fx/7.png"
+          "$scenefolder/Blast & smoke fx.kra.png/file0006.png"
         </path>
         
       </level>
@@ -504,7 +504,7 @@
         8_1 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 39/blast fx/8.png"
+          "$scenefolder/Blast & smoke fx.kra.png/file0007.png"
         </path>
         
       </level>
@@ -512,7 +512,7 @@
         9_1 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 39/blast fx/9.png"
+          "$scenefolder/Blast & smoke fx.kra.png/file0008.png"
         </path>
         
       </level>
@@ -533,14 +533,6 @@
         
       </level>
       <level id='24'>
-        "man 2"
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "C:/Users/Shayla/Desktop/DYSTOPIA/Anime pilot- Chap 2 Money Heist/shot 39/man 2.png"
-        </path>
-        
-      </level>
-      <level id='25'>
         "man 2 animation"
         <info dpiType="image" premultiply="1"/>
         <path>
@@ -552,7 +544,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><level id='20'/><level id='21'/><level id='22'/><level id='23'/><level id='24'/><level id='25'/>
+        <level id='1'/><level id='2'/><level id='3'/><level id='4'/><level id='5'/><level id='6'/><level id='7'/><level id='8'/><level id='9'/><level id='10'/><level id='11'/><level id='12'/><level id='13'/><level id='14'/><level id='15'/><level id='16'/><level id='17'/><level id='18'/><level id='19'/><level id='20'/><level id='21'/><level id='22'/><level id='23'/><level id='24'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -560,18 +552,18 @@
     </levelSet>
   <xsheet>
     <columns>
-      <levelColumn id='26'>
+      <levelColumn id='25'>
         
         <status>
           0 
         </status>
         <cells>
           <cell>
-            0 66 <level id='1'/>"-"0 
+            0 162 <level id='1'/>"-"0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='27'>
+          <Toonz_columnFx id='26'>
             
             <params>
               </params>
@@ -598,7 +590,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='28'>
+      <levelColumn id='27'>
         
         <status>
           0 
@@ -609,7 +601,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='29'>
+          <Toonz_columnFx id='28'>
             
             <params>
               </params>
@@ -636,7 +628,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='30'>
+      <levelColumn id='29'>
         
         <status>
           0 
@@ -677,7 +669,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='31'>
+          <Toonz_columnFx id='30'>
             
             <params>
               </params>
@@ -704,7 +696,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='32'>
+      <levelColumn id='31'>
         
         <status>
           0 
@@ -757,7 +749,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='33'>
+          <Toonz_columnFx id='32'>
             
             <params>
               </params>
@@ -784,7 +776,7 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='34'>
+      <levelColumn id='33'>
         
         <status>
           0 
@@ -795,7 +787,7 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='35'>
+          <Toonz_columnFx id='34'>
             
             <params>
               </params>
@@ -822,10 +814,10 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='36'>
+      <levelColumn id='35'>
         
         <status>
-          0 
+          1 
         </status>
         <cells>
           <cell>
@@ -833,14 +825,14 @@
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='37'>
+          <Toonz_columnFx id='36'>
             
             <params>
               </params>
             <ports>
               </ports>
             <dagNodePos>
-              24963 24766 
+              24813 24748 
             </dagNodePos>
             <numberId>
               0 
@@ -860,81 +852,81 @@
         </fx>
         
       </levelColumn>
-      <levelColumn id='38'>
+      <levelColumn id='37'>
         
         <status>
-          0 
+          1 
         </status>
         <cells>
           <cell>
-            0 3 <level id='25'/>0001 0 
+            0 3 <level id='24'/>0001 0 
           </cell>
           <cell>
-            3 3 <level id='25'/>0002 0 
+            3 3 <level id='24'/>0002 0 
           </cell>
           <cell>
-            6 3 <level id='25'/>0003 0 
+            6 3 <level id='24'/>0003 0 
           </cell>
           <cell>
-            9 3 <level id='25'/>0004 0 
+            9 3 <level id='24'/>0004 0 
           </cell>
           <cell>
-            12 3 <level id='25'/>0003 0 
+            12 3 <level id='24'/>0003 0 
           </cell>
           <cell>
-            15 3 <level id='25'/>0002 0 
+            15 3 <level id='24'/>0002 0 
           </cell>
           <cell>
-            18 3 <level id='25'/>0001 0 
+            18 3 <level id='24'/>0001 0 
           </cell>
           <cell>
-            21 3 <level id='25'/>0002 0 
+            21 3 <level id='24'/>0002 0 
           </cell>
           <cell>
-            24 3 <level id='25'/>0003 0 
+            24 3 <level id='24'/>0003 0 
           </cell>
           <cell>
-            27 3 <level id='25'/>0004 0 
+            27 3 <level id='24'/>0004 0 
           </cell>
           <cell>
-            30 3 <level id='25'/>0003 0 
+            30 3 <level id='24'/>0003 0 
           </cell>
           <cell>
-            33 3 <level id='25'/>0002 0 
+            33 3 <level id='24'/>0002 0 
           </cell>
           <cell>
-            36 3 <level id='25'/>0001 0 
+            36 3 <level id='24'/>0001 0 
           </cell>
           <cell>
-            39 3 <level id='25'/>0002 0 
+            39 3 <level id='24'/>0002 0 
           </cell>
           <cell>
-            42 3 <level id='25'/>0003 0 
+            42 3 <level id='24'/>0003 0 
           </cell>
           <cell>
-            45 3 <level id='25'/>0004 0 
+            45 3 <level id='24'/>0004 0 
           </cell>
           <cell>
-            48 3 <level id='25'/>0003 0 
+            48 3 <level id='24'/>0003 0 
           </cell>
           <cell>
-            51 3 <level id='25'/>0002 0 
+            51 3 <level id='24'/>0002 0 
           </cell>
           <cell>
-            54 3 <level id='25'/>0003 0 
+            54 3 <level id='24'/>0003 0 
           </cell>
           <cell>
-            57 3 <level id='25'/>0004 0 
+            57 3 <level id='24'/>0004 0 
           </cell>
           <cell>
-            60 3 <level id='25'/>0003 0 
+            60 3 <level id='24'/>0003 0 
           </cell>
           <cell>
-            63 3 <level id='25'/>0002 0 
+            63 3 <level id='24'/>0002 0 
           </cell>
           </cells>
         <fx>
-          <Toonz_columnFx id='39'>
+          <Toonz_columnFx id='38'>
             
             <params>
               </params>
@@ -1020,6 +1012,18 @@
               </prev>
               52 0.271109 
             </L>
+            <L>
+              <prev>
+                0.246182 
+              </prev>
+              65 0.246182 
+            </L>
+            <L>
+              <prev>
+                0.246182 
+              </prev>
+              149 0.246182 
+            </L>
             </keyframes>
           </x>
         <y>
@@ -1066,6 +1070,18 @@
               </prev>
               52 -1.83728 
             </L>
+            <L>
+              <prev>
+                -1.81235 
+              </prev>
+              65 -1.81235 
+            </L>
+            <L>
+              <prev>
+                1.95159 
+              </prev>
+              149 1.95159 
+            </L>
             </keyframes>
           </y>
         <sx>
@@ -1084,7 +1100,7 @@
           </default>
           <keyframes>
             <L>
-              0 1.2603 
+              0 1.2886 
             </L>
             </keyframes>
           </sc>
@@ -1152,6 +1168,26 @@
         <status>
           0 
         </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              149 0 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              149 0 
+            </L>
+            </keyframes>
+          </y>
         <sx>
           <default>
             1 
@@ -1174,6 +1210,9 @@
       <pegbar id="Col2">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
+        <name>
+          "glass crack"
+        </name>
         <isOpened>
           0 
         </isOpened>
@@ -1501,44 +1540,7 @@
     <fxnodes>
       <internal>
         <fxnode>
-          <STD_blurFx id='40'>
-            
-            <params>
-              <value>
-                <default>
-                  6.29921 
-                </default>
-                </value>
-              <useSSE>
-                1 1 
-              </useSSE>
-              </params>
-            <ports>
-              <Source>
-                <Toonz_columnFx id='31'/>
-              </Source>
-              </ports>
-            <dagNodePos>
-              24967 24683 
-            </dagNodePos>
-            <numberId>
-              1 
-            </numberId>
-            <name>
-              Blur01 
-            </name>
-            <fxId>
-              Blur01 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </STD_blurFx>
-          
-        </fxnode>
-        <fxnode>
-          <STD_glowFx id='41'>
+          <STD_glowFx id='39'>
             
             <params>
               <value>
@@ -1581,7 +1583,41 @@
               </params>
             <ports>
               <Light>
-                <STD_blurFx id='40'/>
+                <STD_blurFx id='40'>
+                  
+                  <params>
+                    <value>
+                      <default>
+                        6.29921 
+                      </default>
+                      </value>
+                    <useSSE>
+                      1 1 
+                    </useSSE>
+                    </params>
+                  <ports>
+                    <Source>
+                      <Toonz_columnFx id='30'/>
+                    </Source>
+                    </ports>
+                  <dagNodePos>
+                    24967 24683 
+                  </dagNodePos>
+                  <numberId>
+                    1 
+                  </numberId>
+                  <name>
+                    Blur01 
+                  </name>
+                  <fxId>
+                    Blur01 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_blurFx>
+                
               </Light>
               <Source>
                 <STD_blurFx id='40'/>
@@ -1604,6 +1640,85 @@
             </opened>
             
           </STD_glowFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_bodyHighLightFx id='41'>
+            
+            <params>
+              <mode>
+                0 
+              </mode>
+              <point>
+                <x>
+                  <default>
+                    10 
+                  </default>
+                  </x>
+                <y>
+                  <default>
+                    10 
+                  </default>
+                  </y>
+                </point>
+              <transparency>
+                <default>
+                  0.799 
+                </default>
+                </transparency>
+              <blur>
+                <default>
+                  2 
+                </default>
+                </blur>
+              <color>
+                <red>
+                  <default>
+                    0.976471 
+                  </default>
+                  </red>
+                <green>
+                  <default>
+                    0.27451 
+                  </default>
+                  </green>
+                <blue>
+                  <default>
+                    0.262745 
+                  </default>
+                  </blue>
+                <matte>
+                  <default>
+                    1 
+                  </default>
+                  </matte>
+                </color>
+              <invert>
+                0 0 
+              </invert>
+              </params>
+            <ports>
+              <Source>
+                <Toonz_columnFx id='36'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25014 24770 
+            </dagNodePos>
+            <numberId>
+              1 
+            </numberId>
+            <name>
+              BodyHighlight01 
+            </name>
+            <fxId>
+              BodyHighlight01 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_bodyHighLightFx>
           
         </fxnode>
         <fxnode>
@@ -2805,7 +2920,7 @@
               </params>
             <ports>
               <Source>
-                <Toonz_columnFx id='27'/>
+                <Toonz_columnFx id='26'/>
               </Source>
               </ports>
             <dagNodePos>
@@ -2828,35 +2943,82 @@
           
         </fxnode>
         <fxnode>
-          <STD_toneCurveFx id='112'>
+          <STD_backlitFx id='112'>
+            
+            <params>
+              <value>
+                <default>
+                  5 
+                </default>
+                </value>
+              <color>
+                <red>
+                  <default>
+                    1 
+                  </default>
+                  </red>
+                <green>
+                  <default>
+                    1 
+                  </default>
+                  </green>
+                <blue>
+                  <default>
+                    1 
+                  </default>
+                  </blue>
+                <matte>
+                  <default>
+                    1 
+                  </default>
+                  </matte>
+                </color>
+              <fade>
+                <default>
+                  0 
+                </default>
+                </fade>
+              </params>
+            <ports>
+              <Light>
+                <Toonz_columnFx id='38'/>
+              </Light>
+              <Source>
+                <Toonz_columnFx id='38'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              24832 24993 
+            </dagNodePos>
+            <numberId>
+              1 
+            </numberId>
+            <name>
+              Backlit01 
+            </name>
+            <fxId>
+              Backlit01 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_backlitFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_toneCurveFx id='113'>
             
             <params>
               <curve>
                 <tonecurve>
                   <redgreenbluealphachannel>
                     <point>
-                      <pointParam id='113'>
-                        
-                        <x>
-                          <default>
-                            -40 
-                          </default>
-                          </x>
-                        <y>
-                          <default>
-                            0 
-                          </default>
-                          </y>
-                        
-                      </pointParam>
-                      
-                    </point>
-                    <point>
                       <pointParam id='114'>
                         
                         <x>
                           <default>
-                            -20 
+                            -40 
                           </default>
                           </x>
                         <y>
@@ -2890,7 +3052,7 @@
                         
                         <x>
                           <default>
-                            0 
+                            -20 
                           </default>
                           </x>
                         <y>
@@ -2907,6 +3069,23 @@
                         
                         <x>
                           <default>
+                            0 
+                          </default>
+                          </x>
+                        <y>
+                          <default>
+                            0 
+                          </default>
+                          </y>
+                        
+                      </pointParam>
+                      
+                    </point>
+                    <point>
+                      <pointParam id='118'>
+                        
+                        <x>
+                          <default>
                             16 
                           </default>
                           </x>
@@ -2920,7 +3099,7 @@
                       
                     </point>
                     <point>
-                      <pointParam id='118'>
+                      <pointParam id='119'>
                         
                         <x>
                           <default>
@@ -2937,7 +3116,7 @@
                       
                     </point>
                     <point>
-                      <pointParam id='119'>
+                      <pointParam id='120'>
                         
                         <x>
                           <default>
@@ -2954,7 +3133,7 @@
                       
                     </point>
                     <point>
-                      <pointParam id='120'>
+                      <pointParam id='121'>
                         
                         <x>
                           <default>
@@ -2971,7 +3150,7 @@
                       
                     </point>
                     <point>
-                      <pointParam id='121'>
+                      <pointParam id='122'>
                         
                         <x>
                           <default>
@@ -2988,7 +3167,7 @@
                       
                     </point>
                     <point>
-                      <pointParam id='122'>
+                      <pointParam id='123'>
                         
                         <x>
                           <default>
@@ -3005,7 +3184,7 @@
                       
                     </point>
                     <point>
-                      <pointParam id='123'>
+                      <pointParam id='124'>
                         
                         <x>
                           <default>
@@ -3022,33 +3201,16 @@
                       
                     </point>
                     <point>
-                      <pointParam id='124'>
-                        
-                        <x>
-                          <default>
-                            239 
-                          </default>
-                          </x>
-                        <y>
-                          <default>
-                            239 
-                          </default>
-                          </y>
-                        
-                      </pointParam>
-                      
-                    </point>
-                    <point>
                       <pointParam id='125'>
                         
                         <x>
                           <default>
-                            255 
+                            239 
                           </default>
                           </x>
                         <y>
                           <default>
-                            255 
+                            239 
                           </default>
                           </y>
                         
@@ -3060,7 +3222,7 @@
                         
                         <x>
                           <default>
-                            275 
+                            255 
                           </default>
                           </x>
                         <y>
@@ -3094,6 +3256,23 @@
                         
                         <x>
                           <default>
+                            275 
+                          </default>
+                          </x>
+                        <y>
+                          <default>
+                            255 
+                          </default>
+                          </y>
+                        
+                      </pointParam>
+                      
+                    </point>
+                    <point>
+                      <pointParam id='129'>
+                        
+                        <x>
+                          <default>
                             295 
                           </default>
                           </x>
@@ -3109,28 +3288,11 @@
                     </redgreenbluealphachannel>
                   <redgreenbluechannel>
                     <point>
-                      <pointParam id='129'>
-                        
-                        <x>
-                          <default>
-                            -40 
-                          </default>
-                          </x>
-                        <y>
-                          <default>
-                            0 
-                          </default>
-                          </y>
-                        
-                      </pointParam>
-                      
-                    </point>
-                    <point>
                       <pointParam id='130'>
                         
                         <x>
                           <default>
-                            -20 
+                            -40 
                           </default>
                           </x>
                         <y>
@@ -3164,7 +3326,7 @@
                         
                         <x>
                           <default>
-                            0 
+                            -20 
                           </default>
                           </x>
                         <y>
@@ -3181,12 +3343,12 @@
                         
                         <x>
                           <default>
-                            16 
+                            0 
                           </default>
                           </x>
                         <y>
                           <default>
-                            16 
+                            0 
                           </default>
                           </y>
                         
@@ -3198,12 +3360,12 @@
                         
                         <x>
                           <default>
-                            239 
+                            16 
                           </default>
                           </x>
                         <y>
                           <default>
-                            239 
+                            16 
                           </default>
                           </y>
                         
@@ -3215,12 +3377,12 @@
                         
                         <x>
                           <default>
-                            255 
+                            239 
                           </default>
                           </x>
                         <y>
                           <default>
-                            255 
+                            239 
                           </default>
                           </y>
                         
@@ -3232,7 +3394,7 @@
                         
                         <x>
                           <default>
-                            275 
+                            255 
                           </default>
                           </x>
                         <y>
@@ -3266,6 +3428,23 @@
                         
                         <x>
                           <default>
+                            275 
+                          </default>
+                          </x>
+                        <y>
+                          <default>
+                            255 
+                          </default>
+                          </y>
+                        
+                      </pointParam>
+                      
+                    </point>
+                    <point>
+                      <pointParam id='139'>
+                        
+                        <x>
+                          <default>
                             295 
                           </default>
                           </x>
@@ -3281,28 +3460,11 @@
                     </redgreenbluechannel>
                   <redchannel>
                     <point>
-                      <pointParam id='139'>
-                        
-                        <x>
-                          <default>
-                            -40 
-                          </default>
-                          </x>
-                        <y>
-                          <default>
-                            0 
-                          </default>
-                          </y>
-                        
-                      </pointParam>
-                      
-                    </point>
-                    <point>
                       <pointParam id='140'>
                         
                         <x>
                           <default>
-                            -20 
+                            -40 
                           </default>
                           </x>
                         <y>
@@ -3336,7 +3498,7 @@
                         
                         <x>
                           <default>
-                            0 
+                            -20 
                           </default>
                           </x>
                         <y>
@@ -3353,12 +3515,12 @@
                         
                         <x>
                           <default>
-                            16 
+                            0 
                           </default>
                           </x>
                         <y>
                           <default>
-                            16 
+                            0 
                           </default>
                           </y>
                         
@@ -3370,12 +3532,12 @@
                         
                         <x>
                           <default>
-                            239 
+                            16 
                           </default>
                           </x>
                         <y>
                           <default>
-                            239 
+                            16 
                           </default>
                           </y>
                         
@@ -3387,12 +3549,12 @@
                         
                         <x>
                           <default>
-                            255 
+                            239 
                           </default>
                           </x>
                         <y>
                           <default>
-                            255 
+                            239 
                           </default>
                           </y>
                         
@@ -3404,7 +3566,7 @@
                         
                         <x>
                           <default>
-                            275 
+                            255 
                           </default>
                           </x>
                         <y>
@@ -3438,6 +3600,23 @@
                         
                         <x>
                           <default>
+                            275 
+                          </default>
+                          </x>
+                        <y>
+                          <default>
+                            255 
+                          </default>
+                          </y>
+                        
+                      </pointParam>
+                      
+                    </point>
+                    <point>
+                      <pointParam id='149'>
+                        
+                        <x>
+                          <default>
                             295 
                           </default>
                           </x>
@@ -3453,28 +3632,11 @@
                     </redchannel>
                   <greenchannel>
                     <point>
-                      <pointParam id='149'>
-                        
-                        <x>
-                          <default>
-                            -40 
-                          </default>
-                          </x>
-                        <y>
-                          <default>
-                            0 
-                          </default>
-                          </y>
-                        
-                      </pointParam>
-                      
-                    </point>
-                    <point>
                       <pointParam id='150'>
                         
                         <x>
                           <default>
-                            -20 
+                            -40 
                           </default>
                           </x>
                         <y>
@@ -3508,7 +3670,7 @@
                         
                         <x>
                           <default>
-                            0 
+                            -20 
                           </default>
                           </x>
                         <y>
@@ -3525,12 +3687,12 @@
                         
                         <x>
                           <default>
-                            16 
+                            0 
                           </default>
                           </x>
                         <y>
                           <default>
-                            16 
+                            0 
                           </default>
                           </y>
                         
@@ -3542,12 +3704,12 @@
                         
                         <x>
                           <default>
-                            239 
+                            16 
                           </default>
                           </x>
                         <y>
                           <default>
-                            239 
+                            16 
                           </default>
                           </y>
                         
@@ -3559,12 +3721,12 @@
                         
                         <x>
                           <default>
-                            255 
+                            239 
                           </default>
                           </x>
                         <y>
                           <default>
-                            255 
+                            239 
                           </default>
                           </y>
                         
@@ -3576,7 +3738,7 @@
                         
                         <x>
                           <default>
-                            275 
+                            255 
                           </default>
                           </x>
                         <y>
@@ -3610,6 +3772,23 @@
                         
                         <x>
                           <default>
+                            275 
+                          </default>
+                          </x>
+                        <y>
+                          <default>
+                            255 
+                          </default>
+                          </y>
+                        
+                      </pointParam>
+                      
+                    </point>
+                    <point>
+                      <pointParam id='159'>
+                        
+                        <x>
+                          <default>
                             295 
                           </default>
                           </x>
@@ -3625,28 +3804,11 @@
                     </greenchannel>
                   <bluechannel>
                     <point>
-                      <pointParam id='159'>
-                        
-                        <x>
-                          <default>
-                            -40 
-                          </default>
-                          </x>
-                        <y>
-                          <default>
-                            0 
-                          </default>
-                          </y>
-                        
-                      </pointParam>
-                      
-                    </point>
-                    <point>
                       <pointParam id='160'>
                         
                         <x>
                           <default>
-                            -20 
+                            -40 
                           </default>
                           </x>
                         <y>
@@ -3680,7 +3842,7 @@
                         
                         <x>
                           <default>
-                            0 
+                            -20 
                           </default>
                           </x>
                         <y>
@@ -3697,12 +3859,12 @@
                         
                         <x>
                           <default>
-                            16 
+                            0 
                           </default>
                           </x>
                         <y>
                           <default>
-                            16 
+                            0 
                           </default>
                           </y>
                         
@@ -3714,12 +3876,12 @@
                         
                         <x>
                           <default>
-                            239 
+                            16 
                           </default>
                           </x>
                         <y>
                           <default>
-                            239 
+                            16 
                           </default>
                           </y>
                         
@@ -3731,12 +3893,12 @@
                         
                         <x>
                           <default>
-                            255 
+                            239 
                           </default>
                           </x>
                         <y>
                           <default>
-                            255 
+                            239 
                           </default>
                           </y>
                         
@@ -3748,7 +3910,7 @@
                         
                         <x>
                           <default>
-                            275 
+                            255 
                           </default>
                           </x>
                         <y>
@@ -3782,6 +3944,23 @@
                         
                         <x>
                           <default>
+                            275 
+                          </default>
+                          </x>
+                        <y>
+                          <default>
+                            255 
+                          </default>
+                          </y>
+                        
+                      </pointParam>
+                      
+                    </point>
+                    <point>
+                      <pointParam id='169'>
+                        
+                        <x>
+                          <default>
                             295 
                           </default>
                           </x>
@@ -3797,28 +3976,11 @@
                     </bluechannel>
                   <alphachannel>
                     <point>
-                      <pointParam id='169'>
-                        
-                        <x>
-                          <default>
-                            -40 
-                          </default>
-                          </x>
-                        <y>
-                          <default>
-                            0 
-                          </default>
-                          </y>
-                        
-                      </pointParam>
-                      
-                    </point>
-                    <point>
                       <pointParam id='170'>
                         
                         <x>
                           <default>
-                            -20 
+                            -40 
                           </default>
                           </x>
                         <y>
@@ -3852,7 +4014,7 @@
                         
                         <x>
                           <default>
-                            0 
+                            -20 
                           </default>
                           </x>
                         <y>
@@ -3869,12 +4031,12 @@
                         
                         <x>
                           <default>
-                            16 
+                            0 
                           </default>
                           </x>
                         <y>
                           <default>
-                            16 
+                            0 
                           </default>
                           </y>
                         
@@ -3886,12 +4048,12 @@
                         
                         <x>
                           <default>
-                            239 
+                            16 
                           </default>
                           </x>
                         <y>
                           <default>
-                            239 
+                            16 
                           </default>
                           </y>
                         
@@ -3903,12 +4065,12 @@
                         
                         <x>
                           <default>
-                            255 
+                            239 
                           </default>
                           </x>
                         <y>
                           <default>
-                            255 
+                            239 
                           </default>
                           </y>
                         
@@ -3920,7 +4082,7 @@
                         
                         <x>
                           <default>
-                            275 
+                            255 
                           </default>
                           </x>
                         <y>
@@ -3954,6 +4116,23 @@
                         
                         <x>
                           <default>
+                            275 
+                          </default>
+                          </x>
+                        <y>
+                          <default>
+                            255 
+                          </default>
+                          </y>
+                        
+                      </pointParam>
+                      
+                    </point>
+                    <point>
+                      <pointParam id='179'>
+                        
+                        <x>
+                          <default>
                             295 
                           </default>
                           </x>
@@ -3975,68 +4154,7 @@
               </params>
             <ports>
               <Source>
-                <STD_backlitFx id='179'>
-                  
-                  <params>
-                    <value>
-                      <default>
-                        5 
-                      </default>
-                      </value>
-                    <color>
-                      <red>
-                        <default>
-                          1 
-                        </default>
-                        </red>
-                      <green>
-                        <default>
-                          1 
-                        </default>
-                        </green>
-                      <blue>
-                        <default>
-                          1 
-                        </default>
-                        </blue>
-                      <matte>
-                        <default>
-                          1 
-                        </default>
-                        </matte>
-                      </color>
-                    <fade>
-                      <default>
-                        0 
-                      </default>
-                      </fade>
-                    </params>
-                  <ports>
-                    <Light>
-                      <Toonz_columnFx id='39'/>
-                    </Light>
-                    <Source>
-                      <Toonz_columnFx id='39'/>
-                    </Source>
-                    </ports>
-                  <dagNodePos>
-                    24832 24993 
-                  </dagNodePos>
-                  <numberId>
-                    1 
-                  </numberId>
-                  <name>
-                    Backlit01 
-                  </name>
-                  <fxId>
-                    Backlit01 
-                  </fxId>
-                  <opened>
-                    0 
-                  </opened>
-                  
-                </STD_backlitFx>
-                
+                <STD_backlitFx id='112'/>
               </Source>
               </ports>
             <dagNodePos>
@@ -4057,9 +4175,6 @@
             
           </STD_toneCurveFx>
           
-        </fxnode>
-        <fxnode>
-          <STD_backlitFx id='179'/>
         </fxnode>
         <fxnode>
           <STD_channelMixerFx id='180'>
@@ -4148,7 +4263,7 @@
               </params>
             <ports>
               <Source>
-                <Toonz_columnFx id='29'/>
+                <Toonz_columnFx id='28'/>
               </Source>
               </ports>
             <dagNodePos>
@@ -4171,110 +4286,28 @@
           
         </fxnode>
         <fxnode>
-          <STD_bodyHighLightFx id='181'>
-            
-            <params>
-              <mode>
-                0 
-              </mode>
-              <point>
-                <x>
-                  <default>
-                    10 
-                  </default>
-                  </x>
-                <y>
-                  <default>
-                    10 
-                  </default>
-                  </y>
-                </point>
-              <transparency>
-                <default>
-                  0.799 
-                </default>
-                </transparency>
-              <blur>
-                <default>
-                  2 
-                </default>
-                </blur>
-              <color>
-                <red>
-                  <default>
-                    0.976471 
-                  </default>
-                  </red>
-                <green>
-                  <default>
-                    0.27451 
-                  </default>
-                  </green>
-                <blue>
-                  <default>
-                    0.262745 
-                  </default>
-                  </blue>
-                <matte>
-                  <default>
-                    1 
-                  </default>
-                  </matte>
-                </color>
-              <invert>
-                0 0 
-              </invert>
-              </params>
-            <ports>
-              <Source>
-                <Toonz_columnFx id='37'/>
-              </Source>
-              </ports>
-            <dagNodePos>
-              25113 24766 
-            </dagNodePos>
-            <numberId>
-              1 
-            </numberId>
-            <name>
-              BodyHighlight01 
-            </name>
-            <fxId>
-              BodyHighlight01 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </STD_bodyHighLightFx>
-          
+          <STD_blurFx id='40'/>
         </fxnode>
         </internal>
       <terminal>
         <fxnode>
-          <STD_glowFx id='41'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='33'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='35'/>
+          <STD_glowFx id='39'/>
         </fxnode>
         <fxnode>
           <STD_toneCurveFx id='42'/>
         </fxnode>
         <fxnode>
-          <STD_toneCurveFx id='112'/>
-        </fxnode>
-        <fxnode>
           <STD_channelMixerFx id='180'/>
         </fxnode>
         <fxnode>
-          <STD_bodyHighLightFx id='181'/>
+          <Toonz_columnFx id='32'/>
+        </fxnode>
+        <fxnode>
+          <Toonz_columnFx id='34'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='182'>
+        <Toonz_xsheetFx id='181'>
           
           <params>
             </params>
@@ -4300,13 +4333,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='183'>
+        <Toonz_outputFx id='182'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='182'/>
+              <Toonz_xsheetFx id='181'/>
             </source>
             </ports>
           <dagNodePos>
@@ -4343,5 +4376,9 @@
     "| #6   10 Feb 22   13:54                |"
     "| #7   10 Feb 22   14:02                |"
     "| #8   10 Feb 22   14:08                |"
+    "| #9   26 Mar 24   03:25               samuel          |"
+    "| #10  26 Mar 24   04:01               samuel          |"
+    "| #11  26 Mar 24   17:06               samuel          |"
+    "| #12  26 Mar 24   17:25               samuel          |"
   </history>
   </tnz>
