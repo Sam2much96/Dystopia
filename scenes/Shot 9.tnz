@@ -508,6 +508,216 @@
         </fx>
         
       </levelColumn>
+      <zeraryFxColumn id='11'>
+        <Toonz_zeraryColumnFx id='12'>
+          <STD_lightSpotFx id='13'>
+            
+            <params>
+              <softness>
+                <default>
+                  1 
+                </default>
+                </softness>
+              <a>
+                <default>
+                  200 
+                </default>
+                <keyframes>
+                  <L>
+                    0 66.3733 
+                  </L>
+                  </keyframes>
+                </a>
+              <b>
+                <default>
+                  100 
+                </default>
+                <keyframes>
+                  <L>
+                    0 30.5672 
+                  </L>
+                  </keyframes>
+                </b>
+              <color>
+                <red>
+                  <default>
+                    0.956863 
+                  </default>
+                  </red>
+                <green>
+                  <default>
+                    0.572549 
+                  </default>
+                  </green>
+                <blue>
+                  <default>
+                    0 
+                  </default>
+                  </blue>
+                <matte>
+                  <default>
+                    1 
+                  </default>
+                  </matte>
+                </color>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25338 24790 
+            </dagNodePos>
+            <numberId>
+              2 
+            </numberId>
+            <name>
+              LightSpot02 
+            </name>
+            <fxId>
+              LightSpot02 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_lightSpotFx>
+          
+          <params>
+            </params>
+          <ports>
+            </ports>
+          <dagNodePos>
+            25042 24773 
+          </dagNodePos>
+          <numberId>
+            0 
+          </numberId>
+          <name>
+            ZeraryColumn 
+          </name>
+          <fxId>
+            "" 
+          </fxId>
+          <opened>
+            0 
+          </opened>
+          
+        </Toonz_zeraryColumnFx>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 174 
+          </cell>
+          </cells>
+        
+      </zeraryFxColumn>
+      <zeraryFxColumn id='14'>
+        <Toonz_zeraryColumnFx id='15'>
+          <STD_lightSpotFx id='16'>
+            
+            <params>
+              <softness>
+                <default>
+                  1 
+                </default>
+                </softness>
+              <a>
+                <default>
+                  200 
+                </default>
+                <keyframes>
+                  <L>
+                    0 54.4891 
+                  </L>
+                  </keyframes>
+                </a>
+              <b>
+                <default>
+                  100 
+                </default>
+                <keyframes>
+                  <L>
+                    0 40.8163 
+                  </L>
+                  </keyframes>
+                </b>
+              <color>
+                <red>
+                  <default>
+                    1 
+                  </default>
+                  </red>
+                <green>
+                  <default>
+                    0.721569 
+                  </default>
+                  </green>
+                <blue>
+                  <default>
+                    0.243137 
+                  </default>
+                  </blue>
+                <matte>
+                  <default>
+                    1 
+                  </default>
+                  </matte>
+                </color>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25131 24866 
+            </dagNodePos>
+            <numberId>
+              1 
+            </numberId>
+            <name>
+              LightSpot01 
+            </name>
+            <fxId>
+              LightSpot01 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_lightSpotFx>
+          
+          <params>
+            </params>
+          <ports>
+            </ports>
+          <dagNodePos>
+            25041 24848 
+          </dagNodePos>
+          <numberId>
+            0 
+          </numberId>
+          <name>
+            ZeraryColumn 
+          </name>
+          <fxId>
+            "" 
+          </fxId>
+          <opened>
+            0 
+          </opened>
+          
+        </Toonz_zeraryColumnFx>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 174 
+          </cell>
+          </cells>
+        
+      </zeraryFxColumn>
       
     </columns>
     <pegbars>
@@ -697,21 +907,239 @@
           24803 25385 
         </nodePos>
         </pegbar>
+      <pegbar id="Col3">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -3.94974 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 1.02787 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25400 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col4">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 3.93779 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 1.05075 
+            </L>
+            </keyframes>
+          </y>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25450 
+        </nodePos>
+        </pegbar>
       <grid_dimension>
         1 
       </grid_dimension>
       </pegbars>
     <fxnodes>
+      <internal>
+        <fxnode>
+          <STD_fadeFx id='17'>
+            
+            <params>
+              <value>
+                <default>
+                  70 
+                </default>
+                </value>
+              </params>
+            <ports>
+              <Source>
+                <STD_inoColorDodgeFx id='18'>
+                  
+                  <params>
+                    <opacity>
+                      <default>
+                        1 
+                      </default>
+                      </opacity>
+                    <clipping_mask>
+                      1 1 
+                    </clipping_mask>
+                    </params>
+                  <ports>
+                    <Back>
+                      <Toonz_zeraryColumnFx id='12'/>
+                    </Back>
+                    <Fore>
+                      <Toonz_zeraryColumnFx id='15'/>
+                    </Fore>
+                    </ports>
+                  <dagNodePos>
+                    25268 24865 
+                  </dagNodePos>
+                  <numberId>
+                    2 
+                  </numberId>
+                  <name>
+                    ColorDodgeIno02 
+                  </name>
+                  <fxId>
+                    ColorDodgeIno02 
+                  </fxId>
+                  <opened>
+                    0 
+                  </opened>
+                  
+                </STD_inoColorDodgeFx>
+                
+              </Source>
+              </ports>
+            <dagNodePos>
+              25418 24865 
+            </dagNodePos>
+            <numberId>
+              1 
+            </numberId>
+            <name>
+              Transparency01 
+            </name>
+            <fxId>
+              Transparency01 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_fadeFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_blurFx id='19'>
+            
+            <params>
+              <value>
+                <default>
+                  41.9947 
+                </default>
+                </value>
+              <useSSE>
+                1 1 
+              </useSSE>
+              </params>
+            <ports>
+              <Source>
+                <STD_fadeFx id='17'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25568 24865 
+            </dagNodePos>
+            <numberId>
+              1 
+            </numberId>
+            <name>
+              Blur01 
+            </name>
+            <fxId>
+              Blur01 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_blurFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_inoColorDodgeFx id='18'/>
+        </fxnode>
+        </internal>
       <terminal>
+        <fxnode>
+          <Toonz_columnFx id='8'/>
+        </fxnode>
         <fxnode>
           <Toonz_columnFx id='10'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='8'/>
+          <STD_blurFx id='19'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='11'>
+        <Toonz_xsheetFx id='20'>
           
           <params>
             </params>
@@ -737,13 +1165,13 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='12'>
+        <Toonz_outputFx id='21'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='11'/>
+              <Toonz_xsheetFx id='20'/>
             </source>
             </ports>
           <dagNodePos>
@@ -753,7 +1181,7 @@
             0 
           </numberId>
           <name>
-            Output 
+            OutputFx 
           </name>
           <fxId>
             "" 
@@ -774,5 +1202,6 @@
     "| #    DATE:       Time:   MACHINE:    USER:           |"
     "| #1   24 Mar 24   14:00               samuel          |"
     "| #2   26 Mar 24   09:59               samuel          |"
+    "| #3   21 Jun 24   13:12               samuel          |"
   </history>
   </tnz>

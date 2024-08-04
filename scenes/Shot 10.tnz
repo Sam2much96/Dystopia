@@ -1,4 +1,4 @@
-<tnz framecount="30" version="71.0">
+<tnz framecount="27" version="71.0">
   <generator>
     "OpenToonz 1.4 (Morevna Edition)"
   </generator>
@@ -114,7 +114,7 @@
         </output>
       <output name="preview">
         <range>
-          0 29 
+          0 26 
         </range>
         <step>
           1 
@@ -343,138 +343,122 @@
   <levelSet>
     <levels>
       <level id='1'>
-        "Shot 10 background"
+        file0000 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/Shot 10 background.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0000.png"
         </path>
         
       </level>
       <level id='2'>
-        aarin 
+        file0001 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/aarin/aarin_.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0001.png"
         </path>
         
       </level>
       <level id='3'>
-        b1 
+        file0002 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/bead fx/b1.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0002.png"
         </path>
         
       </level>
       <level id='4'>
-        b2 
+        file0003 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/bead fx/b2.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0003.png"
         </path>
         
       </level>
       <level id='5'>
-        b3 
+        file0004 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/bead fx/b3.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0004.png"
         </path>
         
       </level>
       <level id='6'>
-        b4 
+        file0005 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/bead fx/b4.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0005.png"
         </path>
         
       </level>
       <level id='7'>
-        break_fx 
+        file0006 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/break_fx/break_fx.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0006.png"
         </path>
         
       </level>
       <level id='8'>
-        g1_coloured 
+        file0007 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/glass fx/g1_coloured.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0007.png"
         </path>
         
       </level>
       <level id='9'>
-        g2_coloured 
+        file0008 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/glass fx/g2_coloured.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0008.png"
         </path>
         
       </level>
       <level id='10'>
-        g3_coloured 
+        file0011 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/glass fx/g3_coloured.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0011.png"
         </path>
         
       </level>
       <level id='11'>
-        s1 
+        file0012 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/security guard/s1.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0012.png"
         </path>
         
       </level>
       <level id='12'>
-        s2 
+        file0013 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/security guard/s2.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0013.png"
         </path>
         
       </level>
       <level id='13'>
-        s3 
+        file0014 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/security guard/s3.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0014.png"
         </path>
         
       </level>
       <level id='14'>
-        s4 
+        file0015 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/security guard/s4.png"
+          "+scenes/shot 10/Shot 10.kra.png/file0015.png"
         </path>
         
       </level>
       <level id='15'>
-        s5 
+        file 
         <info dpiType="image" premultiply="1"/>
         <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/security guard/s5.png"
-        </path>
-        
-      </level>
-      <level id='16'>
-        s6 
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/security guard/s6.png"
-        </path>
-        
-      </level>
-      <level id='17'>
-        s7 
-        <info dpiType="image" premultiply="1"/>
-        <path>
-          "/home/samuel/Desktop/Anime pilot- Chap 2 Money Heist/shot 10/security guard/s7.png"
+          "+scenes/corporate-building-interior.blend.png/file..png"
         </path>
         
       </level>
@@ -482,7 +466,7 @@
     </levels>
     <folder name="Cast" type="default">
       <levels>
-        <level id='3'/><level id='6'/><level id='15'/><level id='5'/><level id='7'/><level id='2'/><level id='13'/><level id='17'/><level id='4'/><level id='9'/><level id='8'/><level id='10'/><level id='14'/><level id='16'/><level id='1'/><level id='12'/><level id='11'/>
+        <level id='12'/><level id='8'/><level id='4'/><level id='13'/><level id='10'/><level id='7'/><level id='15'/><level id='1'/><level id='2'/><level id='3'/><level id='5'/><level id='14'/><level id='6'/><level id='11'/><level id='9'/>
       </levels>
       </folder>
     <folder name="Audio">
@@ -490,6 +474,44 @@
     </levelSet>
   <xsheet>
     <columns>
+      <levelColumn id='16'>
+        
+        <status>
+          0 
+        </status>
+        <cells>
+          <cell>
+            0 27 <level id='15'/>0001 0 
+          </cell>
+          </cells>
+        <fx>
+          <Toonz_columnFx id='17'>
+            
+            <params>
+              </params>
+            <ports>
+              </ports>
+            <dagNodePos>
+              25005 25005 
+            </dagNodePos>
+            <numberId>
+              0 
+            </numberId>
+            <name>
+              LevelColumn 
+            </name>
+            <fxId>
+              "" 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </Toonz_columnFx>
+          
+        </fx>
+        
+      </levelColumn>
       <levelColumn id='18'>
         
         <status>
@@ -497,7 +519,31 @@
         </status>
         <cells>
           <cell>
-            0 30 <level id='1'/>"-"0 
+            0 3 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            3 3 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            6 3 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            9 3 <level id='4'/>"-"0 
+          </cell>
+          <cell>
+            12 3 <level id='3'/>"-"0 
+          </cell>
+          <cell>
+            15 3 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            18 3 <level id='1'/>"-"0 
+          </cell>
+          <cell>
+            21 3 <level id='2'/>"-"0 
+          </cell>
+          <cell>
+            24 3 <level id='3'/>"-"0 
           </cell>
           </cells>
         <fx>
@@ -507,6 +553,9 @@
               </params>
             <ports>
               </ports>
+            <dagNodePos>
+              25005 24955 
+            </dagNodePos>
             <numberId>
               0 
             </numberId>
@@ -532,43 +581,19 @@
         </status>
         <cells>
           <cell>
-            0 2 <level id='2'/>0001 0 
+            0 3 <level id='5'/>"-"0 
           </cell>
           <cell>
-            2 2 <level id='2'/>0002 0 
+            3 3 <level id='6'/>"-"0 
           </cell>
           <cell>
-            4 2 <level id='2'/>0003 0 
+            6 3 <level id='7'/>"-"0 
           </cell>
           <cell>
-            6 2 <level id='2'/>0004 0 
+            9 3 <level id='8'/>"-"0 
           </cell>
           <cell>
-            8 2 <level id='2'/>0003 0 
-          </cell>
-          <cell>
-            10 2 <level id='2'/>0002 0 
-          </cell>
-          <cell>
-            12 4 <level id='2'/>0001 0 
-          </cell>
-          <cell>
-            16 2 <level id='2'/>0002 0 
-          </cell>
-          <cell>
-            18 2 <level id='2'/>0003 0 
-          </cell>
-          <cell>
-            20 2 <level id='2'/>0004 0 
-          </cell>
-          <cell>
-            22 2 <level id='2'/>0003 0 
-          </cell>
-          <cell>
-            24 2 <level id='2'/>0002 0 
-          </cell>
-          <cell>
-            26 4 <level id='2'/>0001 0 
+            12 3 <level id='9'/>"-"0 
           </cell>
           </cells>
         <fx>
@@ -578,6 +603,9 @@
               </params>
             <ports>
               </ports>
+            <dagNodePos>
+              25005 24905 
+            </dagNodePos>
             <numberId>
               0 
             </numberId>
@@ -603,7 +631,25 @@
         </status>
         <cells>
           <cell>
-            24 6 <level id='7'/>"-"0 
+            0 4 <level id='10'/>"-"0 
+          </cell>
+          <cell>
+            4 4 <level id='11'/>"-"0 
+          </cell>
+          <cell>
+            8 4 <level id='12'/>"-"0 
+          </cell>
+          <cell>
+            12 4 <level id='13'/>"-"0 
+          </cell>
+          <cell>
+            16 4 <level id='14'/>"-"0 
+          </cell>
+          <cell>
+            20 4 <level id='10'/>"-"0 
+          </cell>
+          <cell>
+            24 3 <level id='11'/>"-"0 
           </cell>
           </cells>
         <fx>
@@ -613,6 +659,9 @@
               </params>
             <ports>
               </ports>
+            <dagNodePos>
+              25005 24855 
+            </dagNodePos>
             <numberId>
               0 
             </numberId>
@@ -638,13 +687,7 @@
         </status>
         <cells>
           <cell>
-            24 2 <level id='8'/>"-"0 
-          </cell>
-          <cell>
-            26 2 <level id='9'/>"-"0 
-          </cell>
-          <cell>
-            28 2 <level id='10'/>"-"0 
+            15 12 <level id='9'/>"-"0 
           </cell>
           </cells>
         <fx>
@@ -654,142 +697,9 @@
               </params>
             <ports>
               </ports>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='26'>
-        
-        <status>
-          0 
-        </status>
-        <cells>
-          <cell>
-            0 4 <level id='11'/>"-"0 
-          </cell>
-          <cell>
-            4 4 <level id='12'/>"-"0 
-          </cell>
-          <cell>
-            8 4 <level id='13'/>"-"0 
-          </cell>
-          <cell>
-            12 4 <level id='14'/>"-"0 
-          </cell>
-          <cell>
-            16 4 <level id='15'/>"-"0 
-          </cell>
-          <cell>
-            20 4 <level id='16'/>"-"0 
-          </cell>
-          <cell>
-            24 6 <level id='17'/>"-"0 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='27'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='28'>
-        
-        <status>
-          0 
-        </status>
-        <fx>
-          <Toonz_columnFx id='29'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
-            <numberId>
-              0 
-            </numberId>
-            <name>
-              LevelColumn 
-            </name>
-            <fxId>
-              "" 
-            </fxId>
-            <opened>
-              0 
-            </opened>
-            
-          </Toonz_columnFx>
-          
-        </fx>
-        
-      </levelColumn>
-      <levelColumn id='30'>
-        
-        <status>
-          0 
-        </status>
-        <cells>
-          <cell>
-            0 4 <level id='3'/>"-"0 
-          </cell>
-          <cell>
-            4 4 <level id='4'/>"-"0 
-          </cell>
-          <cell>
-            8 4 <level id='5'/>"-"0 
-          </cell>
-          <cell>
-            12 4 <level id='6'/>"-"0 
-          </cell>
-          <cell>
-            16 4 <level id='5'/>"-"0 
-          </cell>
-          <cell>
-            20 4 <level id='4'/>"-"0 
-          </cell>
-          <cell>
-            24 6 <level id='3'/>"-"0 
-          </cell>
-          </cells>
-        <fx>
-          <Toonz_columnFx id='31'>
-            
-            <params>
-              </params>
-            <ports>
-              </ports>
+            <dagNodePos>
+              24996 24759 
+            </dagNodePos>
             <numberId>
               0 
             </numberId>
@@ -829,13 +739,13 @@
           </default>
           <keyframes>
             <L>
-              0 0.0351725 
+              0 -0.0206223 
             </L>
             <L>
               <prev>
-                0.0703449 
+                0.82489 
               </prev>
-              29 0.0703449 
+              26 0.82489 
             </L>
             </keyframes>
           </x>
@@ -845,13 +755,13 @@
           </default>
           <keyframes>
             <L>
-              0 0.597932 
+              0 0.350578 
             </L>
             <L>
               <prev>
-                -0.386897 
+                0.577423 
               </prev>
-              29 -0.386897 
+              26 0.577423 
             </L>
             </keyframes>
           </y>
@@ -871,12 +781,12 @@
           </default>
           <keyframes>
             <L>
-              0 0.970655 
+              0 0.509169 
             </L>
             </keyframes>
           </sc>
         <nodePos>
-          1.234e+09 5.678e+09 
+          24500 25550 
         </nodePos>
         <camera>
           <cameraSize>
@@ -921,7 +831,7 @@
           </default>
           </sc>
         <nodePos>
-          1.234e+09 5.678e+09 
+          24500 25500 
         </nodePos>
         </pegbar>
       <pegbar id="Col1">
@@ -939,6 +849,38 @@
         <status>
           0 
         </status>
+        <x>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 1.07027 
+            </L>
+            <L>
+              <prev>
+                -0.882659 
+              </prev>
+              26 -0.882659 
+            </L>
+            </keyframes>
+          </x>
+        <y>
+          <default>
+            0 
+          </default>
+          <keyframes>
+            <L>
+              0 -0.222131 
+            </L>
+            <L>
+              <prev>
+                -0.301842 
+              </prev>
+              26 -0.301842 
+            </L>
+            </keyframes>
+          </y>
         <sx>
           <default>
             1 
@@ -955,12 +897,12 @@
           </default>
           <keyframes>
             <L>
-              0 1.92666 
+              0 0.654654 
             </L>
             </keyframes>
           </sc>
         <nodePos>
-          1.234e+09 5.678e+09 
+          24620 25500 
         </nodePos>
         </pegbar>
       <pegbar id="Col2">
@@ -978,86 +920,6 @@
         <status>
           0 
         </status>
-        <x>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 -1.30655 
-            </L>
-            <L>
-              <prev>
-                -1.30655 
-              </prev>
-              2 -1.30655 
-            </L>
-            <L>
-              <prev>
-                -1.19356 
-              </prev>
-              4 -1.19356 
-            </L>
-            <L>
-              <prev>
-                -1.19356 
-              </prev>
-              20 -1.19356 
-            </L>
-            <L>
-              <prev>
-                -0.784928 
-              </prev>
-              22 -0.784928 
-            </L>
-            <L>
-              <prev>
-                -1.305 
-              </prev>
-              24 -1.305 
-            </L>
-            </keyframes>
-          </x>
-        <y>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 -0.228646 
-            </L>
-            <L>
-              <prev>
-                -0.228646 
-              </prev>
-              2 -0.228646 
-            </L>
-            <L>
-              <prev>
-                -0.470572 
-              </prev>
-              4 -0.470572 
-            </L>
-            <L>
-              <prev>
-                -0.507721 
-              </prev>
-              20 -0.507721 
-            </L>
-            <L>
-              <prev>
-                -1.17639 
-              </prev>
-              22 -1.17639 
-            </L>
-            <L>
-              <prev>
-                -0.619166 
-              </prev>
-              24 -0.619166 
-            </L>
-            </keyframes>
-          </y>
         <sx>
           <default>
             1 
@@ -1072,26 +934,16 @@
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              0 1.59369 
-            </L>
-            <>
-              <prev>
-                1.59369 
-              </prev>
-              </>
-            </keyframes>
           </sc>
         <nodePos>
-          1.234e+09 5.678e+09 
+          24620 25450 
         </nodePos>
         </pegbar>
       <pegbar id="Col3">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <name>
-          break_fx 
+          security 
         </name>
         <isOpened>
           0 
@@ -1108,7 +960,13 @@
           </default>
           <keyframes>
             <L>
-              24 0.844139 
+              0 -0.068471 
+            </L>
+            <L>
+              <prev>
+                0.513533 
+              </prev>
+              14 0.513533 
             </L>
             </keyframes>
           </x>
@@ -1118,7 +976,13 @@
           </default>
           <keyframes>
             <L>
-              24 0.0351725 
+              0 0.0342355 
+            </L>
+            <L>
+              <prev>
+                0.30812 
+              </prev>
+              14 0.30812 
             </L>
             </keyframes>
           </y>
@@ -1136,182 +1000,12 @@
           <default>
             1 
           </default>
-          <keyframes>
-            <L>
-              24 1.70265 
-            </L>
-            </keyframes>
           </sc>
         <nodePos>
-          1.234e+09 5.678e+09 
+          24620 25400 
         </nodePos>
         </pegbar>
       <pegbar id="Col4">
-        <parent handle="B" id="Table" parentHandle="B">
-          </parent>
-        <name>
-          glass_fx 
-        </name>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          0 0 0 0 
-        </center>
-        <status>
-          0 
-        </status>
-        <sx>
-          <default>
-            1 
-          </default>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              24 0.516197 
-            </L>
-            </keyframes>
-          </sc>
-        <nodePos>
-          1.234e+09 5.678e+09 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col5">
-        <parent handle="B" id="Table" parentHandle="B">
-          </parent>
-        <name>
-          security_guard 
-        </name>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          0 0 0 0 
-        </center>
-        <status>
-          0 
-        </status>
-        <x>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 3.62302 
-            </L>
-            <L>
-              <prev>
-                4.24106 
-              </prev>
-              8 4.24106 
-            </L>
-            <L>
-              <prev>
-                4.02794 
-              </prev>
-              12 4.02794 
-            </L>
-            <L>
-              <prev>
-                4.81648 
-              </prev>
-              24 4.81648 
-            </L>
-            </keyframes>
-          </x>
-        <y>
-          <default>
-            0 
-          </default>
-          <keyframes>
-            <L>
-              0 -0.170495 
-            </L>
-            <L>
-              <prev>
-                -0.362302 
-              </prev>
-              8 -0.362302 
-            </L>
-            <L>
-              <prev>
-                -0.426237 
-              </prev>
-              12 -0.426237 
-            </L>
-            <L>
-              <prev>
-                -0.468861 
-              </prev>
-              24 -0.468861 
-            </L>
-            </keyframes>
-          </y>
-        <sx>
-          <default>
-            1 
-          </default>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          <keyframes>
-            <L>
-              0 0.416632 
-            </L>
-            </keyframes>
-          </sc>
-        <nodePos>
-          1.234e+09 5.678e+09 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col6">
-        <parent handle="B" id="Table" parentHandle="B">
-          </parent>
-        <isOpened>
-          0 
-        </isOpened>
-        <center>
-          0 0 0 0 
-        </center>
-        <status>
-          0 
-        </status>
-        <sx>
-          <default>
-            1 
-          </default>
-          </sx>
-        <sy>
-          <default>
-            1 
-          </default>
-          </sy>
-        <sc>
-          <default>
-            1 
-          </default>
-          </sc>
-        <nodePos>
-          1.234e+09 5.678e+09 
-        </nodePos>
-        </pegbar>
-      <pegbar id="Col7">
         <parent handle="B" id="Table" parentHandle="B">
           </parent>
         <name>
@@ -1326,31 +1020,53 @@
         <status>
           0 
         </status>
+        <sx>
+          <default>
+            1 
+          </default>
+          </sx>
+        <sy>
+          <default>
+            1 
+          </default>
+          </sy>
+        <sc>
+          <default>
+            1 
+          </default>
+          </sc>
+        <nodePos>
+          24620 25350 
+        </nodePos>
+        </pegbar>
+      <pegbar id="Col5">
+        <parent handle="B" id="Table" parentHandle="B">
+          </parent>
+        <name>
+          sec_tweens 
+        </name>
+        <isOpened>
+          0 
+        </isOpened>
+        <center>
+          0 0 0 0 
+        </center>
+        <status>
+          0 
+        </status>
         <x>
           <default>
             0 
           </default>
           <keyframes>
             <L>
-              0 0.364486 
+              15 0.342355 
             </L>
             <L>
               <prev>
-                -0.786354 
+                1.81031 
               </prev>
-              4 -0.786354 
-            </L>
-            <L>
-              <prev>
-                -0.786354 
-              </prev>
-              20 -0.786354 
-            </L>
-            <L>
-              <prev>
-                0.364486 
-              </prev>
-              25 0.364486 
+              26 1.81031 
             </L>
             </keyframes>
           </x>
@@ -1360,25 +1076,13 @@
           </default>
           <keyframes>
             <L>
-              0 -0.161994 
+              15 0.139411 
             </L>
             <L>
               <prev>
-                1.09541 
+                0.676232 
               </prev>
-              4 1.09541 
-            </L>
-            <L>
-              <prev>
-                1.09541 
-              </prev>
-              20 1.09541 
-            </L>
-            <L>
-              <prev>
-                -0.161994 
-              </prev>
-              25 -0.161994 
+              26 0.676232 
             </L>
             </keyframes>
           </y>
@@ -1398,18 +1102,18 @@
           </default>
           <keyframes>
             <L>
-              0 0.484344 
+              15 0.99823 
             </L>
             <L>
               <prev>
-                0.484344 
+                0.798751 
               </prev>
-              25 0.484344 
+              26 0.798751 
             </L>
             </keyframes>
           </sc>
         <nodePos>
-          1.234e+09 5.678e+09 
+          24620 25300 
         </nodePos>
         </pegbar>
       <grid_dimension>
@@ -1417,18 +1121,169 @@
       </grid_dimension>
       </pegbars>
     <fxnodes>
+      <internal>
+        <fxnode>
+          <STD_bodyHighLightFx id='26'>
+            
+            <params>
+              <mode>
+                0 
+              </mode>
+              <point>
+                <x>
+                  <default>
+                    4.19947 
+                  </default>
+                  </x>
+                <y>
+                  <default>
+                    4.19947 
+                  </default>
+                  </y>
+                </point>
+              <transparency>
+                <default>
+                  0.5 
+                </default>
+                </transparency>
+              <blur>
+                <default>
+                  2 
+                </default>
+                </blur>
+              <color>
+                <red>
+                  <default>
+                    1 
+                  </default>
+                  </red>
+                <green>
+                  <default>
+                    0.352941 
+                  </default>
+                  </green>
+                <blue>
+                  <default>
+                    0.352941 
+                  </default>
+                  </blue>
+                <matte>
+                  <default>
+                    1 
+                  </default>
+                  </matte>
+                </color>
+              <invert>
+                0 0 
+              </invert>
+              </params>
+            <ports>
+              <Source>
+                <Toonz_columnFx id='21'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25155 24855 
+            </dagNodePos>
+            <numberId>
+              2 
+            </numberId>
+            <name>
+              BodyHighlight02 
+            </name>
+            <fxId>
+              BodyHighlight02 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_bodyHighLightFx>
+          
+        </fxnode>
+        <fxnode>
+          <STD_bodyHighLightFx id='27'>
+            
+            <params>
+              <mode>
+                0 
+              </mode>
+              <point>
+                <x>
+                  <default>
+                    4.19947 
+                  </default>
+                  </x>
+                <y>
+                  <default>
+                    4.19947 
+                  </default>
+                  </y>
+                </point>
+              <transparency>
+                <default>
+                  0.5 
+                </default>
+                </transparency>
+              <blur>
+                <default>
+                  2 
+                </default>
+                </blur>
+              <color>
+                <red>
+                  <default>
+                    1 
+                  </default>
+                  </red>
+                <green>
+                  <default>
+                    0.423529 
+                  </default>
+                  </green>
+                <blue>
+                  <default>
+                    0.423529 
+                  </default>
+                  </blue>
+                <matte>
+                  <default>
+                    1 
+                  </default>
+                  </matte>
+                </color>
+              <invert>
+                0 0 
+              </invert>
+              </params>
+            <ports>
+              <Source>
+                <Toonz_columnFx id='19'/>
+              </Source>
+              </ports>
+            <dagNodePos>
+              25155 24905 
+            </dagNodePos>
+            <numberId>
+              1 
+            </numberId>
+            <name>
+              BodyHighlight01 
+            </name>
+            <fxId>
+              BodyHighlight01 
+            </fxId>
+            <opened>
+              0 
+            </opened>
+            
+          </STD_bodyHighLightFx>
+          
+        </fxnode>
+        </internal>
       <terminal>
         <fxnode>
-          <Toonz_columnFx id='31'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='29'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='27'/>
-        </fxnode>
-        <fxnode>
-          <Toonz_columnFx id='21'/>
+          <Toonz_columnFx id='17'/>
         </fxnode>
         <fxnode>
           <Toonz_columnFx id='23'/>
@@ -1437,16 +1292,22 @@
           <Toonz_columnFx id='25'/>
         </fxnode>
         <fxnode>
-          <Toonz_columnFx id='19'/>
+          <STD_bodyHighLightFx id='26'/>
+        </fxnode>
+        <fxnode>
+          <STD_bodyHighLightFx id='27'/>
         </fxnode>
         </terminal>
       <xsheet>
-        <Toonz_xsheetFx id='32'>
+        <Toonz_xsheetFx id='28'>
           
           <params>
             </params>
           <ports>
             </ports>
+          <dagNodePos>
+            25120 25000 
+          </dagNodePos>
           <numberId>
             0 
           </numberId>
@@ -1464,20 +1325,23 @@
         
       </xsheet>
       <output>
-        <Toonz_outputFx id='33'>
+        <Toonz_outputFx id='29'>
           
           <params>
             </params>
           <ports>
             <source>
-              <Toonz_xsheetFx id='32'/>
+              <Toonz_xsheetFx id='28'/>
             </source>
             </ports>
+          <dagNodePos>
+            25235 24995 
+          </dagNodePos>
           <numberId>
             0 
           </numberId>
           <name>
-            Output 
+            OutputFx 
           </name>
           <fxId>
             "" 
@@ -1496,6 +1360,6 @@
     </xsheet>
   <history>
     "| #    DATE:       Time:   MACHINE:    USER:           |"
-    "| #1   16 Feb 22   08:18                |"
+    "| #1   21 Jun 24   03:56               samuel          |"
   </history>
   </tnz>
