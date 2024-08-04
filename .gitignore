@@ -1,6 +1,9 @@
-# Render files
+# Ignonre Render files, Image and nSound files, backup files
 render/*
 *.webp
 *.png
 extras/sfx
 *.mp3
+*.txt
+*.bak
+*.blend1
